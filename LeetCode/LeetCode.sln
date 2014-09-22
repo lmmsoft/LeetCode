@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Template.txt = Template.txt
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Same Tree", "Same Tree\Same Tree.vcxproj", "{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -26,6 +28,10 @@ Global
 		{9DEFD639-A2A7-4BD9-9560-D15323C4DC6A}.Debug|Win32.Build.0 = Debug|Win32
 		{9DEFD639-A2A7-4BD9-9560-D15323C4DC6A}.Release|Win32.ActiveCfg = Release|Win32
 		{9DEFD639-A2A7-4BD9-9560-D15323C4DC6A}.Release|Win32.Build.0 = Release|Win32
+		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Debug|Win32.Build.0 = Debug|Win32
+		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Release|Win32.ActiveCfg = Release|Win32
+		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
