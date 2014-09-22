@@ -54,6 +54,5 @@ public:
 
 int main()
 {
-    Solution s;
     cout << endl;
 }
