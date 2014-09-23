@@ -27,3 +27,15 @@ int main()
     Solution s;
     cout << endl;
 }
+
+
+
+struct MyStruct
+{
+    int price, position;
+};
+
+int cmp(const MyStruct &a, const MyStruct &b)
+{
+    return a.price < b.price;
+}

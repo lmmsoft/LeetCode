@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{941A982E-3353-4335-87FF-111CEDD2B95A}</ProjectGuid>
-    <RootNamespace>ReverseInteger</RootNamespace>
+    <ProjectGuid>{3AF5ABC4-9099-4F22-B248-6F7332D8D331}</ProjectGuid>
+    <RootNamespace>BestTimetoBuyandSellStock</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Reverse Integer.cpp" />
+    <ClCompile Include="Best Time to Buy and Sell Stock.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

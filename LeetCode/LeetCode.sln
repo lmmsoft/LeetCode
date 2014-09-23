@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Same Tree", "Same Tree\Same Tree.vcxproj", "{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Integer", "Reverse Integer\Reverse Integer.vcxproj", "{941A982E-3353-4335-87FF-111CEDD2B95A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock.vcxproj", "{3AF5ABC4-9099-4F22-B248-6F7332D8D331}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -32,6 +36,14 @@ Global
 		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Debug|Win32.Build.0 = Debug|Win32
 		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Release|Win32.ActiveCfg = Release|Win32
 		{2D2E800F-99DE-4110-9F5C-A8B7255E5BC0}.Release|Win32.Build.0 = Release|Win32
+		{941A982E-3353-4335-87FF-111CEDD2B95A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{941A982E-3353-4335-87FF-111CEDD2B95A}.Debug|Win32.Build.0 = Debug|Win32
+		{941A982E-3353-4335-87FF-111CEDD2B95A}.Release|Win32.ActiveCfg = Release|Win32
+		{941A982E-3353-4335-87FF-111CEDD2B95A}.Release|Win32.Build.0 = Release|Win32
+		{3AF5ABC4-9099-4F22-B248-6F7332D8D331}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3AF5ABC4-9099-4F22-B248-6F7332D8D331}.Debug|Win32.Build.0 = Debug|Win32
+		{3AF5ABC4-9099-4F22-B248-6F7332D8D331}.Release|Win32.ActiveCfg = Release|Win32
+		{3AF5ABC4-9099-4F22-B248-6F7332D8D331}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
