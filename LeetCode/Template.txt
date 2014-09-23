@@ -26,6 +26,7 @@ int main()
 {
     Solution s;
     cout << endl;
+    system("pause");
 }
 
 
