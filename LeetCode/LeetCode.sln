@@ -24,6 +24,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unique Binary Search Trees"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linked List Cycle", "Linked List Cycle\Linked List Cycle.vcxproj", "{D1361138-D9A7-4841-AEBA-2DB90F6CF99D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary Tree Preorder Traversal", "Binary Tree Preorder Traversal\Binary Tree Preorder Traversal.vcxproj", "{8F93AB05-2356-4568-BF2D-517F11187DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -62,6 +64,10 @@ Global
 		{D1361138-D9A7-4841-AEBA-2DB90F6CF99D}.Debug|Win32.Build.0 = Debug|Win32
 		{D1361138-D9A7-4841-AEBA-2DB90F6CF99D}.Release|Win32.ActiveCfg = Release|Win32
 		{D1361138-D9A7-4841-AEBA-2DB90F6CF99D}.Release|Win32.Build.0 = Release|Win32
+		{8F93AB05-2356-4568-BF2D-517F11187DDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F93AB05-2356-4568-BF2D-517F11187DDA}.Debug|Win32.Build.0 = Debug|Win32
+		{8F93AB05-2356-4568-BF2D-517F11187DDA}.Release|Win32.ActiveCfg = Release|Win32
+		{8F93AB05-2356-4568-BF2D-517F11187DDA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
