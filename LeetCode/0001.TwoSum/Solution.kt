@@ -1,6 +1,6 @@
-package TwoSum
+package kt
 
-class SolutionKT {
+class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         for (i in nums.indices) {
             for (j in nums.indices) {
