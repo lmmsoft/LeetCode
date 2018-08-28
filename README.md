@@ -10,4 +10,4 @@ Current Plan:
 TBD
 
 - [x] Add helper to put project files 
-- [] Readme.md auto generate (with link to problem and code)
+- [ ] Readme.md auto generate (with link to problem and code)
