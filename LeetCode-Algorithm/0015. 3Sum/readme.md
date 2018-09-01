@@ -14,7 +14,7 @@ Space Complexity O(1)
 - 直到left>=right循环结束
 
 
-- 此外还要注意去重，我这里取巧，把结果放hashset里，让set帮忙去重，这样时间复杂度是一样的，但是实际花的时间比代码里去重的要慢不少
+- 此外还要注意去重，我这里取巧，把结果放hashset里，让set帮忙去重，这样时间复杂度是一样的，但是实际花的时间比代码里去重要慢不少49ms vs 293ms，题目里应该是有极端数据
 - 参考代码:
 ``` java
     Set<List<Integer>> resultSet = new HashSet<>();
