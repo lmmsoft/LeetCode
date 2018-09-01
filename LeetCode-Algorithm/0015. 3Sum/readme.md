@@ -1,0 +1,16 @@
+# 15 3Sum
+
+```
+类型：双指针
+Time Complexity O(n^2)
+Space Complexity O(1)
+```
+
+- 大概思路是外围写一个for循环，用于遍历数组的第一个数i的位置
+- 然后设left为i后一个数，right为最后一个数
+- 如果sum(num[i],num[left],num[right])==0，说明i,left,right是一组解
+- 如果<0，说明和小了，left右移一未
+- 如果>0，说明和大了，right左移一位
+- 直到left>=right循环结束
+
+- 此外还要注意去重，我这里取巧，把结果放hashset里，让set帮忙去重，这样时间复杂度是一样的，但是实际花的时间比代码里去重的要慢不少
