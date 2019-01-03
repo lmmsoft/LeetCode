@@ -184,3 +184,6 @@ FakesAssemblies/
 
 # Mac
 *.DS_Store
+
+# intelij
+.idea/
