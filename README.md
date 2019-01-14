@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-04 01:45:42, I have solved **21** / **915** problems while **139** are still locked.
+Until 2019-01-14 22:02:02, I have solved **22** / **924** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 0
+2. Python: 1
 3. C++: 11
 4. Java: 10
 5. Kotlin: 1
@@ -62,7 +62,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard||||||
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium||||||
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium||||||
-|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy||||||
+|0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0035.%20Search%20Insert%20Position/solution.py)||||
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium||||||
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard||||||
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy||||||
@@ -943,3 +943,12 @@ Note: : locked means you need to buy a book from LeetCode
 |0966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/description/) |Medium||||||
 |0967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/) |Medium||||||
 |0968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/) |Hard||||||
+|0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) |Medium||||||
+|0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/description/) |Easy||||||
+|0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium||||||
+|0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard||||||
+|0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy||||||
+|0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy||||||
+|0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium||||||
+|0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard||||||
+|0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy||||||
