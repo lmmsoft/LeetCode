@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-14 22:02:02, I have solved **22** / **924** problems while **139** are still locked.
+Until 2019-01-14 23:27:20, I have solved **23** / **924** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 1
+2. Python: 2
 3. C++: 11
 4. Java: 10
 5. Kotlin: 1
@@ -93,7 +93,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium||||||
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium||||||
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard||||||
-|0066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy||||||
+|0066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0066.%20Plus%20One/solution.py)||||
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy||||||
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard||||||
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy||||||
