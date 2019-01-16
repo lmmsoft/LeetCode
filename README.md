@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-14 23:27:20, I have solved **23** / **924** problems while **139** are still locked.
+Until 2019-01-17 01:52:17, I have solved **24** / **924** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 2
+2. Python: 3
 3. C++: 11
 4. Java: 10
 5. Kotlin: 1
@@ -115,7 +115,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard||||||
 |0086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium||||||
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard||||||
-|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy||||||
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0088.%20Merge%20Sorted%20Array/solution.py)||||
 |0089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium||||||
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium||||||
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium||||||
