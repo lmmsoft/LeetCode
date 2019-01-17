@@ -13,12 +13,12 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-17 01:52:17, I have solved **24** / **924** problems while **139** are still locked.
+Until 2019-01-18 00:23:17, I have solved **24** / **924** problems while **139** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
-2. Python: 3
-3. C++: 11
+1. JavaScript: 1 
+2. Python: 4
+3. C++: 12
 4. Java: 10
 5. Kotlin: 1
 
@@ -28,7 +28,7 @@ Note: : locked means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java | Other | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.java)|[Kotlin](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.kt)|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.cpp)|[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.java)|[Kotlin](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.kt)|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium||||||
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium||||||
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard||||||
