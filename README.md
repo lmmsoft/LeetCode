@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-20 21:19:04, I have solved **26** / **928** problems while **139** are still locked.
+Until 2019-01-21 00:12:00, I have solved **27** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 6
+2. Python: 7
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -953,6 +953,6 @@ Note: : locked means you need to buy a book from LeetCode
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|||||||
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|||||||
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0977.%20Squares%20of%20a%20Sorted%20Array/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0977.%20Squares%20of%20a%20Sorted%20Array/solution.py)||||
-|0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|||||||
+|0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/solution.py)||||
 |0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) |Medium|||||||
 |0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) |Hard|||||||
