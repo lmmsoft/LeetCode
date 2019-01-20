@@ -126,10 +126,8 @@ class TableInform:
                 # print(os.path.join(solution_path, folder))
                 problem_id = folder[:4]
                 for _, _, files in os.walk(os.path.join(solution_path, folder)):
-                    # print(files)
-                    if len(files) != 0:
-                        complete_info.complete_num += 1
 
+                    has_conplete_solution = False
                     for item in files:
                         # print(os.path.abspath(item))
                         # print(folder)
@@ -139,16 +137,21 @@ class TableInform:
                             folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
                             self.table_item[problem_id].solution = '[Solution]({})'.format(folder_url)
 
-                        # Find solution in different languages
-                        if not item.lower().startswith(Config.solution_file_name_prefix_in_lower_case):
+                        # Find solution in different languages, matched files start with 'solution.' and endwith format
+                        if not item.lower().strip().startswith(Config.solution_file_name_prefix_in_lower_case):
                             print("{} : {}".format(folder, item))
                             continue
 
                         for k, v in Config.languages.items():
-                            if item.endswith(v['format']):
+                            if item.lower().strip().endswith(v['format']):  # eg: endwith '.py'
                                 complete_info.solved[k] += 1
                                 folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
                                 self.table_item[problem_id].languages[k] = '[{}]({})'.format(v['name'], folder_url)
+
+                                has_conplete_solution = True
+
+                    if has_conplete_solution:
+                        complete_info.complete_num += 1
 
     def update_table(self):
         # complete inform should be update
