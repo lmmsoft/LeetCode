@@ -22,6 +22,7 @@ class Config:
     leetcode_url = 'https://leetcode.com/problems/'
 
     solution_file_name_prefix_in_lower_case = "solution."
+    solution_readme_file_name = "readme.md"
     string_to_do = ""
 
 
@@ -39,6 +40,7 @@ class Question:
         self.difficulty = difficulty
 
         # the solution url
+        self.solution = ''
         self.python = ''
         self.java = ''
         self.javascript = ''
@@ -117,6 +119,7 @@ class TableInform:
             for folder in folders:
                 # print(folder)
                 # print(os.path.join(solution_path, folder))
+                problem_id = folder[:4]
                 for _, _, files in os.walk(os.path.join(solution_path, folder)):
                     # print(files)
                     if len(files) != 0:
@@ -126,6 +129,12 @@ class TableInform:
                         # print(os.path.abspath(item))
                         # print(folder)
 
+                        # Find solution readme.md
+                        if item.lower().strip() == Config.solution_readme_file_name:
+                            folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
+                            self.table_item[problem_id].solution = '[Solution]({})'.format(folder_url)
+
+                        # Find solution in different languages
                         if not item.lower().startswith(Config.solution_file_name_prefix_in_lower_case):
                             print("{} : {}".format(folder, item))
                             continue
@@ -213,17 +222,17 @@ class Readme:
     update README.md when you finish one problem by some language
     """
 
-    def __init__(self, total, solved, locked, others=None):
+    def __init__(self, total, solved, locked, language):
         """
 
         :param total: total problems nums
         :param solved: solved problem nums
-        :param others: 暂时还没用，我想做扩展
+        :param language: solved problem in language
         """
         self.total = total
         self.solved = solved
-        self.others = others
         self.locked = locked
+        self.language = language
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         self.msg = '## Statistic\n' \
                    'Until {}, I have solved **{}** / **{}** problems ' \
@@ -235,7 +244,7 @@ class Readme:
                    '\n4. Java: {java}' \
                    '\n5. Kotlin: {kotlin}' \
                    '\n\nNote: : locked means you need to buy a book from LeetCode\n'.format(
-            self.time, self.solved, self.total, self.locked, **self.others)
+            self.time, self.solved, self.total, self.locked, **self.language)
 
     def create_leetcode_readme(self, table_instance):
         """
@@ -256,13 +265,9 @@ class Readme:
 
         with open(readme_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
-            f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java | Other | \n')
-            f.write('|:---:' * 8 + '|\n')
+            f.write('| ID | Title | Difficulty | Solution | JavaScript | Python | C++ | Java | Other | \n')
+            f.write('|:---:' * 9 + '|\n')
             table, table_item = table_instance
-            # print(table)
-            # for i in range(2):
-            #     print(table_item[table[i]])
-            # exit(1)
             for index in table:
                 item = table_item[index]
                 if item.lock:
@@ -273,13 +278,14 @@ class Readme:
                     'id': item.id_,
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
+                    'solution': item.solution if item.solution else Config.string_to_do,
                     'js': item.javascript if item.javascript else Config.string_to_do,
                     'python': item.python if item.python else Config.string_to_do,
                     'c++': item.c_plus_plus if item.c_plus_plus else Config.string_to_do,
                     'java': item.java if item.java else Config.string_to_do,
                     'other': item.kotlin if item.kotlin else Config.string_to_do,
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|{other}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{solution}|{js}|{python}|{c++}|{java}|{other}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
