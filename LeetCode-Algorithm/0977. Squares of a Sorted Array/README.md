@@ -1,7 +1,13 @@
 # link
-- https://leetcode.com/problems/squares-of-a-sorted-array/
-- https://leetcode-cn.com/contest/weekly-contest-120/problems/squares-of-a-sorted-array/
-
+- problem
+    - https://leetcode.com/problems/squares-of-a-sorted-array/
+    - https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+- contest
+    - https://leetcode.com/contest/weekly-contest-120/problems/squares-of-a-sorted-array/
+    - https://leetcode-cn.com/contest/weekly-contest-120/problems/squares-of-a-sorted-array/
+- Official Solution
+    - https://leetcode.com/articles/squares-of-a-sorted-array/
+    - https://leetcode-cn.com/articles/squares-of-a-sorted-array/
 # Description
 Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
@@ -24,5 +30,6 @@ A is sorted in non-decreasing order.
 ```
 
 # Solution
- - In contest, since it is a esay question, I use O(nlogn) sort method to solve it in a fast way
- - After contest, I use two point to finish it within O(n)    
+ - My Solution
+     - In contest, since it is a esay question, I use O(nlogn) sort method to solve it in a fast way
+     - After contest, I use two point to finish it within O(n)    
