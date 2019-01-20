@@ -25,6 +25,14 @@ class Config:
     solution_readme_file_name = "readme.md"
     string_to_do = ""
 
+    languages = {
+        'python': {"format": ".py", "name": "Python"},
+        'javascript': {"format": ".js", "name": "JavaScript"},
+        'c++': {"format": ".cpp", "name": "C++"},
+        'java': {"format": ".java", "name": "Java"},
+        'kotlin': {"format": ".kt", "name": "Kotlin"},
+    }
+
 
 class Question:
     """
@@ -41,11 +49,8 @@ class Question:
 
         # the solution url
         self.solution = ''
-        self.python = ''
-        self.java = ''
-        self.javascript = ''
-        self.c_plus_plus = ''
-        self.kotlin = ''
+
+        self.languages = {}
 
     def __repr__(self):
         """
@@ -139,41 +144,11 @@ class TableInform:
                             print("{} : {}".format(folder, item))
                             continue
 
-                        if item.endswith('.py'):
-                            complete_info.solved['python'] += 1
-                            # update problem inform
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_solution_url, folder_url)
-                            # print(folder_url)
-                            self.table_item[folder[:4]].python = '[Python]({})'.format(folder_url)
-                        elif item.endswith('.java'):
-                            complete_info.solved['java'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_solution_url, folder_url)
-                            self.table_item[folder[:4]].java = '[Java]({})'.format(folder_url)
-                        elif item.endswith('.cpp'):
-                            complete_info.solved['c++'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_solution_url, folder_url)
-                            # print(folder_url)
-                            self.table_item[folder[:4]].c_plus_plus = '[C++]({})'.format(folder_url)
-                        elif item.endswith('.js'):
-                            complete_info.solved['javascript'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_solution_url, folder_url)
-                            # print(folder_url)
-                            self.table_item[folder[:4]].javascript = '[JavaScript]({})'.format(folder_url)
-                        elif item.endswith('.kt'):
-                            complete_info.solved['kotlin'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_solution_url, folder_url)
-                            # print(folder_url)
-                            self.table_item[folder[:4]].kotlin = '[Kotlin]({})'.format(folder_url)
+                        for k, v in Config.languages.items():
+                            if item.endswith(v['format']):
+                                complete_info.solved[k] += 1
+                                folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
+                                self.table_item[problem_id].languages[k] = '[{}]({})'.format(v['name'], folder_url)
 
     def update_table(self):
         # complete inform should be update
@@ -279,11 +254,11 @@ class Readme:
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
                     'solution': item.solution if item.solution else Config.string_to_do,
-                    'js': item.javascript if item.javascript else Config.string_to_do,
-                    'python': item.python if item.python else Config.string_to_do,
-                    'c++': item.c_plus_plus if item.c_plus_plus else Config.string_to_do,
-                    'java': item.java if item.java else Config.string_to_do,
-                    'other': item.kotlin if item.kotlin else Config.string_to_do,
+                    'js': item.languages.get('javascript') if item.languages.get('javascript') else Config.string_to_do,
+                    'python': item.languages.get('python') if item.languages.get('python') else Config.string_to_do,
+                    'c++': item.languages.get('c++') if item.languages.get('c++') else Config.string_to_do,
+                    'java': item.languages.get('java') if item.languages.get('java') else Config.string_to_do,
+                    'other': item.languages.get('kotlin') if item.languages.get('kotlin') else Config.string_to_do,
                 }
                 line = '|{id}|{title}|{difficulty}|{solution}|{js}|{python}|{c++}|{java}|{other}|\n'.format(**data)
                 f.write(line)
