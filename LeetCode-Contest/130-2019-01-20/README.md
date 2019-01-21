@@ -1,0 +1,41 @@
+- Link
+    - https://leetcode.com/contest/weekly-contest-120
+    - https://leetcode-cn.com/contest/weekly-contest-120
+- See solutions
+    - https://leetcode.com/contest/weekly-contest-120/ranking
+- My submittion
+    - 977
+    - 978
+    - 979
+- 个人总结
+    - 第一次做leetcode感觉不错
+    - 比赛过程
+        - 记错时间，晚半个小时开始
+        - 第一题 easy 速写
+        - 第二题 medium 思路对，但是没想太清楚就写代码，边界处理很差，赛后才AC
+        - 第三题 medium 赛后AC，但花了过多的时间
+        - 第四题 hard 简单看了下题，感觉有点复杂，先放过
+    - 比赛总结
+        - 太浮躁，太急躁，静不下心来
+        - 还好是leetcode-cn上做的，下次都leetcode报名，努力刷rating
+    - 感受
+        - 比赛时间短，只要1.5h压力小
+        - 每周日中午，比cf晚上熬夜做要好
+        - 不用考虑输入输出，简单
+        - 难度适宜
+            - easy 速写
+            - medium 自己都是可以做的，锻炼代码能力
+        - 方便赛后回顾
+            - 有中英文官方题解
+            - 可以看到全球高手的代码
+        - 看到个中国的高手，女装大佬，在google工作
+            - https://leetcode.com/cuiaoxiang/
+            - 每周日坚持做比赛，且只在周日做比赛，每周日4-6题
+            - 已经坚持一年多了，过了600多题
+        - 如果我能坚持一年，能力应该能获得不少提升，手感也能保持得不错
+            - 感觉这是个比cf更适合现在的我的平台
+            - 努力吧！
+    - 后面的目标
+        - 每周日参赛
+        - 争取rating
+        - 争取赛中和赛后至少能过掉easy和medium的题
