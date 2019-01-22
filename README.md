@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-22 00:13:41, I have solved **30** / **928** problems while **139** are still locked.
+Until 2019-01-22 21:19:49, I have solved **30** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 10
+2. Python: 11
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -53,7 +53,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|||||||
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|||||||
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|||||||
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/readme.md)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)||
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element/solution.py)||||
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|||||||
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|||||||
