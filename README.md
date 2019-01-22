@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-22 21:19:49, I have solved **30** / **928** problems while **139** are still locked.
+Until 2019-01-22 22:52:59, I have solved **31** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 11
+2. Python: 12
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -206,7 +206,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|||||||
 |0187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|||||||
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|||||||
-|0189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|||||||
+|0189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array/solution.py)||||
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|||||||
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|||||||
 |0198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|||||||
