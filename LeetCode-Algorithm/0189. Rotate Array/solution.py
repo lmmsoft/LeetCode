@@ -8,6 +8,12 @@ class Solution:
         for _ in range(0, k):
             self.move1(nums)
 
+    def move_k(self, nums):
+        end = nums[len(nums) - 1]
+        for i in range(len(nums) - 2, -1, -1):
+            nums[i + 1] = nums[i]
+        nums[0] = end
+
     def rotate(self, nums, k):
         """
         :type nums: List[int]
@@ -20,11 +26,11 @@ class Solution:
         nums[0: k] = list(reversed(nums[0: k]))
         nums[k: l] = list(reversed(nums[k: l]))
 
-    def move_k(self, nums):
-        end = nums[len(nums) - 1]
-        for i in range(len(nums) - 2, -1, -1):
-            nums[i + 1] = nums[i]
-        nums[0] = end
+    def rotate_beautiful(nums, k):
+        k = k % len(nums)
+        nums[:-k] = nums[:-k][::-1]
+        nums[-k:] = nums[-k:][::-1]
+        nums[:] = nums[::-1]
 
 
 if __name__ == '__main__':
