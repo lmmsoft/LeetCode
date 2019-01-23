@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-22 22:52:59, I have solved **31** / **928** problems while **139** are still locked.
+Until 2019-01-23 23:46:48, I have solved **32** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 12
+2. Python: 13
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -80,7 +80,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|||||||
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|||||||
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|||||||
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|||||||
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray/solution.py)||||
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|||||||
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|||||||
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|||||||
@@ -954,5 +954,5 @@ Note: : locked means you need to buy a book from LeetCode
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|||||||
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0977.%20Squares%20of%20a%20Sorted%20Array/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0977.%20Squares%20of%20a%20Sorted%20Array/solution.py)||||
 |0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/solution.py)||||
-|0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0979.%20Distribute%20Coins%20in%20Binary%20Tree/solution.py)||||
+|0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0979.%20Distribute%20Coins%20in%20Binary%20Tree/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0979.%20Distribute%20Coins%20in%20Binary%20Tree/solution.py)||||
 |0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) |Hard|||||||
