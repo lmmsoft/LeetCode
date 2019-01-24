@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-23 23:46:48, I have solved **32** / **928** problems while **139** are still locked.
+Until 2019-01-24 22:29:52, I have solved **33** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 13
+2. Python: 14
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -155,7 +155,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|||||||
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|||||||
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|||||||
-|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|||||||
+|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0128.%20Longest%20Consecutive%20Sequence/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0128.%20Longest%20Consecutive%20Sequence/solution.py)||||
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |Medium|||||||
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |Medium|||||||
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |Medium|||||||
