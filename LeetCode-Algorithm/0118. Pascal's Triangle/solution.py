@@ -1,5 +1,5 @@
 class Solution:
-    def generate(self, numRows):
+    def generate1(self, numRows):
         """
         :type numRows: int
         :rtype: List[List[int]]
@@ -25,6 +25,12 @@ class Solution:
             l2.append(l[i] + l[i + 1])
         l2.append(1)
         return l2
+
+    def generate(self, numRows):
+        res = [[1]]
+        for i in range(1, numRows):
+            res.append(list(map(lambda x, y: x + y, res[-1] + [0], [0] + res[-1])))
+        return res[:numRows]
 
 
 if __name__ == '__main__':
