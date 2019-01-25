@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-24 22:29:52, I have solved **33** / **928** problems while **139** are still locked.
+Until 2019-01-25 20:54:53, I have solved **34** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 14
+2. Python: 15
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -278,7 +278,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|||||||
 |0266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) :lock:|Easy|||||||
 |0267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|||||||
-|0268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|||||||
+|0268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0268.%20Missing%20Number/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0268.%20Missing%20Number/solution.py)||||
 |0269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) :lock:|Hard|||||||
 |0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|||||||
 |0271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|||||||
