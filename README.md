@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-25 21:17:53, I have solved **35** / **928** problems while **139** are still locked.
+Until 2019-01-25 21:51:12, I have solved **36** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 16
+2. Python: 17
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -146,7 +146,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Solution.cpp)|||
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|||||||
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0118.%20Pascal's%20Triangle/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0118.%20Pascal's%20Triangle/solution.py)||||
-|0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|||||||
+|0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0119.%20Pascal's%20Triangle%20II/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0119.%20Pascal's%20Triangle%20II/solution.py)||||
 |0120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|||||||
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cpp)|||
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.cpp)|||
