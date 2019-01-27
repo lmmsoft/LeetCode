@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-25 21:51:12, I have solved **36** / **928** problems while **139** are still locked.
+Until 2019-01-27 10:24:59, I have solved **37** / **928** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 17
+2. Python: 18
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -947,7 +947,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/description/) |Easy|||||||
 |0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|||||||
 |0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|||||||
-|0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|||||||
+|0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number/solution.py)||||
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy|||||||
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|||||||
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|||||||
