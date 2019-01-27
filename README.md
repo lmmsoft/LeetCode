@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-27 21:16:57, I have solved **38** / **932** problems while **139** are still locked.
+Until 2019-01-28 00:01:07, I have solved **39** / **932** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 19
+2. Python: 20
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -959,4 +959,4 @@ Note: : locked means you need to buy a book from LeetCode
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/solution.py)||||
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|||||||
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|||||||
-|0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|||||||
+|0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/solution.py)||||
