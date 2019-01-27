@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-27 10:24:59, I have solved **37** / **928** problems while **139** are still locked.
+Until 2019-01-27 21:16:57, I have solved **38** / **932** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 18
+2. Python: 19
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -956,3 +956,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0978.%20Longest%20Turbulent%20Subarray/solution.py)||||
 |0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0979.%20Distribute%20Coins%20in%20Binary%20Tree/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0979.%20Distribute%20Coins%20in%20Binary%20Tree/solution.py)||||
 |0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) |Hard|||||||
+|0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/solution.py)||||
+|0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|||||||
+|0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|||||||
+|0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|||||||
