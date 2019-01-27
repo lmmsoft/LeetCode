@@ -1,4 +1,5 @@
 import bisect
+import collections
 
 
 # 写法不好，用两个dict记录数据
@@ -43,7 +44,7 @@ class TimeMap1:
 
 
 # 使用元组，一个dict里记录数据
-class TimeMap:
+class TimeMap2:
 
     def __init__(self):
         """
@@ -74,6 +75,21 @@ class TimeMap:
         return res
 
 
+class TimeMap(object):
+    def __init__(self):
+        self.M = collections.defaultdict(list)
+
+    def set(self, key, value, timestamp):
+        self.M[key].append((timestamp, value))
+
+    def get(self, key, timestamp):
+        A = self.M.get(key, None)
+        if A is None:
+            return ""
+        i = bisect.bisect(A, (timestamp, chr(127)))
+        return A[i - 1][1] if i else ""
+
+
 # Your TimeMap object will be instantiated and called as such:
 # obj = TimeMap()
 # obj.set(key,value,timestamp)
@@ -90,8 +106,8 @@ if __name__ == '__main__':
     a = TimeMap()
     a.set("love", "high", 10)
     a.set("love", "low", 20)
-    a.get("love", 5)
-    a.get("love", 10)
-    a.get("love", 15)
-    a.get("love", 20)
-    a.get("love", 25)
+    print(a.get("love", 5))
+    print(a.get("love", 10))
+    print(a.get("love", 15))
+    print(a.get("love", 20))
+    print(a.get("love", 25))
