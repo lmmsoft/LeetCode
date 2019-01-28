@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-28 00:01:07, I have solved **39** / **932** problems while **139** are still locked.
+Until 2019-01-28 20:55:31, I have solved **40** / **932** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 20
+2. Python: 21
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -880,7 +880,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|||||||
 |0903|[Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) |Hard|||||||
 |0904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |Medium|||||||
-|0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) |Easy|||||||
+|0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0905.%20Sort%20Array%20By%20Parity/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0905.%20Sort%20Array%20By%20Parity/solution.py)||||
 |0906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) |Hard|||||||
 |0907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) |Medium|||||||
 |0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) |Easy|||||||
