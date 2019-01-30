@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-01-28 20:55:31, I have solved **40** / **932** problems while **139** are still locked.
+Until 2019-01-30 23:12:27, I have solved **41** / **932** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 21
+2. Python: 22
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -61,7 +61,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|||||||
 |0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|||||||
 |0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|||||||
-|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|||||||
+|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/solution.py)||||
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0035.%20Search%20Insert%20Position/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0035.%20Search%20Insert%20Position/solution.py)||||
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|||||||
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|||||||
