@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-01 00:07:10, I have solved **42** / **932** problems while **139** are still locked.
+Until 2019-02-01 21:13:30, I have solved **43** / **932** problems while **139** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 23
+2. Python: 24
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -196,7 +196,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|||||||
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/solution.py)||||
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|||||||
-|0169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|||||||
+|0169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0169.%20Majority%20Element/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0169.%20Majority%20Element/solution.py)||||
 |0170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|||||||
 |0171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|||||||
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|||||||
