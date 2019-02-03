@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-01 21:13:30, I have solved **43** / **932** problems while **139** are still locked.
+Until 2019-02-04 01:08:14, I have solved **44** / **937** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 24
+2. Python: 25
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -509,6 +509,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) |Easy|||||||
 |0507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|||||||
 |0508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|||||||
+|0510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/) :lock:|Medium|||||||
 |0513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|||||||
 |0514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|||||||
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|||||||
@@ -960,3 +961,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|||||||
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|||||||
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/solution.py)||||
+|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|||||||
+|0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|||||||
+|0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/solution.py)||||
+|0988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) |Medium|||||||
