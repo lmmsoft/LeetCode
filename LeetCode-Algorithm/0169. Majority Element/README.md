@@ -17,4 +17,4 @@
     - 3 排序 O(N LogN)
     - 4 随机化 时间O(inf)平均O(2) 空间O(1)
     - 5 分治
-    - 6 Boyer-Moore Voting Algorithm 摩尔投票算法
+    - 6 Boyer-Moore Voting Algorithm 摩尔投票算法，这个算法可以分布式计算
