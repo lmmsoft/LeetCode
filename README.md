@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-04 01:08:14, I have solved **44** / **937** problems while **140** are still locked.
+Until 2019-02-08 00:29:33, I have solved **45** / **937** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 25
+2. Python: 26
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -961,7 +961,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|||||||
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|||||||
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/solution.py)||||
-|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|||||||
+|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0985.%20Sum%20of%20Even%20Numbers%20After%20Queries/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0985.%20Sum%20of%20Even%20Numbers%20After%20Queries/solution.py)||||
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|||||||
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/solution.py)||||
 |0988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) |Medium|||||||
