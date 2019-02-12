@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-09 09:39:31, I have solved **46** / **937** problems while **140** are still locked.
+Until 2019-02-12 23:53:27, I have solved **46** / **941** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -965,3 +965,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|||||||
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/solution.py)||||
 |0988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0988.%20Smallest%20String%20Starting%20From%20Leaf/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0988.%20Smallest%20String%20Starting%20From%20Leaf/solution.py)||||
+|0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) |Easy|||||||
+|0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) |Medium|||||||
+|0991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|||||||
+|0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) |Hard|||||||
