@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-12 23:53:27, I have solved **46** / **941** problems while **140** are still locked.
+Until 2019-02-20 23:42:31, I have solved **46** / **945** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -75,7 +75,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|||||||
 |0046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|||||||
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|||||||
-|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|||||||
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0048.%20Rotate%20Image/readme.md)||||||
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|||||||
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|||||||
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|||||||
@@ -691,7 +691,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|||||||
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|||||||
 |0742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|||||||
-|0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Easy|||||||
+|0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|||||||
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|||||||
 |0745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|||||||
 |0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|||||||
@@ -969,3 +969,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) |Medium|||||||
 |0991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|||||||
 |0992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) |Hard|||||||
+|0993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) |Easy|||||||
+|0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Easy|||||||
+|0995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/) |Hard|||||||
+|0996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/description/) |Hard|||||||
