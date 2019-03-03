@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-03-03 17:15:17, I have solved **47** / **953** problems while **140** are still locked.
+Until 2019-03-03 17:27:19, I have solved **48** / **953** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 28
+2. Python: 29
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -979,5 +979,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) |Hard|||||||
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|||||||
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/solution.py)||||
-|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|||||||
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/solution.py)||||
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|||||||
