@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-02-20 23:42:31, I have solved **46** / **945** problems while **140** are still locked.
+Until 2019-03-03 17:15:17, I have solved **47** / **953** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 27
+2. Python: 28
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -462,7 +462,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|||||||
 |0456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|||||||
 |0457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|||||||
-|0458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Easy|||||||
+|0458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Hard|||||||
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|||||||
 |0460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|||||||
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) |Easy|||||||
@@ -973,3 +973,11 @@ Note: : locked means you need to buy a book from LeetCode
 |0994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Easy|||||||
 |0995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/) |Hard|||||||
 |0996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/description/) |Hard|||||||
+|0997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |Easy|||||||
+|0998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/) |Medium|||||||
+|0999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/) |Easy|||||||
+|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) |Hard|||||||
+|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|||||||
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/solution.py)||||
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|||||||
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|||||||
