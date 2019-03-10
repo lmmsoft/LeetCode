@@ -1,6 +1,6 @@
 # 1006. Clumsy Factorial
 - https://leetcode.com/problems/clumsy-factorial/
-- https://leetcode.com/problems/clumsy-factorial/
+- https://leetcode-cn.com/problems/clumsy-factorial/
 - https://leetcode.com/contest/weekly-contest-127/problems/clumsy-factorial/
 - https://leetcode-cn.com/contest/weekly-contest-127/problems/clumsy-factorial/
 
@@ -85,4 +85,12 @@ class Solution(object):
             k = (k + 1) % 4
         s.pop()
         return eval(''.join(s))
+```
+
+    - 解法4： python 1行 递归
+```python
+def clumsy(self, N):
+    return  N+3*(N>2) if N<5 else N+2-3*(N%4==3)-(N%4==0)
+# Note that for n>5, n-(n-1)(n-2)//(n-3)=n-(n-1)(n-3+1)//(n-3)=n-(n-1)-1//(n-3)=1-1=0
+# thus, only some first and last numbers have effect on the result.
 ```
