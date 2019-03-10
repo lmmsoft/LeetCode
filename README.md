@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-03-10 22:56:46, I have solved **51** / **957** problems while **140** are still locked.
+Until 2019-03-10 23:25:49, I have solved **52** / **957** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 32
+2. Python: 33
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -983,5 +983,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1004.%20Max%20Consecutive%20Ones%20III/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||||
 |1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/solution.py)||||
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/solution.py)||||
-|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|||||||
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/solution.py)||||
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|||||||
