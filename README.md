@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-03-03 17:27:19, I have solved **48** / **953** problems while **140** are still locked.
+Until 2019-03-10 22:29:00, I have solved **50** / **957** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 29
+2. Python: 31
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -949,7 +949,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|||||||
 |0972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|||||||
 |0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number/solution.py)||||
-|0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy|||||||
+|0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Medium|||||||
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|||||||
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|||||||
 |0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|||||||
@@ -960,7 +960,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0981.%20Time%20Based%20Key-Value%20Store/solution.py)||||
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|||||||
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|||||||
-|0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/solution.py)||||
+|0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0984.%20String%20Without%20AAA%20or%20BBB/solution.py)||||
 |0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0985.%20Sum%20of%20Even%20Numbers%20After%20Queries/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0985.%20Sum%20of%20Even%20Numbers%20After%20Queries/solution.py)||||
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|||||||
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree/solution.py)||||
@@ -980,4 +980,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|||||||
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1002.%20Find%20Common%20Characters/solution.py)||||
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1003.%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions/solution.py)||||
-|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|||||||
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1004.%20Max%20Consecutive%20Ones%20III/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1004.%20Max%20Consecutive%20Ones%20III/solution.py)||||
+|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations/solution.py)||||
+|1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|||||||
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|||||||
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|||||||
