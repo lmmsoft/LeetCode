@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-03-10 23:41:01, I have solved **53** / **957** problems while **140** are still locked.
+Until 2019-04-21 23:45:22, I have solved **53** / **982** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -888,6 +888,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |Medium|||||||
 |0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) |Medium|||||||
 |0911|[Online Election](https://leetcode.com/problems/online-election/description/) |Medium|||||||
+|0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/description/) |Medium|||||||
 |0913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) |Hard|||||||
 |0914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|||||||
 |0915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|||||||
@@ -985,3 +986,27 @@ Note: : locked means you need to buy a book from LeetCode
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/solution.py)||||
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/solution.py)||||
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.py)||||
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) |Easy|||||||
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Easy|||||||
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) |Medium|||||||
+|1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) |Hard|||||||
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) |Easy|||||||
+|1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|||||||
+|1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|||||||
+|1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|||||||
+|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|||||||
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|||||||
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|||||||
+|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|||||||
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|||||||
+|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|||||||
+|1024|[Video Stitching](https://leetcode.com/problems/video-stitching/description/) |Medium|||||||
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|||||||
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||||||
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||||||
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|||||||
+|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||||||
