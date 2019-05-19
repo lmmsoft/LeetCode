@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-04-21 23:45:22, I have solved **53** / **982** problems while **140** are still locked.
+Until 2019-05-19 23:53:39, I have solved **53** / **998** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -914,7 +914,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|||||||
 |0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|||||||
 |0937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|||||||
-|0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|||||||
+|0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|||||||
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|||||||
 |0940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|||||||
 |0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|||||||
@@ -1010,3 +1010,19 @@ Note: : locked means you need to buy a book from LeetCode
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||||||
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|||||||
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||||||
+|1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|||||||
+|1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|||||||
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|||||||
+|1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/description/) |Hard|||||||
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/) |Medium|||||||
+|1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|||||||
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|||||||
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|||||||
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|||||||
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|||||||
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|||||||
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|||||||
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|||||||
+|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|||||||
