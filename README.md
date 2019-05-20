@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-05-21 00:17:06, I have solved **53** / **998** problems while **140** are still locked.
+Until 2019-05-21 00:32:09, I have solved **60** / **998** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 34
+2. Python: 41
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -1006,10 +1006,10 @@ Note: : locked means you need to buy a book from LeetCode
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
-|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||||||
-|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||||||
-|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|||||||
-|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||||||
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1030.%20Matrix%20Cells%20in%20Distance%20Order/1030.py)||||
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1029.%20Two%20City%20Scheduling/1029.py)||||
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/1031.py)||||
+|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1032.%20Stream%20of%20Characters/1032.py)||||
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|||||||
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|||||||
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|||||||
@@ -1022,7 +1022,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|||||||
-|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/readme.md)||||||
-|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/readme.md)||||||
-|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|||||||
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/1046.py)||||
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.py)||||
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain/1048.py)||||
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|||||||
