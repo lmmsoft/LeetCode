@@ -137,8 +137,12 @@ class TableInform:
                             folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
                             self.table_item[problem_id].solution = '[Solution]({})'.format(folder_url)
 
-                        # Find solution in different languages, matched files start with 'solution.' and endwith format
-                        if not item.lower().strip().startswith(Config.solution_file_name_prefix_in_lower_case):
+                        # Find solution in different languages, matched files start with
+                        #   'solution.' or 'problem_id.' and endwith file_type
+                        file_name = item.lower().strip()
+                        if not file_name.startswith(
+                                Config.solution_file_name_prefix_in_lower_case) and not file_name.startswith(
+                            str(problem_id) + '.'):
                             print("{} : {}".format(folder, item))
                             continue
 
