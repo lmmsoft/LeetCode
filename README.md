@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-05-21 00:32:09, I have solved **60** / **998** problems while **140** are still locked.
+Until 2019-05-22 23:51:00, I have solved **60** / **998** problems while **140** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
