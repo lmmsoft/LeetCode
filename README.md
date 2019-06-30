@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-06-30 23:05:00, I have solved **60** / **1039** problems while **161** are still locked.
+Until 2019-06-30 23:20:22, I have solved **60** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -1067,3 +1067,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|||||||
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|||||||
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) |Hard|||||||
+|1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) |Easy|||||||
+|1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) |Easy|||||||
+|1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) |Medium|||||||
+|1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) |Hard|||||||

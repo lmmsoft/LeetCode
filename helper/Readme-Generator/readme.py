@@ -77,7 +77,11 @@ class TableInform:
         """
         # we should look the response data carefully to find law
         # return byte. content type is byte
-        content = requests.get('https://leetcode.com/api/problems/algorithms/').content
+        headers = {
+            'authority': 'leetcode.com',
+            'cookie': '__cfduid=d81ff4a0bd0171e9eec761321521a17641558490779; _ga=GA1.2.1847416064.1558490776; csrftoken=X6eeqBAXptlCnTTXLnRYO1Kb5K0NPvaxSndM3l691jBAWbjjLBt0MOC8MoYM092r; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTQ3NzUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJiNDU0NGU1MTRiY2NmNzA5Nzg1NjhlNmM5MmUwYTViZDNhY2U5MTRjIiwiaWQiOjU0Nzc1LCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIiwidXNlcm5hbWUiOiJsbW0zMzMiLCJ1c2VyX3NsdWciOiJsbW0zMzMiLCJhdmF0YXIiOiJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzA3OTcyMGMxZDQzZTI3OWMxOGRkNGMwNmIxNWQ5MWIyLnBuZz9zPTIwMCIsInRpbWVzdGFtcCI6IjIwMTktMDYtMTYgMTY6MzE6MzkuNTAzMjc4KzAwOjAwIiwiUkVNT1RFX0FERFIiOiIxMjUuMTE5LjIzOS4xMzgiLCJJREVOVElUWSI6IjY2MTkyMDQ3OTI3NGM3NjM3NmJmNWMxMmM1ZWQ0ZGExIiwiX3Nlc3Npb25fZXhwaXJ5IjoxMjA5NjAwfQ.jSnztQWHMTVlAPa-dLEImmMp-n-HVA9fdE7_Kz4QLkE; c_a_u=bG1tMzMz:1hcY4x:XoLD6zc9dzpVGxy4wh3ritM8guA; _gid=GA1.2.940401254.1561905893',
+        }
+        content = requests.get('https://leetcode.com/api/problems/algorithms/', headers=headers).content
         # get all problems
         self.questions = json.loads(content)['stat_status_pairs']
         # print(self.questions)
