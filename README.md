@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-05-22 23:51:00, I have solved **60** / **998** problems while **140** are still locked.
+Until 2019-06-30 22:53:06, I have solved **59** / **1039** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 41
+2. Python: 40
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -173,7 +173,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|||||||
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0144.%20Binary%20Tree%20Preorder%20Traversal/Solution.cpp)|||
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|||||||
-|0146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|||||||
+|0146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Medium|||||||
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|||||||
 |0148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|||||||
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|||||||
@@ -510,6 +510,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|||||||
 |0508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|||||||
 |0510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/) :lock:|Medium|||||||
+|1059|[All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/description/) :lock:|Medium|||||||
 |0513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|||||||
 |0514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|||||||
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|||||||
@@ -719,7 +720,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) |Medium|||||||
 |0765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) |Hard|||||||
 |0431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/) :lock:|Hard|||||||
-|0427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) |Easy|||||||
+|0427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) |Medium|||||||
 |0558|[Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection/description/) |Easy|||||||
 |0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |Easy|||||||
 |0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) |Easy|||||||
@@ -986,22 +987,41 @@ Note: : locked means you need to buy a book from LeetCode
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1006.%20Clumsy%20Factorial/solution.py)||||
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/solution.py)||||
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/solution.py)||||
+|1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/description/) :lock:|Medium|||||||
+|1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/description/) :lock:|Medium|||||||
+|1058|[Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/description/) :lock:|Medium|||||||
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) |Easy|||||||
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Easy|||||||
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) |Medium|||||||
 |1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) |Hard|||||||
+|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) :lock:|Medium|||||||
+|1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/description/) :lock:|Medium|||||||
+|1062|[Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/description/) :lock:|Medium|||||||
+|1063|[Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays/description/) :lock:|Hard|||||||
 |1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) |Easy|||||||
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|||||||
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|||||||
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|||||||
+|1064|[Fixed Point](https://leetcode.com/problems/fixed-point/description/) :lock:|Easy|||||||
+|1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/description/) :lock:|Medium|||||||
+|1067|[Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/description/) :lock:|Hard|||||||
+|1056|[Confusing Number](https://leetcode.com/problems/confusing-number/description/) :lock:|Easy|||||||
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|||||||
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|||||||
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|||||||
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||
+|1086|[High Five](https://leetcode.com/problems/high-five/description/) :lock:|Easy|||||||
+|1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) :lock:|Easy|||||||
+|1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/description/) :lock:|Medium|||||||
+|1088|[Confusing Number II](https://leetcode.com/problems/confusing-number-ii/description/) :lock:|Hard|||||||
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|||||||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|||||||
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|||||||
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/description/) |Medium|||||||
+|1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description/) :lock:|Easy|||||||
+|1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/description/) :lock:|Easy|||||||
+|1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/description/) :lock:|Medium|||||||
+|1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|||||||
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|||||||
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
@@ -1009,7 +1029,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1030.%20Matrix%20Cells%20in%20Distance%20Order/1030.py)||||
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1029.%20Two%20City%20Scheduling/1029.py)||||
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays/1031.py)||||
-|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1032.%20Stream%20of%20Characters/1032.py)||||
+|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|||||||
+|1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/) :lock:|Medium|||||||
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|||||||
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|||||||
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|||||||
@@ -1024,5 +1045,25 @@ Note: : locked means you need to buy a book from LeetCode
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|||||||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/1046.py)||||
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.py)||||
-|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain/1048.py)||||
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain/1048.py)||||
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|||||||
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) |Easy|||||||
+|1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) |Medium|||||||
+|1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) |Medium|||||||
+|1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/) |Medium|||||||
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|||||||
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|||||||
+|1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) |Medium|||||||
+|1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/) |Medium|||||||
+|1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) |Easy|||||||
+|1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) |Medium|||||||
+|1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) |Medium|||||||
+|1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) |Medium|||||||
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|||||||
+|1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) |Medium|||||||
+|1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|||||||
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) |Medium|||||||
+|1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/) |Medium|||||||
+|1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|||||||
+|1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|||||||
+|1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) |Hard|||||||

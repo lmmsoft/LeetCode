@@ -16,8 +16,8 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_readme_folder = '/Users/loumingming/code/personal/LeetCode'
-    local_solution_folder = '/Users/loumingming/code/personal/LeetCode/LeetCode-Algorithm'
+    local_readme_folder = '../../'
+    local_solution_folder = '../../LeetCode-Algorithm'
     github_solution_url = 'https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/'
     leetcode_url = 'https://leetcode.com/problems/'
 
