@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-06-30 22:53:06, I have solved **59** / **1039** problems while **161** are still locked.
+Until 2019-06-30 23:05:00, I have solved **60** / **1039** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 40
+2. Python: 41
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -75,7 +75,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|||||||
 |0046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|||||||
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|||||||
-|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0048.%20Rotate%20Image/readme.md)||||||
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0048.%20Rotate%20Image/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0048.%20Rotate%20Image/solution.py)||||
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|||||||
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|||||||
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|||||||

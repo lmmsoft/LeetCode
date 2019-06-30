@@ -142,8 +142,8 @@ class TableInform:
                         file_name = item.lower().strip()
                         if not file_name.startswith(
                                 Config.solution_file_name_prefix_in_lower_case) and not file_name.startswith(
-                            str(problem_id) + '.'):
-                            print("{} : {}".format(folder, item))
+                            str(problem_id) + '.') and not file_name.startswith("readme.md"):
+                            print("Not recognized files [{}] : {}".format(folder, item))
                             continue
 
                         for k, v in Config.languages.items():
