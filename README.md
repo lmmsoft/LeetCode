@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-01 00:24:16, I have solved **61** / **1043** problems while **161** are still locked.
+Until 2019-07-03 00:44:22, I have solved **62** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 42
+2. Python: 43
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -1067,7 +1067,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|||||||
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|||||||
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) |Hard|||||||
-|1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) |Easy|||||||
+|1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree/1104.py)||||
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1103.%20Distribute%20Candies%20to%20People/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1103.%20Distribute%20Candies%20to%20People/1103.py)||||
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) |Medium|||||||
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) |Hard|||||||
