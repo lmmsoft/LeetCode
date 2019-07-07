@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-03 00:44:22, I have solved **62** / **1043** problems while **161** are still locked.
+Until 2019-07-07 10:28:12, I have solved **63** / **1043** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 43
+2. Python: 44
 3. C++: 12
 4. Java: 10
 5. Kotlin: 1
@@ -1059,7 +1059,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) |Medium|||||||
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) |Medium|||||||
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) |Medium|||||||
-|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|||||||
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1089.%20Duplicate%20Zeros/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1089.%20Duplicate%20Zeros/1089.py)||||
 |1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) |Medium|||||||
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|||||||
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) |Medium|||||||
