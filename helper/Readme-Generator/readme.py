@@ -144,9 +144,20 @@ class TableInform:
                         # Find solution in different languages, matched files start with
                         #   'solution.' or 'problem_id.' and endwith file_type
                         file_name = item.lower().strip()
-                        if not file_name.startswith(
-                                Config.solution_file_name_prefix_in_lower_case) and not file_name.startswith(
-                            str(problem_id) + '.') and not file_name.startswith("readme.md"):
+                        possible_file_name_start = [  # eg: 'solution.', '0416.', '416.'
+                            Config.solution_file_name_prefix_in_lower_case,
+                            str(problem_id) + '.',
+                            str((int(problem_id))) + '.',
+                            "readme.md",
+                        ]
+
+                        valid_name: bool = False
+                        for start in possible_file_name_start:
+                            if file_name.startswith(start):
+                                valid_name = True
+                                break
+
+                        if not valid_name:
                             print("Not recognized files [{}] : {}".format(folder, item))
                             continue
 
