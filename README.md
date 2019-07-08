@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-09 00:13:00, I have solved **68** / **1047** problems while **161** are still locked.
+Until 2019-07-09 00:40:14, I have solved **69** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 49
+2. Python: 50
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -516,7 +516,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|||||||
 |0516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |Medium|||||||
 |0517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|||||||
-|0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|||||||
+|0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0518.%20Coin%20Change%202/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0518.%20Coin%20Change%202/518.py)||||
 |0520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|||||||
 |0521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|||||||
 |0522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|||||||
