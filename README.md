@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-08 01:19:12, I have solved **67** / **1047** problems while **161** are still locked.
+Until 2019-07-09 00:13:00, I have solved **68** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 48
+2. Python: 49
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -426,7 +426,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|||||||
 |0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|||||||
 |0415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|||||||
-|0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|||||||
+|0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0416.%20Partition%20Equal%20Subset%20Sum/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0416.%20Partition%20Equal%20Subset%20Sum/416.py)||||
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |Medium|||||||
 |0418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) :lock:|Medium|||||||
 |0419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) |Medium|||||||
