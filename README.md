@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-09 00:40:14, I have solved **69** / **1047** problems while **161** are still locked.
+Until 2019-07-10 00:03:48, I have solved **70** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 50
+2. Python: 51
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -342,7 +342,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |Hard|||||||
 |0330|[Patching Array](https://leetcode.com/problems/patching-array/description/) |Hard|||||||
 |0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) |Medium|||||||
-|0332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) |Medium|||||||
+|0332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0332.%20Reconstruct%20Itinerary/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0332.%20Reconstruct%20Itinerary/332.py)||||
 |0333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/description/) :lock:|Medium|||||||
 |0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/) |Medium|||||||
 |0335|[Self Crossing](https://leetcode.com/problems/self-crossing/description/) |Hard|||||||
