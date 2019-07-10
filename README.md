@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-10 23:46:40, I have solved **72** / **1047** problems while **161** are still locked.
+Until 2019-07-11 00:39:49, I have solved **73** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 53
+2. Python: 54
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -67,7 +67,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|||||||
 |0038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|||||||
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0039.%20Combination%20Sum/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0039.%20Combination%20Sum/0039.py)||||
-|0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|||||||
+|0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0040.%20Combination%20Sum%20II/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0040.%20Combination%20Sum%20II/0040.py)||||
 |0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0041.%20First%20Missing%20Positive/README.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0041.%20First%20Missing%20Positive/Solution.py)||||
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|||||||
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|||||||
