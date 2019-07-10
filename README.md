@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-11 01:01:57, I have solved **74** / **1047** problems while **161** are still locked.
+Until 2019-07-11 01:27:37, I have solved **74** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -387,7 +387,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|||||||
 |0375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|||||||
 |0376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Medium|||||||
-|0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0377.%20Combination%20Sum%20IV/377.py)||||
+|0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0377.%20Combination%20Sum%20IV/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0377.%20Combination%20Sum%20IV/377.py)||||
 |0378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|||||||
 |0379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|||||||
 |0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|||||||
