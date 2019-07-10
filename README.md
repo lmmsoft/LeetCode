@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-11 00:39:49, I have solved **73** / **1047** problems while **161** are still locked.
+Until 2019-07-11 01:01:57, I have solved **74** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 54
+2. Python: 55
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -227,7 +227,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|||||||
 |0214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|||||||
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|||||||
-|0216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|||||||
+|0216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0216.%20Combination%20Sum%20III/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0216.%20Combination%20Sum%20III/0216.py)||||
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|||||||
 |0218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|||||||
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|||||||
