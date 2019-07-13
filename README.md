@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-11 01:27:37, I have solved **74** / **1047** problems while **161** are still locked.
+Until 2019-07-13 12:50:57, I have solved **75** / **1047** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 55
+2. Python: 56
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -695,7 +695,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|||||||
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|||||||
 |0745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/description/) |Hard|||||||
-|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|||||||
+|0746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0746.%20Min%20Cost%20Climbing%20Stairs/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0746.%20Min%20Cost%20Climbing%20Stairs/0746.py)||||
 |0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) |Easy|||||||
 |0748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) |Easy|||||||
 |0749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|||||||
