@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-13 12:50:57, I have solved **75** / **1047** problems while **161** are still locked.
+Until 2019-07-14 01:37:08, I have solved **79** / **1051** problems while **161** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 56
+2. Python: 60
 3. C++: 12
 4. Java: 11
 5. Kotlin: 1
@@ -1024,6 +1024,9 @@ Note: : locked means you need to buy a book from LeetCode
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|||||||
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|||||||
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
+|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/1118.py)||||
+|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/1119.py)||||
+|1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/1120.py)||||
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1030.%20Matrix%20Cells%20in%20Distance%20Order/1030.py)||||
@@ -1039,6 +1042,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|||||||
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|||||||
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|||||||
+|1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/1121.py)||||
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|||||||
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
