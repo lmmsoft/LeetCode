@@ -13,12 +13,12 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-14 01:37:08, I have solved **79** / **1051** problems while **161** are still locked.
+Until 2019-07-19 22:57:18, I have solved **83** / **1055** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 60
-3. C++: 12
+2. Python: 64
+3. C++: 13
 4. Java: 11
 5. Kotlin: 1
 
@@ -1024,9 +1024,9 @@ Note: : locked means you need to buy a book from LeetCode
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|||||||
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|||||||
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
-|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/1118.py)||||
-|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/1119.py)||||
-|1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/1120.py)||||
+|1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/1118.py)||||
+|1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/1119.py)||||
+|1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/1120.py)||||
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1030.%20Matrix%20Cells%20in%20Distance%20Order/1030.py)||||
@@ -1042,7 +1042,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|||||||
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|||||||
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|||||||
-|1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/1121.py)||||
+|1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) :lock:|Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1121.%20Divide%20Array%20Into%20Increasing%20Sequences/1121.py)||||
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|||||||
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
@@ -1079,3 +1079,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings/1109.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings/1109.java)||
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1110.%20Delete%20Nodes%20And%20Return%20Forest/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1110.%20Delete%20Nodes%20And%20Return%20Forest/1110.py)||||
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/1111.py)||||
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1122.%20Relative%20Sort%20Array/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1122.%20Relative%20Sort%20Array/1122.py)||||
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/1123.py)||||
+|1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.cpp)|||
+|1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/1125.py)||||
