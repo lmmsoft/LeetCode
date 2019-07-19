@@ -1,0 +1,108 @@
+### [1125\. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
+- https://leetcode.com/problems/smallest-sufficient-team
+- https://leetcode.com/contest/weekly-contest-145/problems/smallest-sufficient-team/
+- https://leetcode.com/contest/weekly-contest-145/ranking
+
+Difficulty: **Hard**
+
+
+In a project, you have a list of required skills `req_skills`, and a list of `people`.  The i-th person `people[i]` contains a list of skills that person has.
+
+Consider a _sufficient team_: a set of people such that for every required skill in `req_skills`, there is at least one person in the team who has that skill.  We can represent these teams by the index of each person: for example, `team = [0, 1, 3]` represents the people with skills `people[0]`, `people[1]`, and `people[3]`.
+
+Return **any** sufficient team of the smallest possible size, represented by the index of each person.
+
+You may return the answer in any order.  It is guaranteed an answer exists.
+
+**Example 1:**
+
+```
+Input: req_skills = ["java","nodejs","reactjs"], people = [["java"],["nodejs"],["nodejs","reactjs"]]
+Output: [0,2]
+```
+
+**Example 2:**
+
+```
+Input: req_skills = ["algorithms","math","java","reactjs","csharp","aws"], people = [["algorithms","math","java"],["algorithms","math","reactjs"],["java","csharp","aws"],["reactjs","csharp"],["csharp","math"],["aws","java"]]
+Output: [1,2]
+```
+
+**Constraints:**
+
+*   `1 <= req_skills.length <= 16`
+*   `1 <= people.length <= 60`
+*   `1 <= people[i].length, req_skills[i].length, people[i][j].length <= 16`
+*   Elements of `req_skills` and `people[i]` are (respectively) distinct.
+*   `req_skills[i][j], people[i][j][k]` are lowercase English letters.
+*   It is guaranteed a sufficient team exists.
+
+
+#### Solution
+- 比赛时只想到dfs的算法，没想太清楚，也没来得及写完
+- 赛后看解答
+    - 可以dfs加剪枝过
+    - 也可以用状态压缩dp，状态是2^16个
+- 看了解答后自己尝试一下，结果TLE了
+    - 做了一个简单的优化，AC，水过
+    - 尝试了很多方法，依然是700ms左右
+    - discussion里的解法是70ms左右
+    - 最后发现是把上面一行改成下面一行，原理是 O(N)list查找变成logN dict查找
+    ```
+    if skill_i in people[pid]:
+    if pid in skill_str_to_people_dict[req_skills[skill_i]]:
+    ```
+    
+
+Language: **Python3**
+
+```python3
+from collections import defaultdict
+from typing import List, Dict
+​
+​
+class Solution:
+    def smallestSufficientTeam(self, req_skills: List[str], people: List[List[str]]) -> List[int]:
+        # 最后要返回最小用户集合， 初始化为极大值（所有用户列表）
+        min_people_list: list = list(range(len(people)))
+​
+        # 预处理，把每个人有什么技能 转化成 每个技能有哪些人
+        skill_str_to_people_dict: Dict[str, set] = defaultdict(set)
+        for p_idx, p in enumerate(people):
+            for skill_str in p:
+                skill_str_to_people_dict[skill_str].add(p_idx)
+​
+        # 深搜， 从技能 0 搜到 N
+        # 如果 当前用户集合的技能集合【已经】包含了某技能i，则直接搜索 技能 i + 1
+        # 如果 当前用户集合的技能集合【还没】包含了某技能i，则在会技能i的用户里一次添加
+        def dfs(people_set: set, skill_i: int):
+            nonlocal min_people_list
+            if skill_i == len(req_skills):
+                # 已经搜完所有用户，这是一种可行方案
+                if len(people_set) < len(min_people_list):
+                    min_people_list = list(people_set)
+                return
+​
+            if len(people_set) >= len(min_people_list):
+                # 剪枝, 当前用户集合已经大于最小用户集合，不用再搜索了
+                return
+​
+            # 还没搜完所有用户, 判断当前用户集合的技能集合
+            # skill_set: set = {skill for pid in people_set for skill in people[pid]}
+            # if skill_i in skill_set:
+            #     # 已经包含，直接搜索
+            #     dfs(people_set, skill_i + 1)
+            # else:
+            #     for pid in skill_str_to_people_dict[skill_i]:
+            #         skill_set.add(pid)
+            #         dfs(people_set.union([pid]), skill_i + 1)
+​
+            for pid in people_set:
+                #if skill_i in people[pid]:
+                if pid in skill_str_to_people_dict[req_skills[skill_i]]:
+                    dfs(people_set, skill_i + 1)
+                    return
+            for pid in skill_str_to_people_dict[req_skills[skill_i]]:
+                dfs(people_set.union([pid]), skill_i + 1)
+​
+```
