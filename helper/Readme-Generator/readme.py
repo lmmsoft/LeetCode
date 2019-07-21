@@ -138,7 +138,7 @@ class TableInform:
 
                         # Find solution readme.md
                         if item.lower().strip() == Config.solution_readme_file_name:
-                            folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"), item)
+                            folder_url = os.path.join(Config.github_solution_url, folder.replace(' ', "%20"))
                             self.table_item[problem_id].solution = '[Solution]({})'.format(folder_url)
 
                         # Find solution in different languages, matched files start with
