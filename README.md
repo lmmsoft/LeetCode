@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-19 22:57:18, I have solved **83** / **1055** problems while **165** are still locked.
+Until 2019-07-21 16:41:03, I have solved **85** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 64
+2. Python: 66
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1083,3 +1083,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/1123.py)||||
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.cpp)|||
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/1125.py)||||
+|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/readme.md)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/1128.py)||||
+|1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/1130.py)||||
+|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|||||||
+|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
