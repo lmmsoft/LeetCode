@@ -1,4 +1,6 @@
 ### [1128\. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
+- https://leetcode.com/problems/number-of-equivalent-domino-pairs
+- https://leetcode.com/contest/weekly-contest-146/problems/number-of-equivalent-domino-pairs/
 
 Difficulty: **Easy**
 
