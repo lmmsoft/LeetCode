@@ -1,3 +1,4 @@
+import collections
 from collections import Counter
 from typing import List
 
@@ -6,7 +7,7 @@ class Solution:
     # 比赛时候写的算法，比较笨
     # 1: 可以用s= defaultdict(int)来优化默认值
     # 2：总和可以不用组合数，每次增加 s[i]的原始值即可
-    def numEquivDominoPairs2(self, dominoes: List[List[int]]) -> int:
+    def numEquivDominoPairs1(self, dominoes: List[List[int]]) -> int:
         s = {}
         for d in dominoes:
             i = (d[0], d[1]) if d[0] < d[1] else (d[1], d[0])
@@ -23,7 +24,7 @@ class Solution:
     # 赛后重写的代码，用Counter来优化defaultdict计数
     # 用a,b 来代替 d[0] d[1], 代码更简练易读
     # 用每次增加，省略组合数相加的过程，也避免浮点数错误
-    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
+    def numEquivDominoPairs2(self, dominoes: List[List[int]]) -> int:
         c = Counter()
         ans = 0
         for a, b in dominoes:
@@ -33,6 +34,9 @@ class Solution:
             c[(a, b)] += 1
         print(ans)
         return ans
+
+    def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
+        return int(sum(v * (v - 1) / 2 for v in collections.Counter(tuple(sorted(x)) for x in dominoes).values()))
 
 
 if __name__ == '__main__':
