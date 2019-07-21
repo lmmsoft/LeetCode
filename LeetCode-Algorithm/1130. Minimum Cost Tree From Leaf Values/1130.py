@@ -48,7 +48,7 @@ class Solution:
     # 可惜 O(N^3) time and O(N^2) space
     # 然后简化了题意，简单证明了贪心算法
     # 最后给出了贪心算法的O(N)实现，运行时间和上面方法1一样，但是代码不是很容易懂
-    def mctFromLeafValues(self, A):
+    def mctFromLeafValues3(self, A):
         res, n = 0, len(A)
         stack = [float('inf')]
         for a in A:
@@ -59,6 +59,26 @@ class Solution:
         while len(stack) > 2:
             res += stack.pop() * stack[-1]
         return res
+
+    # 深搜+dp的算法，时间比贪心多一个人数量级
+    # 状态转移方程： dp[i, j] = dp[i, k] + dp[k + 1, j] + max(A[i, k]) * max(A[k + 1, j])
+    def mctFromLeafValues(self, arr: List[int]) -> int:
+        self.memo = {}
+
+        def dp(i, j):
+            if j <= i:
+                return 0
+            if (i, j) not in self.memo:
+                res = float('inf')
+                for k in range(i + 1, j + 1):
+                    res = min(
+                        dp(i, k - 1) + dp(k, j) + max(arr[i:k]) * max(arr[k:j + 1]),
+                        res
+                    )
+                self.memo[(i, j)] = res
+            return self.memo[(i, j)]
+
+        return dp(0, len(arr) - 1)
 
 
 if __name__ == '__main__':
