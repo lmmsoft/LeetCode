@@ -265,6 +265,7 @@ class Readme:
             f.write('| ID | Title | Difficulty | Solution | JavaScript | Python | C++ | Java | Other | \n')
             f.write('|:---:' * 9 + '|\n')
             table, table_item = table_instance
+            table = sorted(table)  # 默认不是题号增序，有点小乱
             for index in table:
                 item = table_item[index]
                 if item.lock:
