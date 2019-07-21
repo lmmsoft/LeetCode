@@ -31,7 +31,7 @@ class Solution:
     # Once we get the new generated non-leaf node, the node with minimum value is useless (For the new generated subtree will be represented with the largest leaf node value.)
     # Repeat it until there is only one node.
 
-    def mctFromLeafValues(self, arr: List[int]) -> int:
+    def mctFromLeafValues2(self, arr: List[int]) -> int:
         res = 0
         while len(arr) > 1:
             mini_idx = arr.index(min(arr))
@@ -40,6 +40,24 @@ class Solution:
             else:
                 res += arr[1 if mini_idx == 0 else mini_idx - 1] * arr[mini_idx]
             arr.pop(mini_idx)
+        return res
+
+    # https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/discuss/339959/JavaC%2B%2BPython-One-Pass-O(N)-Time-and-Space
+    # lee的解题报告
+    # 先介绍了dp的方法: dp[i, j] = dp[i, k] + dp[k + 1, j] + max(A[i, k]) * max(A[k + 1, j])
+    # 可惜 O(N^3) time and O(N^2) space
+    # 然后简化了题意，简单证明了贪心算法
+    # 最后给出了贪心算法的O(N)实现，运行时间和上面方法1一样，但是代码不是很容易懂
+    def mctFromLeafValues(self, A):
+        res, n = 0, len(A)
+        stack = [float('inf')]
+        for a in A:
+            while stack[-1] <= a:
+                mid = stack.pop()
+                res += mid * min(stack[-1], a)
+            stack.append(a)
+        while len(stack) > 2:
+            res += stack.pop() * stack[-1]
         return res
 
 
