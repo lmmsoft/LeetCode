@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-21 17:12:43, I have solved **85** / **1059** problems while **165** are still locked.
+Until 2019-07-25 23:26:38, I have solved **87** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 66
+2. Python: 68
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -448,7 +448,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|||||||
 |0436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|||||||
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|||||||
-|0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|||||||
+|0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Medium|||||||
 |0439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|||||||
 |0440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|||||||
 |0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|||||||
@@ -1084,6 +1084,6 @@ Note: : locked means you need to buy a book from LeetCode
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.cpp)|||
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/1125.py)||||
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/1128.py)||||
-|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|||||||
+|1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors/1129.py)||||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/1130.py)||||
-|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
+|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1131.%20Maximum%20of%20Absolute%20Value%20Expression)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1131.%20Maximum%20of%20Absolute%20Value%20Expression/1131.py)||||
