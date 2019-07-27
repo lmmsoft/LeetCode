@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-25 23:26:38, I have solved **87** / **1059** problems while **165** are still locked.
+Until 2019-07-27 22:24:15, I have solved **86** / **1059** problems while **165** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 68
+2. Python: 67
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1086,4 +1086,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/1128.py)||||
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors/1129.py)||||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/1130.py)||||
-|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1131.%20Maximum%20of%20Absolute%20Value%20Expression)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1131.%20Maximum%20of%20Absolute%20Value%20Expression/1131.py)||||
+|1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
