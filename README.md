@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-27 22:24:15, I have solved **86** / **1059** problems while **165** are still locked.
+Until 2019-07-29 10:05:37, I have solved **86** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -1087,3 +1087,11 @@ Note: : locked means you need to buy a book from LeetCode
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors/1129.py)||||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/1130.py)||||
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
+|1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|||||||
+|1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|||||||
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|||||||
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|||||||
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|||||||
+|1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|||||||
+|1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|||||||
+|1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|||||||
