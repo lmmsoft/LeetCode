@@ -14,6 +14,58 @@ class Solution:
         return x
 
 
+# 最快280ms
+class Solution2:
+    def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
+        request = [0] * (N + 1)
+        graph = [[] for _ in range(N + 1)]
+        for p, n in relations:
+            graph[p].append(n)
+            request[n] += 1
+        available = [i for i in range(1, N + 1) if request[i] == 0]
+        sem = 0
+        while available:
+            sem += 1
+            next_a = []
+            for n in available:
+                for n1 in graph[n]:
+                    request[n1] -= 1
+                    if request[n1] == 0:
+                        next_a.append(n1)
+            available = next_a
+        return sem if sum(request) == 0 else -1
+
+
+# rank13
+from collections import deque
+
+
+class Solution3:
+    def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
+        in_cnt = [0 for _ in range(N + 1)]
+        links = [[] for _ in range(N + 1)]
+        for s, e in relations:
+            links[s].append(e)
+            in_cnt[e] += 1
+
+        c = 0
+        sem = [1e9 for _ in range(N + 1)]
+        q = deque()
+        for i in range(1, N + 1):
+            if in_cnt[i] == 0:
+                q.append(i)
+                sem[i] = 1
+
+        while q:
+            n = q.popleft()
+            for nn in links[n]:
+                in_cnt[nn] -= 1
+                if in_cnt[nn] == 0:
+                    q.append(nn)
+                    sem[nn] = sem[n] + 1
+        return max(sem[1:]) if max(sem[1:]) < 1e8 else -1
+
+
 if __name__ == '__main__':
     assert Solution().minimumSemesters(N=3, relations=[[1, 3], [2, 3]]) == 2
     assert Solution().minimumSemesters(

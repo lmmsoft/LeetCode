@@ -47,6 +47,7 @@ class Solution:
         print(father)
         return res
 
+
 # 别人的简洁写法
 class Solution2:
     def minimumCost(self, N: int, connections: List[List[int]]) -> int:
@@ -126,6 +127,39 @@ class Solution3:
                 total += cost
                 groups -= 1
         return total if groups == 1 else -1
+
+
+# 堆优化，代替排序，复杂度一样
+from heapq import *
+
+
+class Solution4:
+    def minimumCost(self, N: int, conections: List[List[int]]) -> int:
+        links = []
+        for x, y, c in conections:
+            heappush(links, (c, x, y))
+        parent = [i for i in range(N + 1)]
+
+        def findp(x):
+            p = parent[x]
+            if p == x:
+                return p
+            else:
+                parent[x] = findp(p)
+                return parent[x]
+
+        cost, nlink = 0, 0
+
+        while links:
+            c, x, y = heappop(links)
+            if findp(x) == findp(y):
+                continue
+            else:
+                parent[findp(x)] = parent[findp(y)]
+                nlink += 1
+                cost += c
+        return cost if nlink == N - 1 else -1
+
 
 if __name__ == '__main__':
     assert Solution().minimumCost(N=4, conections=[

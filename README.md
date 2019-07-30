@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-30 09:04:39, I have solved **92** / **1067** problems while **169** are still locked.
+Until 2019-07-30 09:36:39, I have solved **92** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -1089,7 +1089,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1133.%20Largest%20Unique%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1133.%20Largest%20Unique%20Number/1133.py)||||
 |1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number/1134.py)||||
-|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost/1135.py)||||
+|1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost/1135.py)||||
 |1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|||||||
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1137.%20N-th%20Tribonacci%20Number/1137.py)||||
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1138.%20Alphabet%20Board%20Path/1138.py)||||
