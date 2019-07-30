@@ -47,6 +47,85 @@ class Solution:
         print(father)
         return res
 
+# 别人的简洁写法
+class Solution2:
+    def minimumCost(self, N: int, connections: List[List[int]]) -> int:
+        connections.sort(key=lambda e: e[2])
+        mfs = list(range(N + 1))
+
+        def find(x):
+            if mfs[x] == x:
+                return x
+            else:
+                mfs[x] = find(mfs[x])
+                return mfs[x]
+
+        totalCost = 0
+        mergeCnt = 0
+        for e in connections:
+            if find(e[0]) != find(e[1]):
+                mfs[find(e[0])] = find(e[1])
+                totalCost += e[2]
+                mergeCnt += 1
+        return totalCost if mergeCnt == N - 1 else -1  # 巧妙利用树枝个数等于节点个数减一的冗余条件，避免了遍历的问题
+
+
+# 别人的解法
+class Solution3:
+    def minimumCost(self, N: int, connections: List[List[int]]) -> int:
+        # sol 1 union find - practice!
+        # graph - dijastrak algorithm?
+
+        # Solution 1
+        # how do you prove that the edge you choose is definitely in the best path?
+        #         graph = collections.defaultdict(list)
+        #         for c1, c2, cost in connections:
+        #             graph[c1].append((cost, c2))
+        #             graph[c2].append((cost, c1))
+
+        #         seen = set()
+        #         total = 0
+        #         q = [(0, 1)]
+        #         while q:
+        #             cost, city = heapq.heappop(q)
+        #             if city not in seen:
+        #                 seen.add(city)
+        #                 total += cost
+        #                 if len(seen) == N:
+        #                     break
+        #                 for new_cost, next_city in graph[city]:
+        #                     if next_city not in seen:
+        #                         heapq.heappush(q, (new_cost, next_city))
+
+        #         return -1 if len(seen) != N else total
+
+        # Solution 2
+        parents = [x for x in range(N)]
+        members = [1] * N
+        groups = N
+
+        def find(x: int) -> int:
+            while parents[x] != x:
+                x = parents[x]
+            return x
+
+        def union(x: int, y: int) -> bool:
+            px, py = find(x), find(y)
+            if px == py:
+                return False
+            if members[px] < members[py]:
+                px, py = py, px
+            members[px] += py
+            parents[py] = px
+            return True
+
+        total = 0
+        connections.sort(key=lambda x: x[2])
+        for c1, c2, cost in connections:
+            if union(c1 - 1, c2 - 1):
+                total += cost
+                groups -= 1
+        return total if groups == 1 else -1
 
 if __name__ == '__main__':
     assert Solution().minimumCost(N=4, conections=[
