@@ -34,3 +34,13 @@ heapq.heapreplace(nums, 6)  # 返回并删除最小值 2， 插入6, 先 pop 再
 heapq.merge()
 heapq.nlargest()
 heapq.nsmallest()
+
+
+
+
+
+from collections import Counter
+from typing import List
+
+def largestUniqueNumber(self, A: List[int]) -> int:
+    c = Counter(A)  # 可以直接用List构造Counter，不需要依次插入

@@ -43,3 +43,14 @@ Note:
 
 ## 解法
 - 这题其实没什么难度，O(1)空间就是O(N*logN)的排序算法，O(N)空间就是O(N)的遍历算法
+
+```python
+我的Counter
+
+c = Counter()
+for a in A:
+    c[a] += 1
+
+其实可以直接构造
+c = Counter(A)
+```
