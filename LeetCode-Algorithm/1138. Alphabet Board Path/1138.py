@@ -20,7 +20,6 @@ class Solution:
 
         i, j = (0, 0)
         res = ''
-        from_s = 'a'
 
         for s in target:
             ii, jj = d[s]
