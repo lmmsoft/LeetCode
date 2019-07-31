@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-01 00:56:28, I have solved **93** / **1067** problems while **169** are still locked.
+Until 2019-08-01 01:01:11, I have solved **94** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 74
+2. Python: 75
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1043,7 +1043,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) :lock:|Easy|||||||
 |1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/description/) :lock:|Medium|||||||
 |1067|[Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/description/) :lock:|Hard|||||||
-|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|||||||
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1071.%20Greatest%20Common%20Divisor%20of%20Strings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1071.%20Greatest%20Common%20Divisor%20of%20Strings/1071.py)||||
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) |Medium|||||||
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/) |Medium|||||||
 |1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|||||||
