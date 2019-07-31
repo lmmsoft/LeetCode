@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-07-31 10:30:50, I have solved **92** / **1067** problems while **169** are still locked.
+Until 2019-08-01 00:56:28, I have solved **93** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 73
+2. Python: 74
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -630,7 +630,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) |Medium|||||||
 |0651|[4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/) :lock:|Medium|||||||
 |0652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) |Medium|||||||
-|0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|||||||
+|0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/653.py)||||
 |0654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|||||||
 |0655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|||||||
 |0656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|||||||
