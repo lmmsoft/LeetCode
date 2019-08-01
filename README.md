@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-01 01:01:11, I have solved **94** / **1067** problems while **169** are still locked.
+Until 2019-08-01 09:36:11, I have solved **94** / **1067** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -1091,7 +1091,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number/1134.py)||||
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost/1135.py)||||
 |1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|||||||
-|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1137.%20N-th%20Tribonacci%20Number/1137.py)||||
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1137.%20N-th%20Tribonacci%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1137.%20N-th%20Tribonacci%20Number/1137.py)||||
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1138.%20Alphabet%20Board%20Path/1138.py)||||
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1139.%20Largest%201-Bordered%20Square/1139.py)||||
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|||||||
