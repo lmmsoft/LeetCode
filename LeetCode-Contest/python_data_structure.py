@@ -44,3 +44,12 @@ from typing import List
 
 def largestUniqueNumber(self, A: List[int]) -> int:
     c = Counter(A)  # 可以直接用List构造Counter，不需要依次插入
+
+
+
+
+from functools import lru_cache
+@lru_cache(None)
+def dp(i, m):
+    if i + 2 * m >= N: return A[i]
+    return A[i] - min(dp(i + x, max(m, x)) for x in range(1, 2 * m + 1))
