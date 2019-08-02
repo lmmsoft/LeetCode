@@ -1,7 +1,11 @@
 ### [1140\. Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+
 - https://leetcode.com/problems/stone-game-ii/
 - https://leetcode.com/contest/weekly-contest-147/problems/stone-game-ii/
 - https://leetcode.com/submissions/detail/247675536/
+- [Python-60ms](https://leetcode.com/submissions/detail/248219892/)
+- [Python-72ms](https://leetcode.com/submissions/detail/248218044/)
+- [Java-2ms](https://leetcode.com/submissions/detail/247675536/)
 
 Difficulty: **Medium**
 
@@ -31,8 +35,87 @@ Explanation:  If Alex takes one pile at the beginning, Lee takes two piles, then
 
 
 #### Solution
+- 博弈的好题
+- 关键吃理解 【最佳】，就是当前取了所有情况中，自己的未来总数最大，对方的未来总数最小
+- 于是就模拟所有情况
+- 需要保存的是最小状态
+    - 当前是谁取，双方是对等的，这个对总数不影响，不需要保存
+    - 当前的位置，影响结果，保存
+    - 当前的M值，影响决策值，保存
+    - 当前a/b两人的个数，这个应该作为结果，而不是个人，所以不需要保存
+        - 又因为a+b= sum(pos)，所以ab只要保存一个，又因为双方对等，只要保存自己就行
+    - （看到有把a or b）作为参数存入缓存的，时间复杂度增加了不少
 
-Language: **Java**
+Language: **Python + Java**
+
+```python
+from typing import List
+
+
+class Solution:
+    def stoneGameII_1(self, piles: List[int]) -> int:
+        L = len(piles)
+
+        d = {}
+
+        # 预处理，后缀和 s[i] = sum(s[i:L])
+        s = []
+        for num in piles:
+            s.append(num)
+        for i in range(L - 2, -1, -1):
+            s[i] += s[i + 1]
+
+        # 当前从pos开始取, M的只是
+        def search(pos: int, M: int):
+            nonlocal s
+            nonlocal d
+
+            if (pos, M) in d:
+                return d[(pos, M)]
+
+            # 可以取到最后一个，那就直接全拿走
+            if pos + 2 * M >= L:
+                return s[pos]
+
+            # 取不到最后一个，那就每种情况都取一遍M 1 to 2*M，选择最佳值
+            b_get_list = []
+            for x in range(1, 2 * M + 1):
+                a_get_current = s[pos + x] - s[pos]  # 自己这轮拿的数量
+                b_get_all = search(pos + x, max(M, x))  # 对方后面拿到的总数
+                b_get_list.append(b_get_all)
+
+            # 最佳情况是 让对方后面拿的总数最小，于是自己就最大了
+            b_get = min(b_get_list)
+            a_get = s[pos] - b_get
+
+            d[(pos, M)] = a_get
+
+            return a_get
+
+        return search(0, 1)
+
+    def stoneGameII(self, piles: List[int]) -> int:
+        L = len(piles)
+        for i in range(L - 2, -1, -1):
+            piles[i] += piles[i + 1]
+
+        from functools import lru_cache
+
+        @lru_cache(None)
+        def dp(pos, M):
+            if pos + 2 * M >= L:
+                return piles[pos]
+
+            return piles[pos] - min([dp(pos + x, max(x, M)) for x in range(1, 2 * M + 1)])
+
+        return dp(0, 1)
+
+
+if __name__ == '__main__':
+    # 26, 24,17,8,4
+    assert Solution().stoneGameII([2, 7, 9, 4, 4]) == 10
+
+```
 
 ```java
 class Solution {
