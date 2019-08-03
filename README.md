@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-03 11:27:40, I have solved **96** / **1068** problems while **169** are still locked.
+Until 2019-08-03 11:51:20, I have solved **97** / **1068** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 77
+2. Python: 78
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -994,7 +994,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|||||||
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|||||||
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|||||||
-|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|||||||
+|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2/1017.py)||||
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205/1018.py)||||
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|||||||
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||

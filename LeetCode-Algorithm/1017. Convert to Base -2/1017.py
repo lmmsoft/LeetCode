@@ -1,5 +1,5 @@
 class Solution:
-    def baseNeg2(self, N: int) -> str:
+    def baseNeg2_1(self, N: int) -> str:
         if N == 0:
             return "0"
         n = N
@@ -20,6 +20,10 @@ class Solution:
         print(ans2)
         return ans2
 
+    # https://leetcode.com/problems/convert-to-base-2/discuss/287017/JavaPython-Easy-One-Line
+    def baseNeg2(self, N):
+        return bin(1431655765 ^ (1431655765 - N))[2:]
+
 
 if __name__ == '__main__':
     assert Solution().baseNeg2(0) == '0'
@@ -29,4 +33,4 @@ if __name__ == '__main__':
     assert Solution().baseNeg2(4) == '100'
     assert Solution().baseNeg2(5) == '101'
     assert Solution().baseNeg2(6) == '11010'
-    assert Solution().baseNeg2(99999999) == '11010'
+    # assert Solution().baseNeg2(99999999) == '11010'
