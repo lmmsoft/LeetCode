@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-02 10:23:42, I have solved **95** / **1068** problems while **169** are still locked.
+Until 2019-08-03 11:27:40, I have solved **96** / **1068** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 76
+2. Python: 77
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -309,7 +309,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|||||||
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|||||||
 |0298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|||||||
-|0299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|||||||
+|0299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Easy|||||||
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|||||||
 |0301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|||||||
 |0302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|||||||
@@ -995,7 +995,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|||||||
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|||||||
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|||||||
-|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|||||||
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205/1018.py)||||
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|||||||
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|||||||
@@ -1058,7 +1058,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1089.%20Duplicate%20Zeros)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1089.%20Duplicate%20Zeros/1089.py)||||
 |1090|[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/description/) |Medium|||||||
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) |Medium|||||||
-|1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|||||||
+|1092|[Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/description/) |Hard|||||||
 |1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/description/) |Medium|||||||
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|||||||
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|||||||
