@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-03 11:54:18, I have solved **97** / **1068** problems while **169** are still locked.
+Until 2019-08-04 23:24:37, I have solved **100** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 78
+2. Python: 81
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1018,7 +1018,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|||||||
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/) |Medium|||||||
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|||||||
-|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|||||||
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Medium|||||||
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|||||||
@@ -1096,3 +1096,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1139.%20Largest%201-Bordered%20Square)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1139.%20Largest%201-Bordered%20Square/1139.py)||||
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1140.%20Stone%20Game%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1140.%20Stone%20Game%20II/1140.py)||||
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|||||||
+|1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag/1144.py)||||
+|1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game/1145.py)||||
+|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1146.%20Snapshot%20Array/1146.py)||||
+|1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|||||||
