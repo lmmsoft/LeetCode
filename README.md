@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-05 00:11:21, I have solved **100** / **1072** problems while **169** are still locked.
+Until 2019-08-06 00:51:20, I have solved **101** / **1072** problems while **169** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 81
+2. Python: 82
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -609,7 +609,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|||||||
 |0630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|||||||
 |0631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|||||||
-|0632|[Smallest Range](https://leetcode.com/problems/smallest-range/description/) |Hard|||||||
+|0632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) |Hard|||||||
 |0633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|||||||
 |0634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|||||||
 |0635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|||||||
@@ -1099,4 +1099,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag/1144.py)||||
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game/1145.py)||||
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1146.%20Snapshot%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1146.%20Snapshot%20Array/1146.py)||||
-|1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|||||||
+|1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition/1147.py)||||
