@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-06 00:51:20, I have solved **101** / **1072** problems while **169** are still locked.
+Until 2019-08-06 23:39:59, I have solved **101** / **1147** problems while **217** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -202,13 +202,29 @@ Note: : locked means you need to buy a book from LeetCode
 |0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|||||||
 |0173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|||||||
 |0174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|||||||
+|0175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) |Easy|||||||
+|0176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) |Easy|||||||
+|0177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/) |Medium|||||||
+|0178|[Rank Scores](https://leetcode.com/problems/rank-scores/description/) |Medium|||||||
 |0179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|||||||
+|0180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/) |Medium|||||||
+|0181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) |Easy|||||||
+|0182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) |Easy|||||||
+|0183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) |Easy|||||||
+|0184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/) |Medium|||||||
+|0185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/) |Hard|||||||
 |0186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|||||||
 |0187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|||||||
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|||||||
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array/solution.py)||||
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|||||||
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|||||||
+|0192|[Word Frequency](https://leetcode.com/problems/word-frequency/description/) |Medium|||||||
+|0193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/) |Easy|||||||
+|0194|[Transpose File](https://leetcode.com/problems/transpose-file/description/) |Medium|||||||
+|0195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) |Easy|||||||
+|0196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) |Easy|||||||
+|0197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) |Easy|||||||
 |0198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|||||||
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|||||||
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|||||||
@@ -273,6 +289,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|||||||
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|||||||
 |0261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|||||||
+|0262|[Trips and Users](https://leetcode.com/problems/trips-and-users/description/) |Hard|||||||
 |0263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|||||||
 |0264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) |Medium|||||||
 |0265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|||||||
@@ -521,6 +538,8 @@ Note: : locked means you need to buy a book from LeetCode
 |0508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|||||||
 |0509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0509.%20Fibonacci%20Number/solution.py)||||
 |0510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/) :lock:|Medium|||||||
+|0511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/) :lock:|Easy|||||||
+|0512|[Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/description/) :lock:|Easy|||||||
 |0513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|||||||
 |0514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|||||||
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|||||||
@@ -542,6 +561,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/) :lock:|Medium|||||||
 |0532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Easy|||||||
 |0533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/description/) :lock:|Medium|||||||
+|0534|[Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/description/) :lock:|Medium|||||||
 |0535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|||||||
 |0536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|||||||
 |0537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|||||||
@@ -557,6 +577,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0547|[Friend Circles](https://leetcode.com/problems/friend-circles/description/) |Medium|||||||
 |0548|[Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|||||||
 |0549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|||||||
+|0550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/) :lock:|Medium|||||||
 |0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|||||||
 |0552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/) |Hard|||||||
 |0553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) |Medium|||||||
@@ -575,13 +596,24 @@ Note: : locked means you need to buy a book from LeetCode
 |0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|||||||
 |0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|||||||
 |0568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|||||||
+|0569|[Median Employee Salary](https://leetcode.com/problems/median-employee-salary/description/) :lock:|Hard|||||||
+|0570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/) :lock:|Medium|||||||
+|0571|[Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/) :lock:|Hard|||||||
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|||||||
 |0573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|||||||
+|0574|[Winning Candidate](https://leetcode.com/problems/winning-candidate/description/) :lock:|Medium|||||||
 |0575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|||||||
 |0576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/) |Medium|||||||
+|0577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/) :lock:|Easy|||||||
+|0578|[Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/description/) :lock:|Medium|||||||
+|0579|[Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/description/) :lock:|Hard|||||||
+|0580|[Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/description/) :lock:|Medium|||||||
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Easy|||||||
 |0582|[Kill Process](https://leetcode.com/problems/kill-process/description/) :lock:|Medium|||||||
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) |Medium|||||||
+|0584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) :lock:|Easy|||||||
+|0585|[Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/) :lock:|Medium|||||||
+|0586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) :lock:|Easy|||||||
 |0587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) |Hard|||||||
 |0588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/description/) :lock:|Hard|||||||
 |0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) |Easy|||||||
@@ -590,21 +622,39 @@ Note: : locked means you need to buy a book from LeetCode
 |0592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) |Medium|||||||
 |0593|[Valid Square](https://leetcode.com/problems/valid-square/description/) |Medium|||||||
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |Easy|||||||
+|0595|[Big Countries](https://leetcode.com/problems/big-countries/description/) |Easy|||||||
+|0596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) |Easy|||||||
+|0597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) :lock:|Easy|||||||
 |0598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) |Easy|||||||
 |0599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) |Easy|||||||
 |0600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) |Hard|||||||
+|0601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/) |Hard|||||||
+|0602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) :lock:|Medium|||||||
+|0603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) :lock:|Easy|||||||
 |0604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|||||||
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |Easy|||||||
 |0606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) |Easy|||||||
+|0607|[Sales Person](https://leetcode.com/problems/sales-person/description/) :lock:|Easy|||||||
+|0608|[Tree Node](https://leetcode.com/problems/tree-node/description/) :lock:|Medium|||||||
 |0609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |Medium|||||||
+|0610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) :lock:|Easy|||||||
 |0611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |Medium|||||||
+|0612|[Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/description/) :lock:|Medium|||||||
+|0613|[Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/) :lock:|Easy|||||||
+|0614|[Second Degree Follower](https://leetcode.com/problems/second-degree-follower/description/) :lock:|Medium|||||||
+|0615|[Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/description/) :lock:|Hard|||||||
 |0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/description/) :lock:|Medium|||||||
 |0617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |Easy|||||||
+|0618|[Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) :lock:|Hard|||||||
+|0619|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/) :lock:|Easy|||||||
+|0620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) |Easy|||||||
 |0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |Medium|||||||
 |0622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|||||||
 |0623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|||||||
 |0624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Easy|||||||
 |0625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/description/) :lock:|Medium|||||||
+|0626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/) |Medium|||||||
+|0627|[Swap Salary](https://leetcode.com/problems/swap-salary/description/) |Easy|||||||
 |0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|||||||
 |0629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|||||||
 |0630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|||||||
@@ -1022,10 +1072,12 @@ Note: : locked means you need to buy a book from LeetCode
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|||||||
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|||||||
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|||||||
+|1045|[Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/) :lock:|Medium|||||||
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1046.%20Last%20Stone%20Weight/1046.py)||||
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/1047.py)||||
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1048.%20Longest%20String%20Chain/1048.py)||||
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|||||||
+|1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) :lock:|Easy|||||||
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) |Easy|||||||
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) |Medium|||||||
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) |Medium|||||||
@@ -1043,14 +1095,23 @@ Note: : locked means you need to buy a book from LeetCode
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/description/) :lock:|Easy|||||||
 |1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/description/) :lock:|Medium|||||||
 |1067|[Digit Count in Range](https://leetcode.com/problems/digit-count-in-range/description/) :lock:|Hard|||||||
+|1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/) :lock:|Easy|||||||
+|1069|[Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/description/) :lock:|Easy|||||||
+|1070|[Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/) :lock:|Medium|||||||
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1071.%20Greatest%20Common%20Divisor%20of%20Strings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1071.%20Greatest%20Common%20Divisor%20of%20Strings/1071.py)||||
 |1072|[Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/) |Medium|||||||
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/description/) |Medium|||||||
 |1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|||||||
+|1075|[Project Employees I](https://leetcode.com/problems/project-employees-i/description/) :lock:|Easy|||||||
+|1076|[Project Employees II](https://leetcode.com/problems/project-employees-ii/description/) :lock:|Easy|||||||
+|1077|[Project Employees III](https://leetcode.com/problems/project-employees-iii/description/) :lock:|Medium|||||||
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/) |Easy|||||||
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) |Medium|||||||
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) |Medium|||||||
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/) |Medium|||||||
+|1082|[Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/) :lock:|Easy|||||||
+|1083|[Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/description/) :lock:|Easy|||||||
+|1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) :lock:|Easy|||||||
 |1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/description/) :lock:|Easy|||||||
 |1086|[High Five](https://leetcode.com/problems/high-five/description/) :lock:|Easy|||||||
 |1087|[Brace Expansion](https://leetcode.com/problems/brace-expansion/description/) :lock:|Medium|||||||
@@ -1063,6 +1124,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/description/) |Medium|||||||
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/description/) |Hard|||||||
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/) |Hard|||||||
+|1097|[Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/description/) :lock:|Hard|||||||
+|1098|[Unpopular Books](https://leetcode.com/problems/unpopular-books/description/) :lock:|Medium|||||||
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/description/) :lock:|Easy|||||||
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/description/) :lock:|Medium|||||||
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|||||||
@@ -1071,10 +1134,17 @@ Note: : locked means you need to buy a book from LeetCode
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1104.%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree/1104.py)||||
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/) |Medium|||||||
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/description/) |Hard|||||||
+|1107|[New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/description/) :lock:|Medium|||||||
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1108.%20Defanging%20an%20IP%20Address)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1108.%20Defanging%20an%20IP%20Address/1108.py)||||
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings/1109.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1109.%20Corporate%20Flight%20Bookings/1109.java)||
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1110.%20Delete%20Nodes%20And%20Return%20Forest)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1110.%20Delete%20Nodes%20And%20Return%20Forest/1110.py)||||
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/1111.py)||||
+|1112|[Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/description/) :lock:|Medium|||||||
+|1113|[Reported Posts](https://leetcode.com/problems/reported-posts/description/) :lock:|Easy|||||||
+|1114|[Print in Order](https://leetcode.com/problems/print-in-order/description/) |Easy|||||||
+|1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/) |Medium|||||||
+|1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/) |Medium|||||||
+|1117|[Building H2O](https://leetcode.com/problems/building-h2o/description/) |Medium|||||||
 |1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1118.%20Number%20of%20Days%20in%20a%20Month/1118.py)||||
 |1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1119.%20Remove%20Vowels%20from%20a%20String/1119.py)||||
 |1120|[Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1120.%20Maximum%20Average%20Subtree/1120.py)||||
@@ -1083,10 +1153,13 @@ Note: : locked means you need to buy a book from LeetCode
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/1123.py)||||
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1124.%20Longest%20Well-Performing%20Interval/1124.cpp)|||
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1125.%20Smallest%20Sufficient%20Team/1125.py)||||
+|1126|[Active Businesses](https://leetcode.com/problems/active-businesses/description/) :lock:|Medium|||||||
+|1127|[User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/description/) :lock:|Hard|||||||
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1128.%20Number%20of%20Equivalent%20Domino%20Pairs/1128.py)||||
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1129.%20Shortest%20Path%20with%20Alternating%20Colors/1129.py)||||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values/1130.py)||||
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/description/) |Medium|||||||
+|1132|[Reported Posts II](https://leetcode.com/problems/reported-posts-ii/description/) :lock:|Medium|||||||
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1133.%20Largest%20Unique%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1133.%20Largest%20Unique%20Number/1133.py)||||
 |1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1134.%20Armstrong%20Number/1134.py)||||
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1135.%20Connecting%20Cities%20With%20Minimum%20Cost/1135.py)||||
@@ -1095,6 +1168,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1138|[Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1138.%20Alphabet%20Board%20Path)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1138.%20Alphabet%20Board%20Path/1138.py)||||
 |1139|[Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1139.%20Largest%201-Bordered%20Square)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1139.%20Largest%201-Bordered%20Square/1139.py)||||
 |1140|[Stone Game II](https://leetcode.com/problems/stone-game-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1140.%20Stone%20Game%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1140.%20Stone%20Game%20II/1140.py)||||
+|1141|[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/) :lock:|Easy|||||||
+|1142|[User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/description/) :lock:|Easy|||||||
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |Medium|||||||
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1144.%20Decrease%20Elements%20To%20Make%20Array%20Zigzag/1144.py)||||
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game/1145.py)||||
