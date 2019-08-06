@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-06 23:39:59, I have solved **101** / **1147** problems while **217** are still locked.
+Until 2019-08-06 23:46:09, I have solved **102** / **1147** problems while **217** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 82
+2. Python: 83
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1141,7 +1141,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/1111.py)||||
 |1112|[Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/description/) :lock:|Medium|||||||
 |1113|[Reported Posts](https://leetcode.com/problems/reported-posts/description/) :lock:|Easy|||||||
-|1114|[Print in Order](https://leetcode.com/problems/print-in-order/description/) |Easy|||||||
+|1114|[Print in Order](https://leetcode.com/problems/print-in-order/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1114.%20Print%20in%20Order)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1114.%20Print%20in%20Order/1114.py)||||
 |1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/description/) |Medium|||||||
 |1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/description/) |Medium|||||||
 |1117|[Building H2O](https://leetcode.com/problems/building-h2o/description/) |Medium|||||||
