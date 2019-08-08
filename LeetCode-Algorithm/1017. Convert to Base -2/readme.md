@@ -42,6 +42,8 @@ Explantion: (-2) ^ 2 = 4
 #### Solution
 - 模拟题，按照进制转换的除法依次计算即可
 - 也有变态发方法，用异或直接 O(1)搞定，详见lee的解法
+    - https://leetcode.com/problems/convert-to-base-2/discuss/287017/JavaPython-Easy-One-Line
+    - https://www.bilibili.com/video/av51966587/
 
 Language: **Python3**
 
