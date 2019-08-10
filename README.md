@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-06 23:46:09, I have solved **102** / **1147** problems while **217** are still locked.
+Until 2019-08-10 15:23:30, I have solved **103** / **1149** problems while **219** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 83
+2. Python: 84
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -419,7 +419,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|||||||
 |0390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|||||||
 |0391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|||||||
-|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Medium|||||||
+|0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Easy|||||||
 |0393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|||||||
 |0394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|||||||
 |0395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|||||||
@@ -427,7 +427,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|||||||
 |0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|||||||
 |0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|||||||
-|0400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|||||||
+|0400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Medium|||||||
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|||||||
 |0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|||||||
 |0403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|||||||
@@ -1046,7 +1046,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|||||||
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2/1017.py)||||
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205/1018.py)||||
-|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|||||||
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1019.%20Next%20Greater%20Node%20In%20Linked%20List)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1019.%20Next%20Greater%20Node%20In%20Linked%20List/1019.py)||||
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|||||||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|||||||
@@ -1175,3 +1175,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1145.%20Binary%20Tree%20Coloring%20Game/1145.py)||||
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1146.%20Snapshot%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1146.%20Snapshot%20Array/1146.py)||||
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition/1147.py)||||
+|1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/) :lock:|Easy|||||||
+|1149|[Article Views II](https://leetcode.com/problems/article-views-ii/description/) :lock:|Medium|||||||
