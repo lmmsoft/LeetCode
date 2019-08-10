@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-10 15:23:30, I have solved **103** / **1149** problems while **219** are still locked.
+Until 2019-08-10 22:12:07, I have solved **104** / **1149** problems while **219** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 84
+2. Python: 85
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1047,7 +1047,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1017.%20Convert%20to%20Base%20-2/1017.py)||||
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1018.%20Binary%20Prefix%20Divisible%20By%205/1018.py)||||
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1019.%20Next%20Greater%20Node%20In%20Linked%20List)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1019.%20Next%20Greater%20Node%20In%20Linked%20List/1019.py)||||
-|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|||||||
+|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1020.%20Number%20of%20Enclaves)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1020.%20Number%20of%20Enclaves/1020.py)||||
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|||||||
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|||||||
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|||||||
