@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-10 22:12:07, I have solved **104** / **1149** problems while **219** are still locked.
+Until 2019-08-11 00:39:59, I have solved **108** / **1153** problems while **219** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 85
+2. Python: 89
 3. C++: 13
 4. Java: 11
 5. Kotlin: 1
@@ -1177,3 +1177,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1147.%20Longest%20Chunked%20Palindrome%20Decomposition/1147.py)||||
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/) :lock:|Easy|||||||
 |1149|[Article Views II](https://leetcode.com/problems/article-views-ii/description/) :lock:|Medium|||||||
+|1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1150.%20Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array/1150.py)||||
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1151.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together/1151.py)||||
+|1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1152.%20Analyze%20User%20Website%20Visit%20Pattern/1152.py)||||
+|1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1153.%20String%20Transforms%20Into%20Another%20String/1153.py)||||
