@@ -11,9 +11,11 @@ class Solution:
         return sum(target == i for i in nums) > len(nums) / 2
         # return sum(1 for i in nums if target == i) > len(nums) / 2
 
-    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+    def isMajorityElement4(self, nums: List[int], target: int) -> bool:
         return Counter(nums)[target] > len(nums) / 2
 
+    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+        return nums.count(target) > len(nums) / 2
 
 if __name__ == '__main__':
     assert Solution().isMajorityElement(nums=[2, 4, 5, 5, 5, 5, 5, 6, 6], target=5)
