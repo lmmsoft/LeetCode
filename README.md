@@ -13,7 +13,7 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-11 16:49:14, I have solved **111** / **1157** problems while **223** are still locked.
+Until 2019-08-11 17:18:41, I have solved **111** / **1157** problems while **223** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
@@ -1182,6 +1182,6 @@ Note: : locked means you need to buy a book from LeetCode
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1152.%20Analyze%20User%20Website%20Visit%20Pattern/1152.py)||||
 |1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/description/) :lock:|Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1153.%20String%20Transforms%20Into%20Another%20String/1153.py)||||
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1154.%20Day%20of%20the%20Year)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1154.%20Day%20of%20the%20Year/1154.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1154.%20Day%20of%20the%20Year/1154.java)||
-|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/1155.py)||||
+|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/1155.py)||||
 |1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1156.%20Swap%20For%20Longest%20Repeated%20Character%20Substring/1156.py)||||
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|||||||
