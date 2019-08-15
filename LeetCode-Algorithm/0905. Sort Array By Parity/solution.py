@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def sortArrayByParity(self, A):
         """
@@ -20,3 +23,6 @@ class Solution:
     def sortArrayByParity2(self, A):
         A.sort(key=lambda x: x % 2)
         return A
+
+    def sortArrayByParity3(self, A: List[int]) -> List[int]:
+        return sorted(A, key=lambda x: x % 2)
