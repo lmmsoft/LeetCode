@@ -46,6 +46,14 @@ class Solution:
 
         return False, 0
 
+    def longestArithSeqLength2(self, A):
+        dp = {}
+        for i in range(len(A)):
+            for j in range(i + 1, len(A)):
+                diff = A[j] - A[i]
+                dp[j, diff] = dp.get((i, diff), 1) + 1
+        return max(dp.values())
+
 
 if __name__ == '__main__':
     assert Solution().longestArithSeqLength([24, 13, 1, 100, 0, 94, 3, 0, 3]) == 2
