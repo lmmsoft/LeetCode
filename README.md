@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-18 00:59:46, I have solved **113** / **1159** problems while **225** are still locked.
+Until 2019-08-18 01:35:44, I have solved **114** / **1159** problems while **225** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 94
+2. Python: 95
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1054,7 +1054,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/description/) |Medium|||||||
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1025.%20Divisor%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1025.%20Divisor%20Game/1025.py)||||
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/1026.py)||||
-|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1027.%20Longest%20Arithmetic%20Sequence)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1027.%20Longest%20Arithmetic%20Sequence/1027.py)||||
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1029.%20Two%20City%20Scheduling/1029.py)||||
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1030.%20Matrix%20Cells%20in%20Distance%20Order/1030.py)||||

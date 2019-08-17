@@ -12,9 +12,8 @@ class Solution:
         self.d = defaultdict(list)  # val, list:index
 
         l = len(A)
-        for i in range(0, l):
-            v = A[i]
-            self.d[v].append(i)
+        for i, n in enumerate(A):
+            self.d[n].append(i)
 
         for i in range(0, l):
             for j in range(i + 1, l):
