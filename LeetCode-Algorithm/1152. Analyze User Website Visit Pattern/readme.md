@@ -1,4 +1,5 @@
-### 1152\. Analyze User Website Visit Pattern My Submissions Back to Contest
+### [1152\. Analyze User Website Visit Pattern](https://leetcode.com/contest/biweekly-contest-6/problems/analyze-user-website-visit-pattern/)
+- https://leetcode.com/contest/biweekly-contest-6/ranking/
 
 Difficulty: **Medium**
 
@@ -45,7 +46,21 @@ The 3-sequence ("cart", "maps", "home") was visited at least once by 1 user.
 5.  Both `username[i]` and `website[i]` contain only lowercase characters.
 
 #### Solution
+##### 分析网站的访问模式
+- 给了一大串 (用户,时间,页面) 的访问网站模式串，找到出现次数最多的先后顺序相同的三个网址
+- 实现起来比较麻烦，但并不困难
+- 先按照 user : (time, web) 存储
+- 再对于每个用户，找到web的3-seq全排列 C(N,3) 每种排列都放到该用户的排列集合里
+- 对于每个用户 3-seq 求交集，找到出现次数最大的即可
 
+##### sorted
+- 新学到的python dict排序方法，如果k,v 都是排序条件，可以用 sorted(d.items(), key=xxx)
+    - 其中lambad x里， k =x[0], v=x[1]
+- rank3代码里看到的 ans = sorted(three_sequence.items(), key=lambda x: (-x[1], x[0][0], x[0][1], x[0][2])) 很精妙，自己写了好长一串
+
+##### zip
+- 整合传输的参数时，不用下标的话，还可以使用zip()
+- for t, u, w in sorted(zip(timestamp, username, website)):
 Language: **Python3**
 
 ```python3

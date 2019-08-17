@@ -1,4 +1,4 @@
-### 1153\. String Transforms Into Another String My Submissions Back to Contest
+### [1153\. String Transforms Into Another String](https://leetcode.com/contest/biweekly-contest-6/problems/string-transforms-into-another-string/)
 
 Difficulty: **Hard**
 
@@ -30,6 +30,12 @@ Explanation: There is no way to transform str1 to str2.
 2.  Both `str1` and `str2` contain only lowercase English letters.
 
 #### Solution
+- https://leetcode.com/contest/biweekly-contest-6/ranking/
+- 字符串变化
+- 每次可以把所有某个字母变成另外一个，问能否变成
+- 原来同样的字母，变后一定一样
+- 如果原来26个小写字母都有了，目标也是26个小写字母，就无法变化了，因为没有零时字母供变化
+
 
 Language: **Python3**
 

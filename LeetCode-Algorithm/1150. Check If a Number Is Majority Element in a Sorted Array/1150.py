@@ -1,3 +1,4 @@
+from collections import Counter
 from typing import List
 
 
@@ -6,9 +7,12 @@ class Solution:
         cnt = sum(1 for i in nums if target == i)
         return cnt > len(nums) / 2
 
-    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+    def isMajorityElement3(self, nums: List[int], target: int) -> bool:
         return sum(target == i for i in nums) > len(nums) / 2
         # return sum(1 for i in nums if target == i) > len(nums) / 2
+
+    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+        return Counter(nums)[target] > len(nums) / 2
 
 
 if __name__ == '__main__':

@@ -35,21 +35,36 @@ heapq.merge()
 heapq.nlargest()
 heapq.nsmallest()
 
-
-
-
-
 from collections import Counter
 from typing import List
+
 
 def largestUniqueNumber(self, A: List[int]) -> int:
     c = Counter(A)  # 可以直接用List构造Counter，不需要依次插入
 
 
-
-
 from functools import lru_cache
+
+
 @lru_cache(None)
 def dp(i, m):
     if i + 2 * m >= N: return A[i]
     return A[i] - min(dp(i + x, max(m, x)) for x in range(1, 2 * m + 1))
+
+
+# 排列，组合
+# 排列是有序的，结果比较多 eg (0,1) (1,0) 是两种
+# 组合是无序的，结果比较少 eg (0,1) (1,0) 是同样的
+
+def permu():
+    from itertools import permutations
+    l = range(3)
+    print(list(permutations(l, 2)))
+    # [(0, 1), (0, 2), (1, 0), (1, 2), (2, 0), (2, 1)]
+
+
+def comb():
+    from itertools import combinations
+    l = list(range(3))
+    print(list(combinations(l, 2)))
+    # [(0, 1), (0, 2), (1, 2)]

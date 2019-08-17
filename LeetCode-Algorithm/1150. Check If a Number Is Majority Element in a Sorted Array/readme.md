@@ -1,4 +1,5 @@
-### 1150\. Check If a Number Is Majority Element in a Sorted Array My Submissions Back to Contest
+### [1150\. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/contest/biweekly-contest-6/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)
+- https://leetcode.com/contest/biweekly-contest-6/ranking/
 
 Difficulty: **Easy**
 
@@ -33,17 +34,27 @@ Thus, 101 is not a majority element because 2 > 4/2 is false.
 3.  `1 <= target <= 10^9`
 
 #### Solution
+- 题意：求target数在数组里出现次数是否超过总数的一半
+- 题目比较水，一行写也有很多方法，最短的是用Counter
 
 Language: **Python3**
 
 ```python3
+from collections import Counter
 from typing import List
 ​
 ​
 class Solution:
-    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+    def isMajorityElement2(self, nums: List[int], target: int) -> bool:
         cnt = sum(1 for i in nums if target == i)
         return cnt > len(nums) / 2
+​
+    def isMajorityElement3(self, nums: List[int], target: int) -> bool:
+        return sum(target == i for i in nums) > len(nums) / 2
+        # return sum(1 for i in nums if target == i) > len(nums) / 2
+​
+    def isMajorityElement(self, nums: List[int], target: int) -> bool:
+        return Counter(nums)[target] > len(nums) / 2
 ​
 ​
 if __name__ == '__main__':

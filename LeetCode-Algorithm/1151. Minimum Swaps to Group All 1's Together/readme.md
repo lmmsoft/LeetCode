@@ -1,4 +1,5 @@
-### 1151\. Minimum Swaps to Group All 1's Together My Submissions Back to Contest
+### [1151\. Minimum Swaps to Group All 1's Together](https://leetcode.com/contest/biweekly-contest-6/problems/minimum-swaps-to-group-all-1s-together/)
+- https://leetcode.com/contest/biweekly-contest-6/ranking/
 
 Difficulty: **Medium**
 
@@ -41,6 +42,8 @@ One possible solution that uses 3 swaps is [0,0,0,0,0,1,1,1,1,1,1].
 2.  `0 <= data[i] <= 1`
 
 #### Solution
+- 题意，每次可以任意交换两个数，求把1都连续在一起，最少交换多少数
+- 解法，找到1的个数，比如是x个，再求连续x个数里面最多有y个1，x-y就是最少交换的个数
 
 Language: **Python3**
 
