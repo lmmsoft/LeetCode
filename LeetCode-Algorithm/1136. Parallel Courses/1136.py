@@ -4,17 +4,32 @@ from typing import List
 
 class Solution:
     def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
-        d = defaultdict(list)
+        node_nums = {i: 0 for i in range(1, N + 1)}
+        next_nodes = defaultdict(list)
         for a, b in relations:
-            d[b].append(a)
+            node_nums[b] += 1
+            next_nodes[a].append(b)
+        queue = [node for node, num in node_nums.items() if num == 0]
+        res = 0
+        while queue:
+            res += 1
+            next_queue = []
+            while queue:
+                node = queue.pop()
+                for next in next_nodes[node]:
+                    node_nums[next] -= 1
+                    if node_nums[next] == 0:
+                        next_queue.append(next)
+            queue = next_queue
 
-        x = N - len(d)
-        if x == 0:
-            return -1
-        return x
+        s = sum(node_nums.values())
+        if s == 0:
+            return res
+        return -1
+
+    # 最快280ms
 
 
-# 最快280ms
 class Solution2:
     def minimumSemesters(self, N: int, relations: List[List[int]]) -> int:
         request = [0] * (N + 1)
