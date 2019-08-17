@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-17 18:06:27, I have solved **111** / **1159** problems while **225** are still locked.
+Until 2019-08-18 00:36:20, I have solved **112** / **1159** problems while **225** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 92
+2. Python: 93
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1053,7 +1053,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|||||||
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/description/) |Medium|||||||
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|||||||
-|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|||||||
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/1026.py)||||
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|||||||
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|||||||
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1029.%20Two%20City%20Scheduling/1029.py)||||

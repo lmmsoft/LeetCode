@@ -1,3 +1,6 @@
+from typing import List, Optional
+
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, x):
@@ -6,7 +9,7 @@ class TreeNode:
         self.right = None
 
 
-class Solution:
+class Solution_in_contest:
     h = []
     h_max = []
 
@@ -60,6 +63,54 @@ class Solution:
         return m
 
 
+class Solution:
+    def maxAncestorDiff_2(self, root: TreeNode) -> int:
+        def dfs(node: TreeNode, Min, Max):
+            if not node:
+                return Max - Min
+            if node.val < Min:
+                l = dfs(node.left, node.val, Max)
+                r = dfs(node.right, node.val, Max)
+            elif node.val > Max:
+                l = dfs(node.left, Min, node.val)
+                r = dfs(node.right, Min, node.val)
+            else:
+                l = dfs(node.left, Min, Max)
+                r = dfs(node.right, Min, Max)
+            return max(l, r)
+
+        return dfs(root, root.val, root.val)  # 这种写法不能 给Min Max默认参数，是因为 if node.val < Min时，Max传入的不是正确的值
+
+    def maxAncestorDiff(self, root, mn=100000, mx=0):
+        return max(
+            self.maxAncestorDiff(root.left, min(mn, root.val), max(mx, root.val)),
+            self.maxAncestorDiff(root.right, min(mn, root.val), max(mx, root.val))
+        ) if root else mx - mn
+
+
+def array_to_tree_nodel(l: List[int]) -> Optional[TreeNode]:
+    head: Optional[TreeNode] = None
+    tree_node_list: List[Optional[TreeNode]] = [None] * len(l)
+
+    for idx, val in enumerate(l):
+        if val is None:
+            continue
+        node = TreeNode(val)
+        if idx == 0:
+            head = node
+        else:
+            parent_idx = (idx + 1) // 2 - 1
+            if tree_node_list[parent_idx]:
+                if idx % 2:  # left tree
+                    tree_node_list[parent_idx].left = node
+                else:
+                    tree_node_list[parent_idx].right = node
+
+        tree_node_list[idx] = node
+
+    return head
+
+
 if __name__ == '__main__':
     root: TreeNode = TreeNode(8)
     l1: TreeNode = TreeNode(3)
@@ -82,3 +133,5 @@ if __name__ == '__main__':
     r22.left = r31
 
     print(Solution().maxAncestorDiff(root))
+
+    assert Solution().maxAncestorDiff(array_to_tree_nodel([8, 3, 10, 1, 6, None, 14, None, None, 4, 7, 13])) == 7
