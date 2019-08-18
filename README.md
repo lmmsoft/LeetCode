@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-18 14:17:24, I have solved **117** / **1163** problems while **225** are still locked.
+Until 2019-08-18 14:33:42, I have solved **118** / **1163** problems while **225** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 98
+2. Python: 99
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1187,7 +1187,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|||||||
 |1158|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/description/) :lock:|Medium|||||||
 |1159|[Market Analysis II](https://leetcode.com/problems/market-analysis-ii/description/) :lock:|Hard|||||||
-|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) |Easy|||||||
+|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/1160.py)||||
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/1161.py)||||
 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible/1162.py)||||
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order/1163.py)||||
