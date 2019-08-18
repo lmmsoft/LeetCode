@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-18 12:34:17, I have solved **115** / **1163** problems while **225** are still locked.
+Until 2019-08-18 14:10:03, I have solved **116** / **1163** problems while **225** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 96
+2. Python: 97
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1189,5 +1189,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1159|[Market Analysis II](https://leetcode.com/problems/market-analysis-ii/description/) :lock:|Hard|||||||
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/) |Easy|||||||
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) |Medium|||||||
-|1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|||||||
+|1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible/1162.py)||||
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order/1163.py)||||
