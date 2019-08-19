@@ -68,3 +68,10 @@ def comb():
     l = list(range(3))
     print(list(combinations(l, 2)))
     # [(0, 1), (0, 2), (1, 2)]
+
+
+import itertools
+
+# 排列组合
+list(itertools.combinations(['a', 'b', 'c'], 2))  # [('a', 'b'), ('a', 'c'), ('b', 'c')]
+list(itertools.permutations(['a', 'b', 'c'], 2))  # [('a', 'b'), ('a', 'c'), ('b', 'a'), ('b', 'c'), ('c', 'a'), ('c', 'b')]
