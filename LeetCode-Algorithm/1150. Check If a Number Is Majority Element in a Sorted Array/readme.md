@@ -1,5 +1,7 @@
 ### [1150\. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/contest/biweekly-contest-6/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)
 - https://leetcode.com/contest/biweekly-contest-6/ranking/
+- https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
+- https://leetcode.com/contest/biweekly-contest-6/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 
 Difficulty: **Easy**
 
@@ -36,6 +38,8 @@ Thus, 101 is not a majority element because 2 > 4/2 is false.
 #### Solution
 - 题意：求target数在数组里出现次数是否超过总数的一半
 - 题目比较水，一行写也有很多方法，最短的是用Counter
+- [最快]的的方法是直接count target，和总个数比较
+- [最好]有个log N的方法值得一看
 
 Language: **Python3**
 
