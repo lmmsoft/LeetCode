@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-20 00:31:15, I have solved **119** / **1163** problems while **225** are still locked.
+Until 2019-08-21 22:43:49, I have solved **120** / **1164** problems while **226** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 100
+2. Python: 101
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -949,7 +949,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) |Medium|||||||
 |0920|[Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) |Hard|||||||
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) |Medium|||||||
-|0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) |Easy|||||||
+|0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0922.%20Sort%20Array%20By%20Parity%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0922.%20Sort%20Array%20By%20Parity%20II/922.py)||||
 |0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) |Medium|||||||
 |0924|[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) |Hard|||||||
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/) |Easy|||||||
@@ -1191,3 +1191,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/1161.py)||||
 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1162.%20As%20Far%20from%20Land%20as%20Possible/1162.py)||||
 |1163|[Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1163.%20Last%20Substring%20in%20Lexicographical%20Order/1163.py)||||
+|1164|[Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/) :lock:|Medium|||||||
