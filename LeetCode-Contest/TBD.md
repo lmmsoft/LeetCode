@@ -10,3 +10,4 @@
             - https://leetcode-cn.com/problems/ones-and-zeroes
 - Array
     - 862, 比O(N)更好的方法
+    - 33 二分写法
