@@ -13,11 +13,11 @@ TBD
 - [x] README.md auto generate (with link to problem and code)
 
 ## Statistic
-Until 2019-08-21 22:43:49, I have solved **120** / **1164** problems while **226** are still locked.
+Until 2019-08-21 23:02:10, I have solved **121** / **1164** problems while **226** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
-2. Python: 101
+2. Python: 102
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -879,7 +879,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|||||||
 |0850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|||||||
 |0851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|||||||
-|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|||||||
+|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/852.py)||||
 |0853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|||||||
 |0854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|||||||
 |0855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|||||||
