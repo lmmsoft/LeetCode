@@ -234,7 +234,7 @@ class Readme:
         self.msg = '## Statistic\n' \
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
-                   '\n\nCompletion statistic: ' \
+                   '\n' \
                    '\n1. JavaScript: {javascript} ' \
                    '\n2. Python: {python}' \
                    '\n3. C++: {c++}' \
