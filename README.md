@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-22 01:21:32, I have solved **122** / **1164** problems while **226** are still locked.
+Until 2019-08-22 23:39:18, I have solved **123** / **1164** problems while **226** are still locked.
 
 1. JavaScript: 1 
-2. Python: 103
+2. Python: 104
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -94,7 +94,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|||||||
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|||||||
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|||||||
-|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|||||||
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0074.%20Search%20a%202D%20Matrix)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0074.%20Search%20a%202D%20Matrix/74.py)||||
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|||||||
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|||||||
 |0077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|||||||
