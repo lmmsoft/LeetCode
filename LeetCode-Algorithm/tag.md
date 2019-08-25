@@ -5,3 +5,4 @@
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
 |1169| |Easy|模拟|
+|1170|Array|Medium|二分|
