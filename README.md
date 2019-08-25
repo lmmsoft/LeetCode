@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-25 17:30:38, I have solved **125** / **1172** problems while **230** are still locked.
+Until 2019-08-25 23:27:35, I have solved **126** / **1172** problems while **230** are still locked.
 
 1. JavaScript: 1 
-2. Python: 106
+2. Python: 107
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1191,5 +1191,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/) :lock:|Hard|||||||
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions/1169.py)||||
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/1170.py)||||
-|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|||||||
+|1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/1171.py)||||
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|||||||
