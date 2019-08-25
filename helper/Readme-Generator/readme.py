@@ -79,7 +79,7 @@ class TableInform:
         # return byte. content type is byte
         headers = {
             'authority': 'leetcode.com',
-            'cookie': '__cfduid=d81ff4a0bd0171e9eec761321521a17641558490779; _ga=GA1.2.1847416064.1558490776; csrftoken=X6eeqBAXptlCnTTXLnRYO1Kb5K0NPvaxSndM3l691jBAWbjjLBt0MOC8MoYM092r; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTQ3NzUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJiNDU0NGU1MTRiY2NmNzA5Nzg1NjhlNmM5MmUwYTViZDNhY2U5MTRjIiwiaWQiOjU0Nzc1LCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIiwidXNlcm5hbWUiOiJsbW0zMzMiLCJ1c2VyX3NsdWciOiJsbW0zMzMiLCJhdmF0YXIiOiJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzA3OTcyMGMxZDQzZTI3OWMxOGRkNGMwNmIxNWQ5MWIyLnBuZz9zPTIwMCIsInRpbWVzdGFtcCI6IjIwMTktMDYtMTYgMTY6MzE6MzkuNTAzMjc4KzAwOjAwIiwiUkVNT1RFX0FERFIiOiIxMjUuMTE5LjIzOS4xMzgiLCJJREVOVElUWSI6IjY2MTkyMDQ3OTI3NGM3NjM3NmJmNWMxMmM1ZWQ0ZGExIiwiX3Nlc3Npb25fZXhwaXJ5IjoxMjA5NjAwfQ.jSnztQWHMTVlAPa-dLEImmMp-n-HVA9fdE7_Kz4QLkE; c_a_u=bG1tMzMz:1hcY4x:XoLD6zc9dzpVGxy4wh3ritM8guA; _gid=GA1.2.940401254.1561905893',
+            'cookie': '__cfduid=d81ff4a0bd0171e9eec761321521a17641558490779; _ga=GA1.2.1847416064.1558490776; __stripe_mid=fa0dd4de-74e5-4973-9727-4256261e96c8; csrftoken=BnbOlYSLXq7BoymEvrRrjS6PSs2cZ1Y62GbXRgouitTN2N0cIHBqH0Moywuyk3r3; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTQ3NzUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlZGRkNGJjMGQzYjU2YTlhOGNmMDFiNjk3MWMwYTFiNmM5MjllYTg0IiwiaWQiOjU0Nzc1LCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIiwidXNlcm5hbWUiOiJsbW0zMzMiLCJ1c2VyX3NsdWciOiJsbW0zMzMiLCJhdmF0YXIiOiJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzA3OTcyMGMxZDQzZTI3OWMxOGRkNGMwNmIxNWQ5MWIyLnBuZz9zPTIwMCIsInRpbWVzdGFtcCI6IjIwMTktMDgtMTIgMTY6NTI6MzAuNDU3ODY0KzAwOjAwIiwiSVAiOiIxODMuMTI4LjEwOC4yMDAiLCJJREVOVElUWSI6IjY5YjhlZWUyNTEwZTdkMTIzYzc2ZDljNjJhNjJkMGY3IiwiX3Nlc3Npb25fZXhwaXJ5IjoxMjA5NjAwfQ.iyQXqKJkouaihb8w3n6HgTzfXK-LloxKlGCAUFqJVSU; _gid=GA1.2.748541151.1566575768; c_a_u=bG1tMzMz:1i1lav:uUK-rC-r-U-airp5aaxhO2p2fqE; __atuvc=29%7C31%2C5%7C32%2C3%7C33%2C18%7C34%2C7%7C35',
         }
         content = requests.get('https://leetcode.com/api/problems/all/', headers=headers).content
         # get all problems
@@ -129,6 +129,11 @@ class TableInform:
                 # print(folder)
                 # print(os.path.join(solution_path, folder))
                 problem_id = folder[:4]
+
+                if problem_id not in self.table_item:
+                    # 非algorithms里面的题目，放在algorithm文件夹里，比如并行题目，会导致只查algorithm的时候下标越界，有目录没题目
+                    continue
+
                 for _, _, files in os.walk(os.path.join(solution_path, folder)):
 
                     has_conplete_solution = False
