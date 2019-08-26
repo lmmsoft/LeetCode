@@ -6,6 +6,7 @@
 |922|Array|Easy|双指针|
 |1165| |Easy|水题|
 |1166| |Medium|水题|
+|1167|Heap|Medium|堆 贪心|
 |1169| |Easy|模拟|
 |1170|Array|Medium|二分|
 |1171| |Medium|其他|

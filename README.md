@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-26 22:29:28, I have solved **129** / **1172** problems while **230** are still locked.
+Until 2019-08-26 22:52:26, I have solved **129** / **1172** problems while **230** are still locked.
 
 1. JavaScript: 1 
 2. Python: 110
@@ -1187,7 +1187,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1164|[Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/) :lock:|Medium|||||||
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1165.%20Single-Row%20Keyboard)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1165.%20Single-Row%20Keyboard/1165.py)||||
 |1166|[Design File System](https://leetcode.com/problems/design-file-system/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1166.%20Design%20File%20System)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1166.%20Design%20File%20System/1166.py)||||
-|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1167.%20Minimum%20Cost%20to%20Connect%20Sticks/1167.py)||||
+|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1167.%20Minimum%20Cost%20to%20Connect%20Sticks)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1167.%20Minimum%20Cost%20to%20Connect%20Sticks/1167.py)||||
 |1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/) :lock:|Hard|||||||
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions/1169.py)||||
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/1170.py)||||
