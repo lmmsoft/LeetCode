@@ -14,9 +14,7 @@ class FileSystem:
         return True
 
     def get(self, path: str) -> int:
-        if path in self.val:
-            return self.val[path]
-        return -1
+        return self.val.get(path, -1)
 
 
 # Your FileSystem object will be instantiated and called as such:
