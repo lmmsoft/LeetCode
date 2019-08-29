@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-27 23:06:33, I have solved **131** / **1172** problems while **230** are still locked.
+Until 2019-08-29 23:49:34, I have solved **131** / **1174** problems while **232** are still locked.
 
 1. JavaScript: 1 
 2. Python: 112
@@ -1193,3 +1193,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/1170.py)||||
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/1171.py)||||
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks/1172.py)||||
+|1173|[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/) :lock:|Easy|||||||
+|1174|[Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/) :lock:|Medium|||||||
