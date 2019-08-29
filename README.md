@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-27 00:17:26, I have solved **130** / **1172** problems while **230** are still locked.
+Until 2019-08-27 23:06:33, I have solved **131** / **1172** problems while **230** are still locked.
 
 1. JavaScript: 1 
-2. Python: 111
+2. Python: 112
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1189,7 +1189,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1166|[Design File System](https://leetcode.com/problems/design-file-system/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1166.%20Design%20File%20System)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1166.%20Design%20File%20System/1166.py)||||
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1167.%20Minimum%20Cost%20to%20Connect%20Sticks)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1167.%20Minimum%20Cost%20to%20Connect%20Sticks/1167.py)||||
 |1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/description/) :lock:|Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1168.%20Optimize%20Water%20Distribution%20in%20a%20Village)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1168.%20Optimize%20Water%20Distribution%20in%20a%20Village/1168.py)||||
-|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions/1169.py)||||
+|1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1169.%20Invalid%20Transactions/1169.py)||||
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/1170.py)||||
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1171.%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/1171.py)||||
-|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|||||||
+|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks/1172.py)||||
