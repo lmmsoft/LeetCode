@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-30 23:42:49, I have solved **132** / **1174** problems while **232** are still locked.
+Until 2019-08-30 23:56:20, I have solved **133** / **1174** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 113
+2. Python: 114
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -406,7 +406,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|||||||
 |0384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|||||||
 |0385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|||||||
-|0386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|||||||
+|0386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0386.%20Lexicographical%20Numbers)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0386.%20Lexicographical%20Numbers/386.py)||||
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|||||||
 |0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|||||||
 |0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0389.%20Find%20the%20Difference)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0389.%20Find%20the%20Difference/389.py)||||
