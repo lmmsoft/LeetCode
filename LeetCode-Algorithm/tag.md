@@ -2,6 +2,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |33|Array|Medium|二分|
 |74|Array|Medium|二分|
+|389|String|Easy|水题|
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
 |1165| |Easy|水题|
