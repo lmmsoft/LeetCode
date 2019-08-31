@@ -1,5 +1,6 @@
 |题号|类型|难度|tag|收藏|
 |:---:|:---:|:---:|:---:|:---:|
+|2|ListNode|Medium|链表 基本操作|
 |33|Array|Medium|二分|
 |74|Array|Medium|二分|
 |386|Array|Easy|水题|

@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-08-30 23:56:20, I have solved **133** / **1174** problems while **232** are still locked.
+Until 2019-09-01 00:12:37, I have solved **134** / **1174** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 114
+2. Python: 115
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -22,7 +22,7 @@ Note: : locked means you need to buy a book from LeetCode
 | ID | Title | Difficulty | Solution | JavaScript | Python | C++ | Java | Other | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum)|[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.cpp)|[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.java)|[Kotlin](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.kt)|
-|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|||||||
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0002.%20Add%20Two%20Numbers)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0002.%20Add%20Two%20Numbers/2.py)||||
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|||||||
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|||||||
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|||||||
