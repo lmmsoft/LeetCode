@@ -14,4 +14,6 @@
 |1169| |Easy|模拟|
 |1170|Array|Medium|二分|
 |1171| |Medium|其他|
-|1172|Heap Stack|Hard|堆栈 模拟 代码功力|收藏| 
+|1172|Heap Stack|Hard|堆栈 模拟 代码功力|收藏|
+|1175|Math|Easy|数学 质数 排列数|
+|1176|Sliding Window |Easy|滑动窗口|

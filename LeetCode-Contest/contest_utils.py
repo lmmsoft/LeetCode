@@ -108,3 +108,17 @@ def test_array_to_treenode():
 if __name__ == '__main__':
     test_array_to_listnode()
     test_array_to_treenode()
+
+
+# Math
+
+# 阶乘，看了下源码，应该用的是矩阵快速幂
+# https://github.com/python/cpython/blob/master/Modules/mathmodule.c
+from math import factorial
+factorial(0) ## 1
+factorial(1) ## 1
+factorial(2) ## 2
+factorial(5) ## 120
+
+def is_prime(n):
+    return all(n % j for j in range(2, int(n ** 0.5) + 1)) and n > 1

@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-01 00:12:37, I have solved **134** / **1174** problems while **232** are still locked.
+Until 2019-09-01 13:36:11, I have solved **135** / **1178** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 115
+2. Python: 116
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1195,3 +1195,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1172.%20Dinner%20Plate%20Stacks/1172.py)||||
 |1173|[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/) :lock:|Easy|||||||
 |1174|[Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/) :lock:|Medium|||||||
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements/1175.py)||||
+|1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) |Easy|||||||
+|1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/) |Medium|||||||
+|1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|||||||
