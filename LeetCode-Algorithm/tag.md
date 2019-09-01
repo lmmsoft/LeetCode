@@ -17,3 +17,4 @@
 |1172|Heap Stack|Hard|堆栈 模拟 代码功力|收藏|
 |1175|Math|Easy|数学 质数 排列数|
 |1176|Sliding Window |Easy|滑动窗口|
+|1177| |Medium|前缀和|
