@@ -83,7 +83,9 @@ class TableInform:
         }
         content = requests.get('https://leetcode.com/api/problems/all/', headers=headers).content
         # get all problems
-        self.questions = json.loads(content)['stat_status_pairs']
+        json_contenst = json.loads(content)
+        self._save_api_result(json_contenst)
+        self.questions = json_contenst['stat_status_pairs']
         # print(self.questions)
         difficultys = ['Easy', 'Medium', 'Hard']
         for i in range(len(self.questions) - 1, -1, -1):
@@ -103,6 +105,11 @@ class TableInform:
             self.table.append(q.id_)
             self.table_item[q.id_] = q
         return self.table, self.table_item
+
+    def _save_api_result(self, json_contenst):
+        path = Config.local_readme_folder + "/api.json"
+        with open(path, 'w') as f:
+            json.dump(json_contenst, f, ensure_ascii=False, indent=4)
 
     # create problems folders
     def __create_folder(self):
