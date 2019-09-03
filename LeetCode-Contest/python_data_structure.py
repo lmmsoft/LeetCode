@@ -75,3 +75,15 @@ import itertools
 # 排列组合
 list(itertools.combinations(['a', 'b', 'c'], 2))  # [('a', 'b'), ('a', 'c'), ('b', 'c')]
 list(itertools.permutations(['a', 'b', 'c'], 2))  # [('a', 'b'), ('a', 'c'), ('b', 'a'), ('b', 'c'), ('c', 'a'), ('c', 'b')]
+
+
+# 排序妙用
+
+## 找到最短的字符串
+strs = ['a','ab']
+s = min(strs, key = len)
+
+## 把 1-N 的数字按照字典序排序
+n =100
+sorted(range(1, n + 1), key=lambda x: str(x))
+sorted(range(1, n + 1), key=str)  # 不用写lambda 直接用现成函数就行!

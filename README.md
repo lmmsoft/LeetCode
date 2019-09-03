@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-04 00:00:11, I have solved **139** / **1178** problems while **232** are still locked.
+Until 2019-09-04 00:21:58, I have solved **140** / **1178** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 120
+2. Python: 121
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -34,7 +34,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water/Solution.py)||||
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|||||||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer/13.py)||||
-|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|||||||
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0014.%20Longest%20Common%20Prefix/14.py)||||
 |0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum/Solution.java)||
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|||||||
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|||||||
