@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-02 23:21:43, I have solved **137** / **1178** problems while **232** are still locked.
+Until 2019-09-04 00:00:11, I have solved **139** / **1178** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 118
+2. Python: 120
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -29,11 +29,11 @@ Note: : locked means you need to buy a book from LeetCode
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|||||||
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0007.%20Reverse%20Integer/Solution.cpp)|||
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|||||||
-|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|||||||
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0009.%20Palindrome%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0009.%20Palindrome%20Number/9.py)||||
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|||||||
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water/Solution.py)||||
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|||||||
-|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|||||||
+|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer/13.py)||||
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|||||||
 |0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum/Solution.java)||
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|||||||
