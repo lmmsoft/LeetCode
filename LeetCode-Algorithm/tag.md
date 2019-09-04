@@ -21,3 +21,5 @@
 |1175|Math|Easy|数学 质数 排列数|
 |1176|Sliding Window |Easy|滑动窗口|
 |1177|Prefix Sum |Medium|前缀和|
+|1178|Bit Manipulation|Hard|位压缩 全排列|
+
