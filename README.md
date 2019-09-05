@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-06 00:01:13, I have solved **142** / **1178** problems while **232** are still locked.
+Until 2019-09-06 00:17:25, I have solved **143** / **1178** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 123
+2. Python: 124
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -48,7 +48,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|||||||
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element/solution.py)||||
-|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|||||||
+|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr())||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr()/28.py)||||
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|||||||
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|||||||
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|||||||
