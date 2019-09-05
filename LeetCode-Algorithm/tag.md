@@ -3,14 +3,17 @@
 |2|ListNode|Medium|链表 基本操作|
 |9| |Easy|水题|
 |13| |Easy|罗马数字转换|
-|20|Stack|Easy|水题|
 |14|String|Easy|水题|
-|33|Array|Medium|二分|
+|20|Stack|Easy|水题|
+|28|String|Easy|KMP裸题|TBD|
+|33|Array|Medium|二分|TBD 二分写法|
 |74|Array|Medium|二分|
 |386|Array|Easy|水题|
 |389|String|Easy|水题|
+|474|DP|Medium|多重背包|TBD|
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
+|1105|DP|Medium|DP|TBD|
 |1165| |Easy|水题|
 |1166| |Medium|水题|
 |1167|Heap|Medium|堆 贪心|
