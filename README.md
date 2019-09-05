@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-04 00:21:58, I have solved **140** / **1178** problems while **232** are still locked.
+Until 2019-09-06 00:01:13, I have solved **142** / **1178** problems while **232** are still locked.
 
 1. JavaScript: 1 
-2. Python: 121
+2. Python: 123
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -34,13 +34,13 @@ Note: : locked means you need to buy a book from LeetCode
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0011.%20Container%20With%20Most%20Water/Solution.py)||||
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|||||||
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0013.%20Roman%20to%20Integer/13.py)||||
-|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0014.%20Longest%20Common%20Prefix/14.py)||||
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0014.%20Longest%20Common%20Prefix)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0014.%20Longest%20Common%20Prefix/14.py)||||
 |0015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0015.%203Sum/Solution.java)||
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|||||||
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|||||||
 |0018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0018.%204Sum/Solution.java)||
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|||||||
-|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|||||||
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0020.%20Valid%20Parentheses)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0020.%20Valid%20Parentheses/20.py)||||
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0021.%20Merge%20Two%20Sorted%20Lists/Solution.java)||
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|||||||
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|||||||
@@ -957,7 +957,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|||||||
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|||||||
 |0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|||||||
-|0937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|||||||
+|0937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Easy|||||||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|||||||
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|||||||
 |0940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|||||||
@@ -1198,4 +1198,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements/1175.py)||||
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance/1176.py)||||
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring/1177.py)||||
-|1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|||||||
+|1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/1178.py)||||

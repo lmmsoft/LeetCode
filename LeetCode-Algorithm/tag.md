@@ -3,6 +3,7 @@
 |2|ListNode|Medium|链表 基本操作|
 |9| |Easy|水题|
 |13| |Easy|罗马数字转换|
+|20|Stack|Easy|水题|
 |14|String|Easy|水题|
 |33|Array|Medium|二分|
 |74|Array|Medium|二分|
