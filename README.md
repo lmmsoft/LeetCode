@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-06 00:17:25, I have solved **143** / **1178** problems while **232** are still locked.
+Until 2019-09-07 00:06:58, I have solved **144** / **1178** problems while **233** are still locked.
 
 1. JavaScript: 1 
-2. Python: 124
+2. Python: 125
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -58,7 +58,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0035.%20Search%20Insert%20Position)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0035.%20Search%20Insert%20Position/solution.py)||||
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|||||||
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|||||||
-|0038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|||||||
+|0038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0038.%20Count%20and%20Say)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0038.%20Count%20and%20Say/38.py)||||
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0039.%20Combination%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0039.%20Combination%20Sum/0039.py)||||
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0040.%20Combination%20Sum%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0040.%20Combination%20Sum%20II/0040.py)||||
 |0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0041.%20First%20Missing%20Positive)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0041.%20First%20Missing%20Positive/Solution.py)||||
@@ -1196,6 +1196,6 @@ Note: : locked means you need to buy a book from LeetCode
 |1173|[Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/) :lock:|Easy|||||||
 |1174|[Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/) :lock:|Medium|||||||
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1175.%20Prime%20Arrangements/1175.py)||||
-|1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance/1176.py)||||
+|1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance/1176.py)||||
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring/1177.py)||||
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/1178.py)||||
