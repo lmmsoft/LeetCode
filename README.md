@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-08 23:25:50, I have solved **145** / **1187** problems while **237** are still locked.
+Until 2019-09-08 23:39:17, I have solved **146** / **1187** problems while **237** are still locked.
 
 1. JavaScript: 1 
-2. Python: 126
+2. Python: 127
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1206,5 +1206,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/description/) :lock:|Hard|||||||
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops/1184.py)||||
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1185.%20Day%20of%20the%20Week)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1185.%20Day%20of%20the%20Week/1185.py)||||
-|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|||||||
+|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion/1186.py)||||
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) |Hard|||||||
