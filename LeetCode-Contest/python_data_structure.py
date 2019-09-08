@@ -87,3 +87,7 @@ s = min(strs, key = len)
 n =100
 sorted(range(1, n + 1), key=lambda x: str(x))
 sorted(range(1, n + 1), key=str)  # 不用写lambda 直接用现成函数就行!
+
+
+# TBD
+from itertools import accumulate

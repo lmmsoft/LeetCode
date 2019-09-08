@@ -60,7 +60,7 @@ Language: **Python3**
 
 - Solution1 暴力
 - Solution2 优化办法
-- Solution3 用accumulate, 借阅代码行数
+- Solution3 用accumulate, 节约代码行数
 
 ```python3
 from typing import List

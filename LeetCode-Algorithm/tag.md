@@ -14,6 +14,7 @@
 |474|DP|Medium|多重背包|TBD|
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
+|1019|ListNode|Medium|TBD-P3 比赛时候没做出来，赛后也看了很久没理解，不难的题目|
 |1105|DP|Medium|DP|TBD|
 |1123|二叉树|Medium|DFS|
 |1124|Array|Medium|前缀和|TBD-P1|
@@ -35,5 +36,5 @@
 |1178|Bit Manipulation|Hard|位压缩 全排列|
 |1184| |Easy|水题|
 |1185|日期|Easy|水题|日期求星期几 有公式直接算|
-|1186|DP|Medium|可以删一个数的最大连续子序列和|TBD|
-|1187|DP|Hard| |TBD|
+|1186|DP|Medium|可以删一个数的最大连续子序列和|TBD-P3|
+|1187|DP|Hard| |TBD-P3|
