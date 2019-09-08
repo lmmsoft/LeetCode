@@ -15,6 +15,12 @@
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
 |1105|DP|Medium|DP|TBD|
+|1123|二叉树|Medium|DFS|
+|1124|Array|Medium|前缀和|TBD-P1|
+|1125|DP|Hard|搜索 状态压缩DP|TBD-P3|
+|1146| | |二分|
+|1147|String| |Rabin Karp Algorithm|TBD|
+|1157| |Hard|随机算法|Not AC|
 |1165| |Easy|水题|
 |1166| |Medium|水题|
 |1167|Heap|Medium|堆 贪心|
@@ -27,4 +33,4 @@
 |1176|Sliding Window |Easy|滑动窗口|
 |1177|Prefix Sum |Medium|前缀和|
 |1178|Bit Manipulation|Hard|位压缩 全排列|
-
+|1184| |Easy|水题|

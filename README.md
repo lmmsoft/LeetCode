@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-07 00:06:58, I have solved **144** / **1178** problems while **233** are still locked.
+Until 2019-09-08 23:16:46, I have solved **144** / **1187** problems while **237** are still locked.
 
 1. JavaScript: 1 
 2. Python: 125
@@ -1199,3 +1199,12 @@ Note: : locked means you need to buy a book from LeetCode
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1176.%20Diet%20Plan%20Performance/1176.py)||||
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1177.%20Can%20Make%20Palindrome%20from%20Substring/1177.py)||||
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/1178.py)||||
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/) |Easy|||||||
+|1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/description/) :lock:|Easy|||||||
+|1181|[Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/description/) :lock:|Medium|||||||
+|1182|[Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/description/) :lock:|Medium|||||||
+|1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/description/) :lock:|Hard|||||||
+|1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops/1184.py)||||
+|1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/description/) |Easy|||||||
+|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|||||||
+|1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) |Hard|||||||
