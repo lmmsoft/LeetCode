@@ -1,6 +1,7 @@
 ### [1183\. Maximum Number of Ones](https://leetcode.com/contest/biweekly-contest-8/problems/maximum-number-of-ones/)
 - https://leetcode.com/problems/maximum-number-of-ones/discuss
 - https://leetcode.com/contest/biweekly-contest-8/problems/maximum-number-of-ones/
+- https://leetcode.com/submissions/detail/259277421/
 
 Difficulty: **Hard**
 

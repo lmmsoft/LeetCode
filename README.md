@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-10 01:11:33, I have solved **151** / **1187** problems while **237** are still locked.
+Until 2019-09-10 01:13:35, I have solved **151** / **1187** problems while **237** are still locked.
 
 1. JavaScript: 1 
 2. Python: 132
