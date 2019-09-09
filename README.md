@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-09 23:34:16, I have solved **151** / **1187** problems while **237** are still locked.
+Until 2019-09-09 23:41:47, I have solved **151** / **1187** problems while **237** are still locked.
 
 1. JavaScript: 1 
 2. Python: 132
@@ -1201,7 +1201,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle/1178.py)||||
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/) |Easy|||||||
 |1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1180.%20Count%20Substrings%20with%20Only%20One%20Distinct%20Letter)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1180.%20Count%20Substrings%20with%20Only%20One%20Distinct%20Letter/1180.py)||||
-|1181|[Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1181.%20Before%20and%20After%20Puzzle/1181.py)||||
+|1181|[Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1181.%20Before%20and%20After%20Puzzle)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1181.%20Before%20and%20After%20Puzzle/1181.py)||||
 |1182|[Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1182.%20Shortest%20Distance%20to%20Target%20Color/1182.py)||||
 |1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/description/) :lock:|Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1183.%20Maximum%20Number%20of%20Ones/1183.py)||||
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops/1184.py)||||

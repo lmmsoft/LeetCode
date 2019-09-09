@@ -1,6 +1,7 @@
 ### [1180\. Count Substrings with Only One Distinct Letter](https://leetcode.com/contest/biweekly-contest-8/problems/count-substrings-with-only-one-distinct-letter/)
 - https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/discuss
 - https://leetcode.com/contest/biweekly-contest-8/problems/count-substrings-with-only-one-distinct-letter/
+- https://leetcode.com/contest/biweekly-contest-8/submissions/detail/258592755/
 
 Difficulty: **Easy**
 
