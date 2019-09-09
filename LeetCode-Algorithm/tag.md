@@ -36,6 +36,7 @@
 |1178|Bit Manipulation|Hard|位压缩 全排列|
 |1180| |Easy|水题|
 |1181|String|Easy|水题|
+|1182|Array|Medium|二分|
 |1184| |Easy|水题|
 |1185|日期|Easy|水题|日期求星期几 有公式直接算|
 |1186|DP|Medium|可以删一个数的最大连续子序列和|TBD-P3|
