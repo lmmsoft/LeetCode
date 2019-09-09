@@ -34,6 +34,7 @@
 |1176|Sliding Window |Easy|滑动窗口|
 |1177|Prefix Sum |Medium|前缀和|
 |1178|Bit Manipulation|Hard|位压缩 全排列|
+|1180| |Easy|水题|
 |1184| |Easy|水题|
 |1185|日期|Easy|水题|日期求星期几 有公式直接算|
 |1186|DP|Medium|可以删一个数的最大连续子序列和|TBD-P3|
