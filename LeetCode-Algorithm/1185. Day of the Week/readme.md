@@ -1,4 +1,4 @@
-### [5183\. Day of the Week](https://leetcode.com/contest/weekly-contest-153/problems/day-of-the-week/)
+### [1185\. Day of the Week](https://leetcode.com/contest/weekly-contest-153/problems/day-of-the-week/)
 
 Difficulty: **Easy**
 
