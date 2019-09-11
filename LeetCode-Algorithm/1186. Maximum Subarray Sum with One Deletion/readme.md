@@ -1,3 +1,65 @@
+### [1186\. Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)
+
+Difficulty: **Medium**
+
+
+Given an array of integers, return the maximum sum for a **non-empty** subarray (contiguous elements) with at most one element deletion. In other words, you want to choose a subarray and optionally delete one element from it so that there is still at least one element left and the sum of the remaining elements is maximum possible.
+
+Note that the subarray needs to be **non-empty** after deleting one element.
+
+**Example 1:**
+
+```
+Input: arr = [1,-2,0,3]
+Output: 4
+Explanation: Because we can choose [1, -2, 0, 3] and drop -2, thus the subarray [1, 0, 3] becomes the maximum value.
+```
+
+**Example 2:**
+
+```
+Input: arr = [1,-2,-2,3]
+Output: 3
+Explanation: We just choose [3] and it's the maximum sum.
+```
+
+**Example 3:**
+
+```
+Input: arr = [-1,-1,-1,-1]
+Output: -1
+Explanation: The final subarray needs to be non-empty. You can't choose [-1] and delete -1 from it, then get an empty subarray to make the sum equals to 0.
+```
+
+**Constraints:**
+
+*   `1 <= arr.length <= 10^5`
+*   `-10^4 <= arr[i] <= 10^4`
+
+
+#### Solution
+- 题意：可以删除一个数的最大子序列和
+- 对于不可以删除的最大子序列，dp[i] = dp[i-1]>=0? dp[i-1]+arr[i] : arr[i] , MaxSum = max(dp[0...n])
+- 对于可删除的最大子序列 用dp[0][i]记录没删过的值， dp[1][i]记录删过的值
+- dp[0][i] 和上面的情况一样
+- dp[1][i] 可以有两种情况
+    - 之前删过，当前不删  dp[1][i-1] + arr[i]
+    - 之前没删，当前删 dp[0][i]
+    - 不存在从头开始的情况
+    - 所以 dp[1][i] = max (dp[1][i-1] + arr[i], dp[0][i])
+- 思路二
+    - 对于朴素的Maximum Subarray eg: https://leetcode.com/problems/maximum-subarray/
+    - max_sum[i:j] = sum[0:j] - min_sum(0:i)
+    - 想要子序列和最大， 因为总和是固定的，所以找到最小的前缀和即可
+    - 于是O(N)遍历数组，记录并更新Sum和min_sum即可
+- 基于思路二推广
+    - 这一题可以这么思考 删除arr[i]之后的最大值 = max(以i-1为终点的子序列) + max(以i+1为起点的子序列)
+    - 然后分别求 以某个数为起点或终点的子序列，遍历即可 O(N) 顺序，逆序，再顺序，扫描三遍
+    - 详见第二部分代码
+
+Language: **Python3**
+
+```python3
 from typing import List
 
 
@@ -65,3 +127,5 @@ if __name__ == '__main__':
     assert Solution().maximumSum([1, -2, 0, 3]) == 4
     assert Solution().maximumSum(arr=[1, -2, -2, 3]) == 3
     assert Solution().maximumSum([-1, -1, -1, -1]) == -1
+
+```

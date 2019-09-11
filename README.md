@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-11 02:00:16, I have solved **151** / **1187** problems while **237** are still locked.
+Until 2019-09-12 01:31:28, I have solved **151** / **1187** problems while **237** are still locked.
 
 1. JavaScript: 1 
 2. Python: 132
@@ -1206,5 +1206,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/description/) :lock:|Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1183.%20Maximum%20Number%20of%20Ones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1183.%20Maximum%20Number%20of%20Ones/1183.py)||||
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1184.%20Distance%20Between%20Bus%20Stops/1184.py)||||
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1185.%20Day%20of%20the%20Week)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1185.%20Day%20of%20the%20Week/1185.py)||||
-|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion/1186.py)||||
+|1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion/1186.py)||||
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) |Hard|||||||
