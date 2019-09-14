@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-13 00:10:42, I have solved **152** / **1188** problems while **238** are still locked.
+Until 2019-09-14 23:46:24, I have solved **153** / **1188** problems while **238** are still locked.
 
 1. JavaScript: 1 
-2. Python: 133
+2. Python: 134
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -78,7 +78,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|||||||
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|||||||
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|||||||
-|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|||||||
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0058.%20Length%20of%20Last%20Word/58.py)||||
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|||||||
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|||||||
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|||||||
