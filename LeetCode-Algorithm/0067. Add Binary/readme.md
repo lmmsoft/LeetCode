@@ -29,6 +29,21 @@ Output: "10101"
     - int("10",2)==2
     - int("10",3)==3
     - int("10",16)==16
+- 标准库用法：
+    - format(2,'b)=='10'
+    - format(8,'o')=='10'
+    - format(10,'d')=='10'
+    - format(15,'x')=='f'
+    - format(16,'x')=='10'
+    - format(900,'e')=='9.000000e+02'
+    - format(900.1234,'f')=='900.123400'
+    - For more details: help('FORMATTING')
+    - ord('A')==65
+    - ord('a')==97
+    - ord('@')==64
+    - format(97,'c')=='a
+    - format(65,'c')=='A'
+    - format(64,'@')=='@
 
 Language: **Python3**
 

@@ -1,5 +1,5 @@
 class Solution:
-    def addBinary2(self, a: str, b: str) -> str:
+    def addBinary1(self, a: str, b: str) -> str:
         def str2int(s):
             sum = 0
             base = 1
@@ -15,12 +15,21 @@ class Solution:
         print(res)
         return res
 
-    def addBinary(self, a: str, b: str) -> str:
+    def addBinary2(self, a: str, b: str) -> str:
         return str(
             bin(
                 int(a, 2) + int(b, 2)
             )
         )[2:]
+
+    def addBinary(self, a: str, b: str) -> str:
+        return str(
+            format(
+                int(a, 2) + int(b, 2),
+                'b'
+            )
+        )
+    ord()
 
 
 if __name__ == '__main__':
