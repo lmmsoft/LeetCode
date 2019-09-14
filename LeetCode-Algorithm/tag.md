@@ -9,6 +9,7 @@
 |33|Array|Medium|二分|TBD 二分写法|
 |38|String|Easy|水题|一次写对也不容易|
 |58|String|Easy|水题| |
+|67|String|Easy|二进制转换| |
 |74|Array|Medium|二分|
 |386|Array|Easy|水题|
 |389|String|Easy|水题|

@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-14 23:46:24, I have solved **153** / **1188** problems while **238** are still locked.
+Until 2019-09-15 00:05:12, I have solved **154** / **1188** problems while **238** are still locked.
 
 1. JavaScript: 1 
-2. Python: 134
+2. Python: 135
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -87,7 +87,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|||||||
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|||||||
 |0066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0066.%20Plus%20One)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0066.%20Plus%20One/solution.py)||||
-|0067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|||||||
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0067.%20Add%20Binary)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0067.%20Add%20Binary/67.py)||||
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|||||||
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|||||||
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|||||||
