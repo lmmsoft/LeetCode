@@ -15,21 +15,18 @@ class Solution:
         print(res)
         return res
 
-    def addBinary2(self, a: str, b: str) -> str:
-        return str(
-            bin(
-                int(a, 2) + int(b, 2)
-            )
+    def addBinary(self, a: str, b: str) -> str:
+        return bin(
+            int(a, 2) + int(b, 2)
         )[2:]
 
-    def addBinary(self, a: str, b: str) -> str:
+    def addBinary3(self, a: str, b: str) -> str:
         return str(
             format(
                 int(a, 2) + int(b, 2),
                 'b'
             )
         )
-    ord()
 
 
 if __name__ == '__main__':
