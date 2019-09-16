@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-16 23:22:18, I have solved **156** / **1192** problems while **238** are still locked.
+Until 2019-09-17 00:45:43, I have solved **157** / **1192** problems while **238** are still locked.
 
 1. JavaScript: 1 
-2. Python: 137
+2. Python: 138
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1211,5 +1211,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1188|[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/description/) :lock:|Medium|||||||
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1189.%20Maximum%20Number%20of%20Balloons)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1189.%20Maximum%20Number%20of%20Balloons/1189.py)||||
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/1190.py)||||
-|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) |Medium|||||||
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1191.%20K-Concatenation%20Maximum%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1191.%20K-Concatenation%20Maximum%20Sum/1191.py)||||
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) |Hard|||||||
