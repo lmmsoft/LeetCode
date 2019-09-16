@@ -51,7 +51,7 @@ class Solution:
 
         return s % (10 ** 9 + 7)
 
-    def kConcatenationMaxSum(self, arr: List[int], k: int) -> int:
+    def kConcatenationMaxSum2(self, arr: List[int], k: int) -> int:
         cur = arr[0]
 
         prefix_max = cur
@@ -88,6 +88,15 @@ class Solution:
             ans = max(ans, kadane(arr + arr))
             ans = max(ans, prefix_max + suffix_max + (k - 2) * max(0, total_sum))
         return ans % (10 ** 9 + 7)
+
+    def kConcatenationMaxSum(self, arr: List[int], k: int, mod=10 ** 9 + 7) -> int:
+        def Kadane(arr, res=0, cur=0):
+            for num in arr:
+                cur = max(num, num + cur)
+                res = max(res, cur)
+            return res
+
+        return ((k - 2) * max(sum(arr), 0) + Kadane(arr * 2)) % mod if k > 1 else Kadane(arr) % mod  # mod已经预定义好了
 
 
 if __name__ == '__main__':
