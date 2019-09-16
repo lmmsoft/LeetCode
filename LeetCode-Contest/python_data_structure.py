@@ -45,7 +45,8 @@ def largestUniqueNumber(self, A: List[int]) -> int:
 
 from functools import lru_cache
 
-
+A:List=[]
+N:int=len(A)
 @lru_cache(None)
 def dp(i, m):
     if i + 2 * m >= N: return A[i]
