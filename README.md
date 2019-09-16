@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-15 00:05:12, I have solved **154** / **1188** problems while **238** are still locked.
+Until 2019-09-16 23:00:52, I have solved **155** / **1192** problems while **238** are still locked.
 
 1. JavaScript: 1 
-2. Python: 135
+2. Python: 136
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1209,3 +1209,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion/1186.py)||||
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1187.%20Make%20Array%20Strictly%20Increasing)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1187.%20Make%20Array%20Strictly%20Increasing/1187.py)||||
 |1188|[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/description/) :lock:|Medium|||||||
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1189.%20Maximum%20Number%20of%20Balloons)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1189.%20Maximum%20Number%20of%20Balloons/1189.py)||||
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|||||||
+|1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) |Medium|||||||
+|1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) |Hard|||||||
