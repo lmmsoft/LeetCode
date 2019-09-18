@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-17 00:45:43, I have solved **157** / **1192** problems while **238** are still locked.
+Until 2019-09-19 00:38:16, I have solved **158** / **1194** problems while **240** are still locked.
 
 1. JavaScript: 1 
-2. Python: 138
+2. Python: 139
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -89,7 +89,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0066.%20Plus%20One)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0066.%20Plus%20One/solution.py)||||
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0067.%20Add%20Binary)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0067.%20Add%20Binary/67.py)||||
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|||||||
-|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|||||||
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0069.%20Sqrt(x))||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0069.%20Sqrt(x)/69.py)||||
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|||||||
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|||||||
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|||||||
@@ -1213,3 +1213,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/1190.py)||||
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1191.%20K-Concatenation%20Maximum%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1191.%20K-Concatenation%20Maximum%20Sum/1191.py)||||
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) |Hard|||||||
+|1193|[Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/) :lock:|Medium|||||||
+|1194|[Tournament Winners](https://leetcode.com/problems/tournament-winners/description/) :lock:|Hard|||||||
