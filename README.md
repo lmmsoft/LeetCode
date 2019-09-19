@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-19 00:38:16, I have solved **158** / **1194** problems while **240** are still locked.
+Until 2019-09-20 00:11:54, I have solved **159** / **1195** problems while **240** are still locked.
 
 1. JavaScript: 1 
-2. Python: 139
+2. Python: 140
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -677,7 +677,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|||||||
 |0655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|||||||
 |0656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|||||||
-|0657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|||||||
+|0657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0657.%20Robot%20Return%20to%20Origin)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0657.%20Robot%20Return%20to%20Origin/657.py)||||
 |0658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|||||||
 |0659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|||||||
 |0660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|||||||
@@ -1215,3 +1215,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/) |Hard|||||||
 |1193|[Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/) :lock:|Medium|||||||
 |1194|[Tournament Winners](https://leetcode.com/problems/tournament-winners/description/) :lock:|Hard|||||||
+|1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/) |Medium|||||||
