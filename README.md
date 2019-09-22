@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-22 00:34:24, I have solved **162** / **1199** problems while **240** are still locked.
+Until 2019-09-22 13:28:52, I have solved **162** / **1203** problems while **244** are still locked.
 
 1. JavaScript: 1 
 2. Python: 143
@@ -1216,7 +1216,11 @@ Note: : locked means you need to buy a book from LeetCode
 |1193|[Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/description/) :lock:|Medium|||||||
 |1194|[Tournament Winners](https://leetcode.com/problems/tournament-winners/description/) :lock:|Hard|||||||
 |1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/) |Medium|||||||
-|1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/1196.py)||||
-|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves/1197.py)||||
-|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows/1198.py)||||
-|1199|[Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) |Hard|||||||
+|1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/description/) :lock:|Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/1196.py)||||
+|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves/1197.py)||||
+|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows/1198.py)||||
+|1199|[Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) :lock:|Hard|||||||
+|1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) |Easy|||||||
+|1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/) |Medium|||||||
+|1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/) |Medium|||||||
+|1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/) |Hard|||||||
