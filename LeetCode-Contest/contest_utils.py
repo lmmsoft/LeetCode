@@ -122,3 +122,37 @@ factorial(5) ## 120
 
 def is_prime(n):
     return all(n % j for j in range(2, int(n ** 0.5) + 1)) and n > 1
+
+
+# 并查集模版
+n = 100
+parents = [x for x in range(0, n + 1)]
+members = [1] * (n + 1)
+
+
+def find(x: int) -> int:
+    while parents[x] != x:
+        x = parents[x]
+    return x
+
+
+def union(x: int, y: int) -> bool:
+    px, py = find(x), find(y)
+    if px == py:
+        return False
+    if members[px] < members[py]:
+        px, py = py, px
+    members[px] += members[py]
+    parents[py] = px
+    return True
+
+
+# 最大公约数
+def gcd(a, b):
+    if a == 0:
+        return b
+    return gcd(b % a, a)
+
+# 最小公倍数
+def lcm(a, b):
+    return (a * b) // gcd(a, b)
