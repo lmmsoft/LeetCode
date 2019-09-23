@@ -156,3 +156,8 @@ def gcd(a, b):
 # 最小公倍数
 def lcm(a, b):
     return (a * b) // gcd(a, b)
+
+# math
+import math
+
+assert math.gcd(4, 6) == 2
