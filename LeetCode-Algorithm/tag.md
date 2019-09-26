@@ -50,6 +50,7 @@
 |1190|Stack|Medium|栈操作变化|收藏|
 |1191|DP|Medium|Kadane 最大子段和| |
 |1196| |Easy|水题| |
+|1197|BFS|Medium|棋盘跳马|有公式，可以O(1)求解|
 |1200| |Easy|水题|排序枚举|
 |1201|BinarySearch|Medium|二分 容斥原理| |
 |1202|Union Find|Medium|并查集| |

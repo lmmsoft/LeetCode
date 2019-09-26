@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-27 00:04:21, I have solved **165** / **1205** problems while **246** are still locked.
+Until 2019-09-27 00:24:18, I have solved **165** / **1205** problems while **246** are still locked.
 
 1. JavaScript: 1 
 2. Python: 146
@@ -1217,7 +1217,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1194|[Tournament Winners](https://leetcode.com/problems/tournament-winners/description/) :lock:|Hard|||||||
 |1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/) |Medium|||||||
 |1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/1196.py)||||
-|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves/1197.py)||||
+|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves/1197.py)||||
 |1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows/1198.py)||||
 |1199|[Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) :lock:|Hard|||||||
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1200.%20Minimum%20Absolute%20Difference)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1200.%20Minimum%20Absolute%20Difference/1200.py)||||
