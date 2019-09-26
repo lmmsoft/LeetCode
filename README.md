@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-25 00:46:50, I have solved **165** / **1203** problems while **244** are still locked.
+Until 2019-09-26 22:28:47, I have solved **165** / **1205** problems while **246** are still locked.
 
 1. JavaScript: 1 
 2. Python: 146
@@ -1224,3 +1224,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1201.%20Ugly%20Number%20III)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1201.%20Ugly%20Number%20III/1201.py)||||
 |1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1202.%20Smallest%20String%20With%20Swaps)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1202.%20Smallest%20String%20With%20Swaps/1202.py)||||
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/) |Hard|||||||
+|1204|[Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/description/) :lock:|Medium|||||||
+|1205|[Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/description/) :lock:|Medium|||||||
