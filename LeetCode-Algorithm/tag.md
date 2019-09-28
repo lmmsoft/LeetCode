@@ -1,6 +1,7 @@
 |题号|类型|难度|tag|收藏|
 |:---:|:---:|:---:|:---:|:---:|
 |2|ListNode|Medium|链表 基本操作|
+|3|String|Medium|滑动窗口 DP| |
 |9| |Easy|水题|
 |13| |Easy|罗马数字转换|
 |14|String|Easy|水题|
