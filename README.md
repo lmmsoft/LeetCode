@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-27 00:24:18, I have solved **165** / **1205** problems while **246** are still locked.
+Until 2019-09-28 13:35:17, I have solved **166** / **1205** problems while **246** are still locked.
 
 1. JavaScript: 1 
-2. Python: 146
+2. Python: 147
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -23,7 +23,7 @@ Note: : locked means you need to buy a book from LeetCode
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum)|[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/solution.cpp)|[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.java)|[Kotlin](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0001.%20Two%20Sum/Solution.kt)|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0002.%20Add%20Two%20Numbers)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0002.%20Add%20Two%20Numbers/2.py)||||
-|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|||||||
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0003.%20Longest%20Substring%20Without%20Repeating%20Characters)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.py)||||
 |0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|||||||
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|||||||
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|||||||
@@ -1218,7 +1218,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/) |Medium|||||||
 |1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/description/) :lock:|Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1196.%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/1196.py)||||
 |1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1197.%20Minimum%20Knight%20Moves/1197.py)||||
-|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) :lock:|Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows/1198.py)||||
+|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/description/) :lock:|Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1198.%20Find%20Smallest%20Common%20Element%20in%20All%20Rows/1198.py)||||
 |1199|[Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/description/) :lock:|Hard|||||||
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1200.%20Minimum%20Absolute%20Difference)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1200.%20Minimum%20Absolute%20Difference/1200.py)||||
 |1201|[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1201.%20Ugly%20Number%20III)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1201.%20Ugly%20Number%20III/1201.py)||||
