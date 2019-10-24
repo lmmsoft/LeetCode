@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-09-28 13:35:17, I have solved **166** / **1205** problems while **246** are still locked.
+Until 2019-10-24 19:21:38, I have solved **167** / **1236** problems while **258** are still locked.
 
 1. JavaScript: 1 
-2. Python: 147
+2. Python: 148
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -727,7 +727,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0704|[Binary Search](https://leetcode.com/problems/binary-search/description/) |Easy|||||||
 |0705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) |Easy|||||||
 |0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|||||||
-|0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Easy|||||||
+|0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Medium|||||||
 |0708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|||||||
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|||||||
 |0710|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|||||||
@@ -791,7 +791,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|||||||
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|||||||
 |0770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/) |Hard|||||||
-|0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|||||||
+|0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0771.%20Jewels%20and%20Stones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0771.%20Jewels%20and%20Stones/771.py)||||
 |0772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) :lock:|Hard|||||||
 |0773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|||||||
 |0774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|||||||
@@ -1226,3 +1226,34 @@ Note: : locked means you need to buy a book from LeetCode
 |1203|[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/) |Hard|||||||
 |1204|[Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/description/) :lock:|Medium|||||||
 |1205|[Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/description/) :lock:|Medium|||||||
+|1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/description/) |Hard|||||||
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/) |Easy|||||||
+|1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) |Medium|||||||
+|1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) |Medium|||||||
+|1210|[Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/) |Hard|||||||
+|1211|[Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/) :lock:|Easy|||||||
+|1212|[Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/description/) :lock:|Medium|||||||
+|1213|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/description/) :lock:|Easy|||||||
+|1214|[Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/description/) :lock:|Medium|||||||
+|1215|[Stepping Numbers](https://leetcode.com/problems/stepping-numbers/description/) :lock:|Medium|||||||
+|1216|[Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/description/) :lock:|Hard|||||||
+|1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/description/) |Easy|||||||
+|1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/) |Medium|||||||
+|1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/) |Medium|||||||
+|1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) |Hard|||||||
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |Easy|||||||
+|1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/) |Medium|||||||
+|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/description/) |Medium|||||||
+|1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/description/) |Hard|||||||
+|1225|[Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/description/) :lock:|Hard|||||||
+|1226|[The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/description/) |Medium|||||||
+|1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/) |Medium|||||||
+|1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/description/) :lock:|Easy|||||||
+|1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/description/) :lock:|Medium|||||||
+|1230|[Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/description/) :lock:|Medium|||||||
+|1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate/description/) :lock:|Hard|||||||
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/) |Easy|||||||
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) |Medium|||||||
+|1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/) |Medium|||||||
+|1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |Hard|||||||
+|1236|[Web Crawler](https://leetcode.com/problems/web-crawler/description/) :lock:|Medium|||||||
