@@ -96,3 +96,11 @@ from itertools import groupby
 
 # 复制数组
 B = A[:]
+
+# Counter
+from collections import Counter
+c= Counter()
+n=5
+c.most_common(n) ##Return a list of the n most common elements and their counts from the most common to the least.
+c.most_common()[:-n-1:-1]       # n least common elements
+c += Counter()                  # remove zero and negative counts
