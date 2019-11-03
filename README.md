@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-03 15:53:31, I have solved **172** / **1250** problems while **260** are still locked.
+Until 2019-11-03 15:56:46, I have solved **172** / **1250** problems while **260** are still locked.
 
 1. JavaScript: 1 
 2. Python: 153
@@ -78,7 +78,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|||||||
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|||||||
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|||||||
-|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0058.%20Length%20of%20Last%20Word/58.py)||||
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0058.%20Length%20of%20Last%20Word)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0058.%20Length%20of%20Last%20Word/58.py)||||
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|||||||
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|||||||
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|||||||
