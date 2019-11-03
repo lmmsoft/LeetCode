@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def transformArray(self, arr: List[int]) -> List[int]:
+    def transformArray2(self, arr: List[int]) -> List[int]:
         while True:
             arr2 = [a for a in arr]
             changed = 0
@@ -21,6 +21,11 @@ class Solution:
             if changed == 0:
                 break
         return arr
+
+    def transformArray(self, A):
+        for _ in range(100):
+            A = A[:1] + [b + (a > b < c) - (a < b > c) for a, b, c in zip(A, A[1:], A[2:])] + A[-1:]
+        return A
 
 
 if __name__ == '__main__':

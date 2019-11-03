@@ -58,3 +58,4 @@
 |1201|BinarySearch|Medium|二分 容斥原理| |
 |1202|Union Find|Medium|并查集| |
 |1203|Topological Sorting|Hard|拓扑排序|TBD|
+|1243|Array|Easy|水题|模拟|

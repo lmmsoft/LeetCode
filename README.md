@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-03 14:27:37, I have solved **172** / **1250** problems while **260** are still locked.
+Until 2019-11-03 14:45:03, I have solved **172** / **1250** problems while **260** are still locked.
 
 1. JavaScript: 1 
 2. Python: 153
@@ -1263,7 +1263,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1240|[Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/) |Hard|||||||
 |1241|[Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/description/) :lock:|Easy|||||||
 |1242|[Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded/description/) :lock:|Medium|||||||
-|1243|[Array Transformation](https://leetcode.com/problems/array-transformation/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1243.%20Array%20Transformation/1243.py)||||
+|1243|[Array Transformation](https://leetcode.com/problems/array-transformation/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1243.%20Array%20Transformation)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1243.%20Array%20Transformation/1243.py)||||
 |1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1244.%20Design%20A%20Leaderboard/1244.py)||||
 |1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) |Medium|||||||
 |1246|[Palindrome Removal](https://leetcode.com/problems/palindrome-removal/description/) |Hard|||||||

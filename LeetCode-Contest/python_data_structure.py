@@ -92,3 +92,7 @@ sorted(range(1, n + 1), key=str)  # 不用写lambda 直接用现成函数就行!
 
 # TBD
 from itertools import accumulate
+from itertools import groupby
+
+# 复制数组
+B = A[:]
