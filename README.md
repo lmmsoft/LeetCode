@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-10-24 19:21:38, I have solved **167** / **1236** problems while **258** are still locked.
+Until 2019-11-03 14:26:34, I have solved **170** / **1250** problems while **260** are still locked.
 
 1. JavaScript: 1 
-2. Python: 148
+2. Python: 151
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -449,7 +449,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/) :lock:|Medium|||||||
 |0427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) |Medium|||||||
 |0428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/) :lock:|Hard|||||||
-|0429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|||||||
+|0429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) |Medium|||||||
 |0430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) |Medium|||||||
 |0431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/description/) :lock:|Hard|||||||
 |0432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/) |Hard|||||||
@@ -1257,3 +1257,17 @@ Note: : locked means you need to buy a book from LeetCode
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/) |Medium|||||||
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |Hard|||||||
 |1236|[Web Crawler](https://leetcode.com/problems/web-crawler/description/) :lock:|Medium|||||||
+|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/) |Easy|||||||
+|1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/) |Medium|||||||
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) |Medium|||||||
+|1240|[Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/) |Hard|||||||
+|1241|[Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/description/) :lock:|Easy|||||||
+|1242|[Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded/description/) :lock:|Medium|||||||
+|1243|[Array Transformation](https://leetcode.com/problems/array-transformation/description/) |Easy|||||||
+|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/description/) |Medium|||||||
+|1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter/description/) |Medium|||||||
+|1246|[Palindrome Removal](https://leetcode.com/problems/palindrome-removal/description/) |Hard|||||||
+|1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1247.%20Minimum%20Swaps%20to%20Make%20Strings%20Equal/1247.py)||||
+|1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1248.%20Count%20Number%20of%20Nice%20Subarrays/1248.py)||||
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/1249.py)||||
+|1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/description/) |Hard|||||||
