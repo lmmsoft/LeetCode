@@ -24,6 +24,7 @@ class Solution:
             isOdd, size = p
             if isOdd:
                 oddPos.append(id)
+
         # print(oddPos)
 
         def getNum(g2, l, r):
@@ -42,6 +43,22 @@ class Solution:
         for i in range(0, len(oddPos) - k + 1):
             cnt += getNum(g2, oddPos[i], oddPos[i + k - 1])
         return cnt
+
+    def numberOfSubarrays2(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        oddPos = [-1]
+        for i, v in enumerate(nums):
+            if v & 1:
+                oddPos.append(i)
+        oddPos.append(len(nums))
+        r = 0
+        for i in range(1, len(oddPos) - k):
+            r += (oddPos[i] - oddPos[i - 1]) * (oddPos[i + k] - oddPos[i + k - 1])
+        return r
 
 
 if __name__ == '__main__':
