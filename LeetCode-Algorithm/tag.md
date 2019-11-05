@@ -62,3 +62,4 @@
 |1244| |Medium||数据结构实现|
 |1247| |Medium|水题|
 |1248|Sliding Window|Medium|滑动窗口| |
+|1249|Stack|Medium|水题| |

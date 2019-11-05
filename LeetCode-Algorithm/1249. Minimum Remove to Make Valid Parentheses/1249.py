@@ -13,10 +13,10 @@ class Solution:
             else:
                 stack.append((i, ch))
         # print(stack)
-        d = {i for i, ch in stack}
+        pos_set = {i for i, ch in stack}
         s2 = []
         for i, ch in enumerate(s):
-            if i not in d:
+            if i not in pos_set:
                 s2.append(ch)
         res = ''.join(s2)
         # print(res)
