@@ -60,3 +60,4 @@
 |1203|Topological Sorting|Hard|拓扑排序|TBD|
 |1243|Array|Easy|水题|模拟|
 |1244| |Medium||数据结构实现|
+|1247| |Medium|水题|

@@ -16,7 +16,7 @@ class Solution:
         r = a // 2 + b // 2
         if a % 2 and b % 2:
             r += 2
-        if a%2 != b%2:
+        if a % 2 != b % 2:
             return -1
 
         return r
