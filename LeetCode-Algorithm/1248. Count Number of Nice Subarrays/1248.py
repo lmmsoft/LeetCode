@@ -3,7 +3,7 @@ from typing import List
 
 
 class Solution:
-    def numberOfSubarrays(self, nums: List[int], k: int) -> int:
+    def numberOfSubarrays1(self, nums: List[int], k: int) -> int:
         l = [i % 2 for i in nums]
         # print(l)
         g = [(char, len(list(g))) for char, g in groupby(l)]
@@ -59,6 +59,21 @@ class Solution:
         for i in range(1, len(oddPos) - k):
             r += (oddPos[i] - oddPos[i - 1]) * (oddPos[i + k] - oddPos[i + k - 1])
         return r
+
+    # Exactly K times = at most K times - at most K - 1 times
+    # https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-atMost(K)-atMost(K-1)
+    def numberOfSubarrays(self, nums, k):
+        def atMost(k):
+            res = i = 0
+            for pos, n in enumerate(nums):
+                k -= n % 2
+                while k < 0:
+                    k += nums[i] % 2
+                    i += 1
+                res += pos - i + 1
+            return res
+
+        return atMost(k) - atMost(k - 1)
 
 
 if __name__ == '__main__':

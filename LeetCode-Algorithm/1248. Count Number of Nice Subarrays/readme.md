@@ -44,6 +44,10 @@ Output: 16
 - 比较好的写法是直接统计奇数的下标，左右添加[-1]和[总个数]
     - 然后 奇数对应的下标减去前一个下标 恰好就是 [偶数个数+1]
     - 滑动统计一下就好
+- Lee的方法很巧妙
+    - Exactly K times = at most K times - at most K - 1 times
+    - 滑动窗口，控制左右，保证K不超过个奇数，然后统计左右下标的个数，就是不超过k个的个数，遇到K超过个数就移动左边下标下一个位置，继续统计
+    - https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-atMost(K)-atMost(K-1)
 
 Language: **Python3**
 
