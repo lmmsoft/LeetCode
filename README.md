@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-06 00:17:54, I have solved **172** / **1250** problems while **264** are still locked.
+Until 2019-11-12 14:45:08, I have solved **175** / **1255** problems while **265** are still locked.
 
 1. JavaScript: 1 
-2. Python: 153
+2. Python: 156
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1269,5 +1269,10 @@ Note: : locked means you need to buy a book from LeetCode
 |1246|[Palindrome Removal](https://leetcode.com/problems/palindrome-removal/description/) :lock:|Hard|||||||
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1247.%20Minimum%20Swaps%20to%20Make%20Strings%20Equal)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1247.%20Minimum%20Swaps%20to%20Make%20Strings%20Equal/1247.py)||||
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1248.%20Count%20Number%20of%20Nice%20Subarrays)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1248.%20Count%20Number%20of%20Nice%20Subarrays/1248.py)||||
-|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/1249.py)||||
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/1249.py)||||
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/description/) |Hard|||||||
+|1251|[Average Selling Price](https://leetcode.com/problems/average-selling-price/description/) :lock:|Easy|||||||
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix/1252.py)||||
+|1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1253.%20Reconstruct%20a%202-Row%20Binary%20Matrix/1253.py)||||
+|1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1254.%20Number%20of%20Closed%20Islands/1254.py)||||
+|1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) |Hard|||||||
