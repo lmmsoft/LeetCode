@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-12 14:45:08, I have solved **175** / **1255** problems while **265** are still locked.
+Until 2019-11-20 00:10:13, I have solved **176** / **1263** problems while **269** are still locked.
 
 1. JavaScript: 1 
-2. Python: 156
+2. Python: 157
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -218,7 +218,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) |Easy|||||||
 |0196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) |Easy|||||||
 |0197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) |Easy|||||||
-|0198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|||||||
+|0198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0198.%20House%20Robber)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0198.%20House%20Robber/198.py)||||
 |0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|||||||
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|||||||
 |0201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|||||||
@@ -1276,3 +1276,11 @@ Note: : locked means you need to buy a book from LeetCode
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1253.%20Reconstruct%20a%202-Row%20Binary%20Matrix/1253.py)||||
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1254.%20Number%20of%20Closed%20Islands/1254.py)||||
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) |Hard|||||||
+|1256|[Encode Number](https://leetcode.com/problems/encode-number/description/) :lock:|Medium|||||||
+|1257|[Smallest Common Region](https://leetcode.com/problems/smallest-common-region/description/) :lock:|Medium|||||||
+|1258|[Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/description/) :lock:|Medium|||||||
+|1259|[Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) :lock:|Hard|||||||
+|1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) |Easy|||||||
+|1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |Medium|||||||
+|1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) |Medium|||||||
+|1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/) |Hard|||||||

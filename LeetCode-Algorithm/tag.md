@@ -13,6 +13,7 @@
 |67|String|Easy|二进制转换| |
 |69|Binary Search|Easy|二分 sqrt| |
 |74|Array|Medium|二分|
+|198|DP|Easy|递推|
 |386|Array|Easy|水题|
 |389|String|Easy|水题|
 |474|DP|Medium|多重背包|TBD|
