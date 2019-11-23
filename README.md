@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-20 00:10:13, I have solved **176** / **1263** problems while **269** are still locked.
+Until 2019-11-23 23:47:58, I have solved **176** / **1265** problems while **271** are still locked.
 
 1. JavaScript: 1 
 2. Python: 157
@@ -728,7 +728,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) |Easy|||||||
 |0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|||||||
 |0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Medium|||||||
-|0708|[Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|||||||
+|0708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/) :lock:|Medium|||||||
 |0709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|||||||
 |0710|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|||||||
 |0711|[Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) :lock:|Hard|||||||
@@ -1284,3 +1284,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |Medium|||||||
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) |Medium|||||||
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/) |Hard|||||||
+|1264|[Page Recommendations](https://leetcode.com/problems/page-recommendations/description/) :lock:|Medium|||||||
+|1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) :lock:|Medium|||||||
