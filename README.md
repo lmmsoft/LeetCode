@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-23 23:47:58, I have solved **176** / **1265** problems while **271** are still locked.
+Until 2019-11-24 00:14:30, I have solved **177** / **1265** problems while **271** are still locked.
 
 1. JavaScript: 1 
-2. Python: 157
+2. Python: 158
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -210,7 +210,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|||||||
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|||||||
 |0189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0189.%20Rotate%20Array/solution.py)||||
-|0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|||||||
+|0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0190.%20Reverse%20Bits)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0190.%20Reverse%20Bits/190.py)||||
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|||||||
 |0192|[Word Frequency](https://leetcode.com/problems/word-frequency/description/) |Medium|||||||
 |0193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/) |Easy|||||||
