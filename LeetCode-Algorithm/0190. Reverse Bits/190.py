@@ -23,6 +23,12 @@ class Solution:
         print(res)
         return res
 
+    def reverseBits3(self, n):
+        return int('{0:032b}'.format(n)[::-1], 2)
+
+    def reverseBits4(self, n):
+        return int(bin(n)[2:].zfill(32)[::-1], 2)
+
 
 if __name__ == '__main__':
     assert Solution().reverseBits(43261596) == 964176192
