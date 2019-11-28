@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-28 23:57:51, I have solved **179** / **1270** problems while **272** are still locked.
+Until 2019-11-29 00:08:47, I have solved **179** / **1270** problems while **272** are still locked.
 
 1. JavaScript: 1 
 2. Python: 160
@@ -561,7 +561,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Easy|||||||
 |0539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) |Medium|||||||
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |Medium|||||||
-|0541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0541.%20Reverse%20String%20II/541.py)||||
+|0541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0541.%20Reverse%20String%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0541.%20Reverse%20String%20II/541.py)||||
 |0542|[01 Matrix](https://leetcode.com/problems/01-matrix/description/) |Medium|||||||
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) |Easy|||||||
 |0544|[Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/) :lock:|Medium|||||||
@@ -571,7 +571,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0548|[Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|||||||
 |0549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|||||||
 |0550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/) :lock:|Medium|||||||
-|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0551.%20Student%20Attendance%20Record%20I/551.py)||||
+|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0551.%20Student%20Attendance%20Record%20I)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0551.%20Student%20Attendance%20Record%20I/551.py)||||
 |0552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/) |Hard|||||||
 |0553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) |Medium|||||||
 |0554|[Brick Wall](https://leetcode.com/problems/brick-wall/description/) |Medium|||||||
