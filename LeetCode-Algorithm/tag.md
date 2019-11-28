@@ -18,6 +18,7 @@
 |386|Array|Easy|水题|
 |389|String|Easy|水题|
 |474|DP|Medium|多重背包|TBD|
+|551|String|水题|读懂题意|
 |657| |Easy|水题|
 |771| |Easy|水题|
 |852|Array|Easy|二分 黄金分割|

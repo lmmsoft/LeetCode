@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-11-24 00:14:30, I have solved **177** / **1265** problems while **271** are still locked.
+Until 2019-11-28 23:57:51, I have solved **179** / **1270** problems while **272** are still locked.
 
 1. JavaScript: 1 
-2. Python: 158
+2. Python: 160
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -179,7 +179,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|||||||
 |0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|||||||
 |0158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|||||||
-|0159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|||||||
+|0159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Medium|||||||
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|||||||
 |0161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|||||||
 |0162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|||||||
@@ -561,7 +561,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Easy|||||||
 |0539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) |Medium|||||||
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |Medium|||||||
-|0541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|||||||
+|0541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0541.%20Reverse%20String%20II/541.py)||||
 |0542|[01 Matrix](https://leetcode.com/problems/01-matrix/description/) |Medium|||||||
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) |Easy|||||||
 |0544|[Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/) :lock:|Medium|||||||
@@ -571,7 +571,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0548|[Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|||||||
 |0549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|||||||
 |0550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/) :lock:|Medium|||||||
-|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|||||||
+|0551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0551.%20Student%20Attendance%20Record%20I/551.py)||||
 |0552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/) |Hard|||||||
 |0553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) |Medium|||||||
 |0554|[Brick Wall](https://leetcode.com/problems/brick-wall/description/) |Medium|||||||
@@ -1286,3 +1286,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1263|[Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/) |Hard|||||||
 |1264|[Page Recommendations](https://leetcode.com/problems/page-recommendations/description/) :lock:|Medium|||||||
 |1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) :lock:|Medium|||||||
+|1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/) |Easy|||||||
+|1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) |Medium|||||||
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/) |Medium|||||||
+|1269|[Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/) |Hard|||||||
+|1270|[All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/description/) :lock:|Medium|||||||
