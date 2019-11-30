@@ -67,3 +67,6 @@
 |1247| |Medium|水题|
 |1248|Sliding Window|Medium|滑动窗口| |
 |1249|Stack|Medium|水题| |
+|1271|水题|Easy|模拟|
+|1272| |Medium|区间处理|开闭区间的细节不容易处理|
+|1273|多叉树|Medium|递归|

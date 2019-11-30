@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-01 00:12:16, I have solved **179** / **1270** problems while **272** are still locked.
+Until 2019-12-01 00:27:35, I have solved **182** / **1274** problems while **272** are still locked.
 
 1. JavaScript: 1 
-2. Python: 160
+2. Python: 163
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1291,3 +1291,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/) |Medium|||||||
 |1269|[Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/) |Hard|||||||
 |1270|[All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/description/) :lock:|Medium|||||||
+|1271|[Hexspeak](https://leetcode.com/problems/hexspeak/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1271.%20Hexspeak/1271.py)||||
+|1272|[Remove Interval](https://leetcode.com/problems/remove-interval/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1272.%20Remove%20Interval/1272.py)||||
+|1273|[Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1273.%20Delete%20Tree%20Nodes/1273.py)||||
+|1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) |Hard|||||||
