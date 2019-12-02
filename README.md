@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-01 00:35:19, I have solved **182** / **1274** problems while **272** are still locked.
+Until 2019-12-02 08:22:07, I have solved **185** / **1278** problems while **272** are still locked.
 
 1. JavaScript: 1 
-2. Python: 163
+2. Python: 166
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1295,3 +1295,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1272|[Remove Interval](https://leetcode.com/problems/remove-interval/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1272.%20Remove%20Interval)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1272.%20Remove%20Interval/1272.py)||||
 |1273|[Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1273.%20Delete%20Tree%20Nodes)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1273.%20Delete%20Tree%20Nodes/1273.py)||||
 |1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) |Hard|||||||
+|1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/1275.py)||||
+|1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/1276.py)||||
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.py)||||
+|1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/description/) |Hard|||||||
