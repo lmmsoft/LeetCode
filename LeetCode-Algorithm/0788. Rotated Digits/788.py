@@ -36,6 +36,9 @@ class Solution:
 
         return sum(isGood(i) for i in range(N + 1))
 
+    # Explanations for the O(LogN) solution:
+    # += 7 ** means you could pick digits from this set [0, 1, 8, 2, 5, 6, 9], there are 7 different kinds of digits in this set, right?
+    # -= 3 ** is similar to the above, except that this time the set is [0, 1, 8].
     def rotatedDigits(self, N):
         s1 = {0, 1, 8}
         s2 = {0, 1, 8, 2, 5, 6, 9}
