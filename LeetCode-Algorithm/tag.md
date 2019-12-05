@@ -22,6 +22,7 @@
 |551|String|Easy|水题|读懂题意|
 |657| |Easy|水题|
 |771| |Easy|水题|
+|788| |Easy|水题|可以暴力O(N) 也可优化到O(logN)|
 |852|Array|Easy|二分 黄金分割|
 |922|Array|Easy|双指针|
 |1019|ListNode|Medium|TBD-P3 比赛时候没做出来，赛后也看了很久没理解，不难的题目|

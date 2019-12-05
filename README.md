@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-04 12:47:16, I have solved **185** / **1278** problems while **276** are still locked.
+Until 2019-12-05 23:57:28, I have solved **186** / **1279** problems while **277** are still locked.
 
 1. JavaScript: 1 
-2. Python: 166
+2. Python: 167
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -808,7 +808,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|||||||
 |0786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|||||||
 |0787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|||||||
-|0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|||||||
+|0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0788.%20Rotated%20Digits)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0788.%20Rotated%20Digits/788.py)||||
 |0789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|||||||
 |0790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|||||||
 |0791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|||||||
@@ -1299,3 +1299,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/1276.py)||||
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.py)||||
 |1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/description/) |Hard|||||||
+|1279|[Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/description/) :lock:|Easy|||||||
