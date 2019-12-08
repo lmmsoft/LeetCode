@@ -3,24 +3,17 @@ from typing import List
 
 
 class Solution:
-    def smallestDivisor(self, nums: List[int], threshold: int) -> int:
+    def smallestDivisor2(self, nums: List[int], threshold: int) -> int:
         s = sum(nums)
         mi = s // threshold
         if mi == 0:
             mi = 1
 
         def lessOrEaualToThreshold(dividor):
-            if dividor==0:
+            if dividor == 0:
                 return False
             th = sum(ceil((n / dividor)) for n in nums)
             return th <= threshold
-
-        # while True:
-        #     th = ok(mi)
-        #     if th <= threshold:
-        #         print(mi)
-        #         return mi
-        #     mi += 1
 
         # 求 smallest dividor满足 和 小于等于 threshold
         # divider太小， 和大于thres
@@ -31,14 +24,24 @@ class Solution:
         r = 1000001
         while l < r:
             mid = (l + r) // 2
-            m1 = lessOrEaualToThreshold(mid - 1) # should be false
-            m2 = lessOrEaualToThreshold(mid) # should be true
+            m1 = lessOrEaualToThreshold(mid - 1)  # should be false
+            m2 = lessOrEaualToThreshold(mid)  # should be true
             if not m1 and m2:
                 return mid
             if m1:
                 r = mid
             elif not m2:
                 l = mid
+
+    def smallestDivisor(self, nums, threshold):
+        l, r = 1, max(nums)
+        while l < r:
+            m = (l + r) // 2
+            if sum((i + m - 1) // m for i in nums) > threshold:
+                l = m + 1
+            else:
+                r = m
+        return l
 
 
 if __name__ == '__main__':

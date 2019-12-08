@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-08 21:53:03, I have solved **189** / **1284** problems while **278** are still locked.
+Until 2019-12-08 22:00:44, I have solved **189** / **1284** problems while **278** are still locked.
 
 1. JavaScript: 1 
 2. Python: 170
@@ -1303,5 +1303,5 @@ Note: : locked means you need to buy a book from LeetCode
 |1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) :lock:|Easy|||||||
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/1281.py)||||
 |1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/1282.py)||||
-|1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.py)||||
+|1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.py)||||
 |1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/) |Hard|||||||
