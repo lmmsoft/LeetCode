@@ -75,5 +75,5 @@
 |1276| |Medium|鸡兔同笼|
 |1277|Matrix|Medium|前缀和|
 |1281| |Easy|水题|
-|1282| |Medium||
+|1282| |Medium|水题|数字按照每组个数分组|
 |1283| |Medium||
