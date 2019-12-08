@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-05 23:57:28, I have solved **186** / **1279** problems while **277** are still locked.
+Until 2019-12-08 21:38:25, I have solved **189** / **1284** problems while **278** are still locked.
 
 1. JavaScript: 1 
-2. Python: 167
+2. Python: 170
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1300,3 +1300,8 @@ Note: : locked means you need to buy a book from LeetCode
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.py)||||
 |1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/description/) |Hard|||||||
 |1279|[Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/description/) :lock:|Easy|||||||
+|1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) :lock:|Easy|||||||
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/1281.py)||||
+|1282|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/1282.py)||||
+|1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.py)||||
+|1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/) |Hard|||||||
