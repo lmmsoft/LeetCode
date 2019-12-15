@@ -5,6 +5,7 @@
 import json
 import os
 import time
+from typing import List, Tuple
 
 import requests
 
@@ -210,16 +211,16 @@ class CompleteInform:
     """
 
     def __init__(self):
-        self.solved = {
+        self.solved: dict = {
             'python': 0,
             'c++': 0,
             'java': 0,
             'javascript': 0,
             'kotlin': 0,
         }
-        self.complete_num = 0
-        self.lock = 0
-        self.total_problem_num = 0
+        self.complete_num: int = 0
+        self.lock: int = 0
+        self.total_problem_num: int = 0
 
     def __repr__(self):
         return str(self.solved)
@@ -231,7 +232,7 @@ class Readme:
     update README.md when you finish one problem by some language
     """
 
-    def __init__(self, total, solved, locked, language):
+    def __init__(self, total: int, solved: int, locked: int, language: dict):
         """
 
         :param total: total problems nums
@@ -247,13 +248,32 @@ class Readme:
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n' \
-                   '\n1. JavaScript: {javascript} ' \
-                   '\n2. Python: {python}' \
-                   '\n3. C++: {c++}' \
-                   '\n4. Java: {java}' \
-                   '\n5. Kotlin: {kotlin}' \
+                   '{}' \
                    '\n\nNote: : locked means you need to buy a book from LeetCode\n'.format(
-            self.time, self.solved, self.total, self.locked, **self.language)
+            self.time,
+            self.solved,
+            self.total,
+            self.locked,
+            self._get_language_pass_rank_msg(language),
+        )
+
+    @staticmethod
+    def _get_language_pass_rank_msg(language: dict) -> str:
+        name2fullname: dict = {
+            'javascript': 'JavaScript',
+            'python': 'Python',
+            'c++': 'C++',
+            'java': 'Java',
+            'kotlin': 'Kotlin',
+        }
+        msg = ""
+        sorted_language: List[Tuple[str, int]] = sorted(language.items(), key=lambda d: d[1], reverse=True)
+        rank = 1
+        for k, v in sorted_language:
+            msg += "\n{rank}. {name}: {pass_num} ".format(rank=rank, name=name2fullname[k], pass_num=v)
+            rank += 1
+
+        return msg
 
     def create_leetcode_readme(self, table_instance):
         """

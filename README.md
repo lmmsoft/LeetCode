@@ -7,13 +7,13 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-15 22:09:19, I have solved **196** / **1293** problems while **279** are still locked.
+Until 2019-12-15 22:36:16, I have solved **196** / **1293** problems while **279** are still locked.
 
-1. JavaScript: 3 
-2. Python: 177
-3. C++: 13
-4. Java: 12
-5. Kotlin: 1
+1. Python: 177 
+2. C++: 13 
+3. Java: 12 
+4. JavaScript: 3 
+5. Kotlin: 1 
 
 Note: : locked means you need to buy a book from LeetCode
 
