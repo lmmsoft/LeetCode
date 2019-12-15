@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-15 22:07:20, I have solved **193** / **1293** problems while **279** are still locked.
+Until 2019-12-15 22:09:19, I have solved **196** / **1293** problems while **279** are still locked.
 
-1. JavaScript: 2 
-2. Python: 174
+1. JavaScript: 3 
+2. Python: 177
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1310,7 +1310,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array/1287.py)||||
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1288.%20Remove%20Covered%20Intervals/1288.py)||||
 |1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1289.%20Minimum%20Falling%20Path%20Sum%20II/1289.py)||||
-|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |Easy|||||||
-|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|||||||
-|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium|||||||
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/1290.py)||||
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1291.%20Sequential%20Digits/1291.py)||||
+|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium||[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.py)||||
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|||||||
