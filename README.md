@@ -7,10 +7,10 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-14 22:26:22, I have solved **189** / **1285** problems while **279** are still locked.
+Until 2019-12-15 10:29:55, I have solved **193** / **1289** problems while **279** are still locked.
 
 1. JavaScript: 1 
-2. Python: 170
+2. Python: 174
 3. C++: 13
 4. Java: 12
 5. Kotlin: 1
@@ -1306,3 +1306,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold/1283.py)||||
 |1284|[Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/description/) |Hard|||||||
 |1285|[Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/description/) :lock:|Medium|||||||
+|1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1286.%20Iterator%20for%20Combination/1286.py)||||
+|1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array/1287.py)||||
+|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1288.%20Remove%20Covered%20Intervals/1288.py)||||
+|1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1289.%20Minimum%20Falling%20Path%20Sum%20II/1289.py)||||
