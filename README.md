@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-15 10:29:55, I have solved **193** / **1289** problems while **279** are still locked.
+Until 2019-12-15 22:07:20, I have solved **193** / **1293** problems while **279** are still locked.
 
-1. JavaScript: 1 
+1. JavaScript: 2 
 2. Python: 174
 3. C++: 13
 4. Java: 12
@@ -1297,7 +1297,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/) :lock:|Hard|||||||
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/1275.py)||||
 |1276|[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1276.%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/1276.py)||||
-|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.py)||||
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones)|[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/1277.py)||||
 |1278|[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/description/) |Hard|||||||
 |1279|[Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection/description/) :lock:|Easy|||||||
 |1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) :lock:|Easy|||||||
@@ -1310,3 +1310,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) |Easy|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1287.%20Element%20Appearing%20More%20Than%2025%%20In%20Sorted%20Array/1287.py)||||
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1288.%20Remove%20Covered%20Intervals/1288.py)||||
 |1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1289.%20Minimum%20Falling%20Path%20Sum%20II/1289.py)||||
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |Easy|||||||
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|||||||
+|1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium|||||||
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|||||||
