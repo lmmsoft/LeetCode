@@ -76,4 +76,11 @@
 |1277|Matrix|Medium|前缀和|
 |1281| |Easy|水题|
 |1282| |Medium|水题|数字按照每组个数分组|
+|1286| |Easy|水题|
+|1287| |Medium|暴力|
+|1288| |Medium|排列组合 打印下一个组合数|
+|1289| |Hard|DP|
 |1283| |Medium|二分|
+|1290| |Easy|水题|
+|1291| |Medium|水题 找规律|
+|1292|Matrix|Medium|前缀和+滑动求和+二分|Python需要O(N^2logN) 其他语言O(N^3)即可|

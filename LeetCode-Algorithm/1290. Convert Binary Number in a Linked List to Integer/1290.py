@@ -16,6 +16,7 @@ class Solution:
 
 
 if __name__ == '__main__':
+    # TODO 输入要转换成链表才行
     assert Solution().getDecimalValue([1, 0, 1]) == 5
     assert Solution().getDecimalValue([0]) == 0
     assert Solution().getDecimalValue([1]) == 1
