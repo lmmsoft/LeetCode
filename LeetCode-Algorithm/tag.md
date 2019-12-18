@@ -83,4 +83,4 @@
 |1283| |Medium|二分|
 |1290| |Easy|水题|
 |1291| |Medium|水题 找规律|
-|1292|Matrix|Medium|前缀和+滑动求和+二分|Python需要O(N^2logN) 其他语言O(N^3)即可|
+|1292|Matrix|Medium|前缀和+滑动求和+容斥原理+二分|Python需要O(N^2logN) 其他语言O(N^3)即可|
