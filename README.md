@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-18 23:16:56, I have solved **196** / **1293** problems while **279** are still locked.
+Until 2019-12-19 23:54:42, I have solved **196** / **1294** problems while **280** are still locked.
 
 1. Python: 177 
 2. C++: 13 
@@ -1314,3 +1314,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1291.%20Sequential%20Digits/1291.py)||||
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium||[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.py)||||
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|||||||
+|1294|[Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/description/) :lock:|Easy|||||||
