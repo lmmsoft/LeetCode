@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-20 23:56:15, I have solved **196** / **1294** problems while **280** are still locked.
+Until 2019-12-22 13:12:53, I have solved **196** / **1298** problems while **280** are still locked.
 
 1. Python: 177 
 2. C++: 13 
@@ -1315,3 +1315,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/) |Medium||[JavaScript](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.js)|[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/1292.py)||||
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) |Hard|||||||
 |1294|[Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/description/) :lock:|Easy|||||||
+|5291|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) |Easy|||||||
+|5292|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) |Medium|||||||
+|5293|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) |Medium|||||||
+|5294|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|||||||
