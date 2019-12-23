@@ -43,6 +43,9 @@ Explanation: Each array should be divided in subarrays of size 3.
 *   `1 <= k <= nums.length`
 
 #### Solution
+- 题意: 把数字分成k个数组，每组都是个数相同的连续的自然数
+- 水题，但是想清洗快速写出代码还是要思考一下的
+- 代码可以考虑用counter实现，可能会简单一点
 
 Language: **Python3**
 
