@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-24 00:17:35, I have solved **200** / **1298** problems while **280** are still locked.
+Until 2019-12-24 00:18:50, I have solved **200** / **1298** problems while **280** are still locked.
 
 1. Python: 181 
 2. C++: 13 
@@ -1318,4 +1318,4 @@ Note: : locked means you need to buy a book from LeetCode
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/1295.py)||||
 |1296|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1296.%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers/1296.py)||||
 |1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/1297.py)||||
-|1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/1298.py)||||
+|1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/1298.py)||||
