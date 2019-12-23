@@ -86,5 +86,5 @@
 |1292|Matrix|Medium|前缀和+滑动求和+容斥原理+二分|Python需要O(N^2logN) 其他语言O(N^3)即可|
 |1295| |Easy|水题|
 |1296| |Medium|快速实现|
-|1297| |Medium|暴力 or 滑动窗口|
+|1297| |Medium|暴力 or 滑动窗口|TBD-P2 滑动窗口写法，代码已保存|
 |1298| |Hard|队列|
