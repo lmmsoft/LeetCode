@@ -5,6 +5,7 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
     def deepestLeavesSum(self, root: TreeNode) -> int:
         s = 0
@@ -22,7 +23,4 @@ class Solution:
 
             nodes = next_nodes
             next_nodes = []
-            s=0
-
-if __name__ == '__main__':
-    assert
+            s = 0
