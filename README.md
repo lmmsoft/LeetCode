@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-30 14:17:01, I have solved **208** / **1307** problems while **281** are still locked.
+Until 2019-12-30 14:22:30, I have solved **208** / **1307** problems while **281** are still locked.
 
 1. Python: 189 
 2. C++: 13 
@@ -1320,7 +1320,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1297.%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring/1297.py)||||
 |1298|[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) |Hard|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1298.%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes/1298.py)||||
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/1299.py)||||
-|1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target/1300.py)||||
+|1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target/1300.py)||||
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1301.%20Number%20of%20Paths%20with%20Max%20Score/1301.py)||||
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1302.%20Deepest%20Leaves%20Sum/1302.py)||||
 |1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/) :lock:|Easy|||||||

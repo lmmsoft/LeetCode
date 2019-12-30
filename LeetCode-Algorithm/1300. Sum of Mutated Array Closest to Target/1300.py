@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution:
-    def findBestValue(self, arr: List[int], target: int) -> int:
+    def findBestValue2(self, arr: List[int], target: int) -> int:
         mn = 0
         mx = max(arr)
 
@@ -22,12 +22,44 @@ class Solution:
 
         sl = cal(mn)
         sr = cal(mx)
-        res =0
+        res = 0
         if abs(sl - target) <= abs(sr - target):
             res = mn
         else:
             res = mx
         return res
+
+    def findBestValue3(self, arr, target):
+        arr.sort(reverse=1)
+        maxA, n = arr[0], len(arr)
+        while arr and target >= arr[-1] * len(arr):
+            target -= arr.pop()
+        return int((target + len(arr) / 2.0 - 0.1) / len(arr)) if arr else maxA
+
+    def findBestValue_by_lee215(self, arr, target):
+        arr.sort(reverse=1)
+        maxA, n = arr[0], len(arr)
+        while arr and target >= arr[-1] * len(arr):
+            target -= arr.pop()
+        return int((target + len(arr) / 2.0 - 0.1) / len(arr)) if arr else maxA  # 五舍六入，变化
+
+    def findBestValue_4she5ru(self, arr, target):
+        arr.sort(reverse=True)
+        maxA, n = arr[0], len(arr)
+        while arr and target >= arr[-1] * len(arr):
+            target -= arr.pop()
+        return int(target / len(arr) + 0.49) if arr else maxA
+
+    def findBestValue(self, arr, target):
+        arr.sort(reverse=True)
+        maxA, n = arr[0], len(arr)
+        while arr and target >= arr[-1] * len(arr):
+            target -= arr.pop()
+        return self._round(target / len(arr)) if arr else maxA
+
+    def _round(self, n):
+        import math
+        return math.ceil(n) if n % 1 > 0.5 else math.floor(n)
 
 
 if __name__ == '__main__':
