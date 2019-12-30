@@ -90,3 +90,4 @@
 |1298| |Hard|队列|
 |1299|Array|Easy|简单题，但快速写对不容易|收藏|
 |1300| |Medium|暴力，二分，三分| |
+|1302|Binary Tree|Medium|水题|

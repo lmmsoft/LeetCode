@@ -24,3 +24,9 @@ class Solution:
             nodes = next_nodes
             next_nodes = []
             s = 0
+
+    def deepestLeavesSum_by_lee(self, root):
+        l = [root]
+        while l:
+            pre, l = l, [child for p in l for child in [p.left, p.right] if child]
+        return sum(node.val for node in pre)
