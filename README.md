@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2019-12-30 17:18:43, I have solved **208** / **1307** problems while **281** are still locked.
+Until 2020-01-25 23:25:12, I have solved **208** / **1327** problems while **285** are still locked.
 
 1. Python: 189 
 2. C++: 13 
@@ -1328,3 +1328,23 @@ Note: : locked means you need to buy a book from LeetCode
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees/1305.py)||||
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1306.%20Jump%20Game%20III/1306.py)||||
 |1307|[Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1307.%20Verbal%20Arithmetic%20Puzzle/1307.py)||||
+|1308|[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/description/) :lock:|Medium|||||||
+|1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/) |Easy|||||||
+|1310|[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) |Medium|||||||
+|1311|[Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/description/) |Medium|||||||
+|1312|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/) |Hard|||||||
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/) |Easy|||||||
+|1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/description/) |Medium|||||||
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/) |Medium|||||||
+|1316|[Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/description/) |Hard|||||||
+|1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) |Easy|||||||
+|1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/) |Medium|||||||
+|1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/) |Medium|||||||
+|1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/) |Hard|||||||
+|1321|[Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/) :lock:|Medium|||||||
+|1322|[Ads Performance](https://leetcode.com/problems/ads-performance/description/) :lock:|Easy|||||||
+|1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) |Easy|||||||
+|1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/description/) |Medium|||||||
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) |Medium|||||||
+|1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/) |Hard|||||||
+|1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/) :lock:|Easy|||||||
