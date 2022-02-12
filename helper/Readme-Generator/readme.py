@@ -122,6 +122,8 @@ class TableInform:
             os.mkdir(solution_folder)
 
         for item in self.table_item.values():
+            if '/' in item.title: # 标题里有 / 导致目录生成失败，把 / 改成 _
+                item.title = item.title.replace('/','_')
             question_folder_name = solution_folder + '/' + item.id_ + '. ' + item.title
             if os.name != 'posix':
                 # 如果不是linux，那么就要吧后面的问号去掉
