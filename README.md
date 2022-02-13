@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-02-13 14:27:44, I have solved **209** / **2172** problems while **478** are still locked.
+Until 2022-02-13 14:42:17, I have solved **211** / **2172** problems while **478** are still locked.
 
-1. Python: 190 
+1. Python: 192 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -2189,7 +2189,7 @@ Note: : locked means you need to buy a book from LeetCode
 |2166|[Design Bitset](https://leetcode.com/problems/design-bitset/description/) |Medium|||||||
 |2167|[Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/description/) |Hard|||||||
 |2168|[Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/description/) :lock:|Medium|||||||
-|2169|[Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) |Easy|||||||
-|2170|[Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/description/) |Medium|||||||
+|2169|[Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2169.%20Count%20Operations%20to%20Obtain%20Zero)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2169.%20Count%20Operations%20to%20Obtain%20Zero/2169.py)||||
+|2170|[Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2170.%20Minimum%20Operations%20to%20Make%20the%20Array%20Alternating)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2170.%20Minimum%20Operations%20to%20Make%20the%20Array%20Alternating/2170.py)||||
 |2171|[Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/) |Medium|||||||
 |2172|[Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/description/) |Hard|||||||
