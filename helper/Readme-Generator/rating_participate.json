@@ -1,0 +1,224 @@
+[
+    {
+        "name": "Weekly Contest 2",
+        "date": "2016-08-28 09:30:00",
+        "rating": 1500.0,
+        "ranking": 0
+    },
+    {
+        "name": "Weekly Contest 121",
+        "date": "2019-01-27 10:30:00",
+        "rating": 1533.889,
+        "ranking": 1220
+    },
+    {
+        "name": "Weekly Contest 122",
+        "date": "2019-02-03 10:30:00",
+        "rating": 1526.476,
+        "ranking": 1549
+    },
+    {
+        "name": "Weekly Contest 126",
+        "date": "2019-03-03 10:30:00",
+        "rating": 1558.884,
+        "ranking": 1108
+    },
+    {
+        "name": "Weekly Contest 127",
+        "date": "2019-03-10 10:30:00",
+        "rating": 1563.335,
+        "ranking": 1657
+    },
+    {
+        "name": "Weekly Contest 130",
+        "date": "2019-03-31 10:30:00",
+        "rating": 1568.451,
+        "ranking": 1665
+    },
+    {
+        "name": "Weekly Contest 132",
+        "date": "2019-04-14 10:30:00",
+        "rating": 1569.804,
+        "ranking": 1679
+    },
+    {
+        "name": "Weekly Contest 133",
+        "date": "2019-04-21 10:30:00",
+        "rating": 1596.248,
+        "ranking": 979
+    },
+    {
+        "name": "Weekly Contest 137",
+        "date": "2019-05-19 10:30:00",
+        "rating": 1586.317,
+        "ranking": 1779
+    },
+    {
+        "name": "Weekly Contest 144",
+        "date": "2019-07-07 10:30:00",
+        "rating": 1603.503,
+        "ranking": 1098
+    },
+    {
+        "name": "Biweekly Contest 4",
+        "date": "2019-07-13 22:30:00",
+        "rating": 1641.75,
+        "ranking": 246
+    },
+    {
+        "name": "Weekly Contest 145",
+        "date": "2019-07-14 10:30:00",
+        "rating": 1693.245,
+        "ranking": 396
+    },
+    {
+        "name": "Weekly Contest 146",
+        "date": "2019-07-21 10:30:00",
+        "rating": 1715.228,
+        "ranking": 753
+    },
+    {
+        "name": "Biweekly Contest 5",
+        "date": "2019-07-27 22:30:00",
+        "rating": 1706.528,
+        "ranking": 576
+    },
+    {
+        "name": "Weekly Contest 147",
+        "date": "2019-07-28 10:30:00",
+        "rating": 1741.284,
+        "ranking": 510
+    },
+    {
+        "name": "Biweekly Contest 6",
+        "date": "2019-08-10 22:30:00",
+        "rating": 1794.247,
+        "ranking": 106
+    },
+    {
+        "name": "Weekly Contest 149",
+        "date": "2019-08-11 10:30:00",
+        "rating": 1787.464,
+        "ranking": 1224
+    },
+    {
+        "name": "Weekly Contest 150",
+        "date": "2019-08-18 10:30:00",
+        "rating": 1842.906,
+        "ranking": 203
+    },
+    {
+        "name": "Biweekly Contest 7",
+        "date": "2019-08-24 22:30:00",
+        "rating": 1853.767,
+        "ranking": 272
+    },
+    {
+        "name": "Weekly Contest 151",
+        "date": "2019-08-25 10:30:00",
+        "rating": 1827.52,
+        "ranking": 1703
+    },
+    {
+        "name": "Weekly Contest 152",
+        "date": "2019-09-01 10:30:00",
+        "rating": 1830.212,
+        "ranking": 848
+    },
+    {
+        "name": "Biweekly Contest 8",
+        "date": "2019-09-07 22:30:00",
+        "rating": 1823.088,
+        "ranking": 467
+    },
+    {
+        "name": "Weekly Contest 153",
+        "date": "2019-09-08 10:30:00",
+        "rating": 1852.605,
+        "ranking": 448
+    },
+    {
+        "name": "Weekly Contest 154",
+        "date": "2019-09-15 10:30:00",
+        "rating": 1825.328,
+        "ranking": 2130
+    },
+    {
+        "name": "Biweekly Contest 9",
+        "date": "2019-09-21 22:30:00",
+        "rating": 1821.66,
+        "ranking": 571
+    },
+    {
+        "name": "Weekly Contest 155",
+        "date": "2019-09-22 10:30:00",
+        "rating": 1846.171,
+        "ranking": 552
+    },
+    {
+        "name": "Biweekly Contest 12",
+        "date": "2019-11-02 22:30:00",
+        "rating": 1810.81,
+        "ranking": 1306
+    },
+    {
+        "name": "Weekly Contest 161",
+        "date": "2019-11-03 10:30:00",
+        "rating": 1808.554,
+        "ranking": 1164
+    },
+    {
+        "name": "Weekly Contest 162",
+        "date": "2019-11-10 10:30:00",
+        "rating": 1780.573,
+        "ranking": 2267
+    },
+    {
+        "name": "Biweekly Contest 14",
+        "date": "2019-11-30 22:30:00",
+        "rating": 1778.825,
+        "ranking": 628
+    },
+    {
+        "name": "Weekly Contest 165",
+        "date": "2019-12-01 10:30:00",
+        "rating": 1775.373,
+        "ranking": 1283
+    },
+    {
+        "name": "Weekly Contest 166",
+        "date": "2019-12-08 10:30:00",
+        "rating": 1761.026,
+        "ranking": 1779
+    },
+    {
+        "name": "Biweekly Contest 15",
+        "date": "2019-12-14 22:30:00",
+        "rating": 1753.124,
+        "ranking": 790
+    },
+    {
+        "name": "Weekly Contest 167",
+        "date": "2019-12-15 10:30:00",
+        "rating": 1751.052,
+        "ranking": 1401
+    },
+    {
+        "name": "Weekly Contest 168",
+        "date": "2019-12-22 10:30:00",
+        "rating": 1809.577,
+        "ranking": 242
+    },
+    {
+        "name": "Biweekly Contest 16",
+        "date": "2019-12-28 22:30:00",
+        "rating": 1809.393,
+        "ranking": 597
+    },
+    {
+        "name": "Weekly Contest 169",
+        "date": "2019-12-29 10:30:00",
+        "rating": 1831.664,
+        "ranking": 594
+    }
+]
