@@ -3,6 +3,8 @@ import json
 
 import requests
 
+username_to_fetch = 'lmm333'  # eg: watashi
+
 headers = {
     'authority': 'leetcode.com',
     'sec-ch-ua': '" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"',
@@ -17,7 +19,7 @@ headers = {
     'sec-fetch-site': 'same-origin',
     'sec-fetch-mode': 'cors',
     'sec-fetch-dest': 'empty',
-    'referer': 'https://leetcode.com/lmm333/',
+    'referer': 'https://leetcode.com/{}/'.format(username_to_fetch),
     'accept-language': 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,ko;q=0.6',
     # 这里不需要 cookie 也可以抓取到数据, 处于安全考虑，源码里不放 cookie 
     # 'cookie': '',
@@ -26,7 +28,7 @@ headers = {
 json_data = {
     'operationName': 'getContestRankingData',
     'variables': {
-        'username': 'lmm333',
+        'username': username_to_fetch,
     },
     'query': 'query getContestRankingData($username: String!) {\n  userContestRanking(username: $username) {\n    attendedContestsCount\n    rating\n    globalRanking\n    __typename\n  }\n  userContestRankingHistory(username: $username) {\n    contest {\n      title\n      startTime\n      __typename\n    }\n    rating\n    ranking\n    __typename\n  }\n}\n',
 }
