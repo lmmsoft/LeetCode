@@ -2,6 +2,10 @@
 # Created by Bruce yuan on 18-1-22.
 # Updated by lmmsoft on 19-1-3
 
+# 使用说明：
+# 如果比赛后发现新题目没有加入列表，说明cookie太旧了，需要更新；
+# cookie更新方法：打开网页F12, 找到网络->任意请求， 选择复制cURL格式，找到cookie: xx 粘贴到headers=xx 下面
+
 import json
 import os
 import time
@@ -80,7 +84,7 @@ class TableInform:
         # return byte. content type is byte
         headers = {
             'authority': 'leetcode.com',
-            'cookie': '__cfduid=d81ff4a0bd0171e9eec761321521a17641558490779; _ga=GA1.2.1847416064.1558490776; __stripe_mid=fa0dd4de-74e5-4973-9727-4256261e96c8; csrftoken=BnbOlYSLXq7BoymEvrRrjS6PSs2cZ1Y62GbXRgouitTN2N0cIHBqH0Moywuyk3r3; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTQ3NzUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlZGRkNGJjMGQzYjU2YTlhOGNmMDFiNjk3MWMwYTFiNmM5MjllYTg0IiwiaWQiOjU0Nzc1LCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIiwidXNlcm5hbWUiOiJsbW0zMzMiLCJ1c2VyX3NsdWciOiJsbW0zMzMiLCJhdmF0YXIiOiJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzA3OTcyMGMxZDQzZTI3OWMxOGRkNGMwNmIxNWQ5MWIyLnBuZz9zPTIwMCIsInRpbWVzdGFtcCI6IjIwMTktMDgtMTIgMTY6NTI6MzAuNDU3ODY0KzAwOjAwIiwiSVAiOiIxODMuMTI4LjEwOC4yMDAiLCJJREVOVElUWSI6IjY5YjhlZWUyNTEwZTdkMTIzYzc2ZDljNjJhNjJkMGY3IiwiX3Nlc3Npb25fZXhwaXJ5IjoxMjA5NjAwfQ.iyQXqKJkouaihb8w3n6HgTzfXK-LloxKlGCAUFqJVSU; _gid=GA1.2.748541151.1566575768; c_a_u=bG1tMzMz:1i1lav:uUK-rC-r-U-airp5aaxhO2p2fqE; __atuvc=29%7C31%2C5%7C32%2C3%7C33%2C18%7C34%2C7%7C35',
+            'cookie': '_ga=GA1.2.755329268.1642081695; gr_user_id=b2af6464-23c8-489e-acc9-9eeaa2a6adca; 87b5a3c3f1a55520_gr_last_sent_cs1=lmm333; _gid=GA1.2.1705549918.1644636220; csrftoken=t7HgcxjGtVuVmx1UoZjTB2OExLTjMJZwmiy4Zh1w08i3YcfSLaUZSl3J6oyt4T59; c_a_u=bG1tMzMz:1nIj8B:kILeU4lJ3TzprzhvBuEYye928no; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNTQ3NzUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhbGxhdXRoLmFjY291bnQuYXV0aF9iYWNrZW5kcy5BdXRoZW50aWNhdGlvbkJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1YjRkNzY0MGM3YjAxOWIzOWUyMWEzZDYyMzQ2YzYwZjI0MWMzN2I2IiwiaWQiOjU0Nzc1LCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIiwidXNlcm5hbWUiOiJsbW0zMzMiLCJ1c2VyX3NsdWciOiJsbW0zMzMiLCJhdmF0YXIiOiJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzA3OTcyMGMxZDQzZTI3OWMxOGRkNGMwNmIxNWQ5MWIyLnBuZz9zPTIwMCIsInJlZnJlc2hlZF9hdCI6MTY0NDYzNjIzMiwiaXAiOiIxMTUuMTk2LjEzNy42MSIsImlkZW50aXR5IjoiNDliOTVkY2FlYmEyNDkzOTQ5N2U1NzIwZWVkOTViM2QiLCJzZXNzaW9uX2lkIjoxNzkyMzMxNywiX3Nlc3Npb25fZXhwaXJ5IjoxMjA5NjAwLCJjb252ZXJzaW9uX3RhcmdldHMiOnsiUnh0YVZ4RUtBUVJIR1VWUVNoZ1hGUU1VVEJRR0FCd0VEUXRCRkZkWFFsOGFIVkpRRmhzWEFnPT0iOnsic2VuZF9zZXNzaW9uX2lkcyI6WzE4MDZdLCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIn0sIlJ4dGFWeEVLQVFSSEQxQmNEZ01MWFFzWFcwMEFIQVpkV2tBRkZnPT0iOnsic2VuZF9zZXNzaW9uX2lkcyI6WzE4MDZdLCJlbWFpbCI6ImxtbTMzM0AxMjYuY29tIn19fQ.vlGx9T5XmlaYHJhm3_S8X1sXOgmedR3hCo1tA-g4uto; __atuvc=3%7C7; 87b5a3c3f1a55520_gr_session_id=8f118788-457e-4669-b401-fdd9ebe71874; 87b5a3c3f1a55520_gr_last_sent_sid_with_cs1=8f118788-457e-4669-b401-fdd9ebe71874; 87b5a3c3f1a55520_gr_session_id_8f118788-457e-4669-b401-fdd9ebe71874=true; NEW_PROBLEMLIST_PAGE=1; 87b5a3c3f1a55520_gr_cs1=lmm333; _gat=1',
         }
         content = requests.get('https://leetcode.com/api/problems/all/', headers=headers).content
         # get all problems
@@ -122,8 +126,8 @@ class TableInform:
             os.mkdir(solution_folder)
 
         for item in self.table_item.values():
-            if '/' in item.title: # 标题里有 / 导致目录生成失败，把 / 改成 _
-                item.title = item.title.replace('/','_')
+            if '/' in item.title:  # 标题里有 / 导致目录生成失败，把 / 改成 _
+                item.title = item.title.replace('/', '_')
             question_folder_name = solution_folder + '/' + item.id_ + '. ' + item.title
             if os.name != 'posix':
                 # 如果不是linux，那么就要吧后面的问号去掉
