@@ -48,7 +48,7 @@ Note that the array cannot be converted to [2,2,2,2,2] because in this case nums
     - 如果奇偶位本身不同，就各自换成各自子数组里出现次数最多的数
     - 如果奇偶位本身相同，有一个要换成子数组里出现次数第二多的数
         - 注意，如果有可能子数组数字都一样，那么第二多的次数就是0
-
+    - Python 的 Counter 有 most_common 方法，使用 most_common(2) 可以大大简化代码
 Language: **Python3**
 
 ```python3

@@ -9,7 +9,7 @@ class Solution:
         # 注意，如果有可能子数组数字都一样，那么第二多的次数就是0
         return ji2[0][1], 0
 
-    def minimumOperations(self, nums: List[int]) -> int:
+    def minimumOperations2(self, nums: List[int]) -> int:
         if len(nums) == 1:
             return 0
         # 奇偶数列
@@ -39,6 +39,21 @@ class Solution:
             cnt_operation_1 = len(ji_list) - ji_first_count + len(ou_list) - ou_second_count
             cnt_operation_2 = len(ji_list) - ji_second_count + len(ou_list) - ou_first_count
             return min(cnt_operation_1, cnt_operation_2)
+
+    def minimumOperations(self, nums: List[int]) -> int:
+        if len(set(nums)) == 1:
+            return len(nums) // 2
+
+        # use Counter to do statistics
+        odd = Counter([n for i, n in enumerate(nums) if i % 2 == 1])
+        even = Counter([n for i, n in enumerate(nums) if i % 2 == 0])
+
+        cnt = max(odd_count + even_count
+                  for odd_number, odd_count in odd.most_common(2)
+                  for even_number, even_count in even.most_common(2)
+                  if odd_number != even_number
+                  )
+        return len(nums) - cnt
 
 
 assert Solution().minimumOperations([3]) == 0
