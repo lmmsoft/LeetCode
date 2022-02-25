@@ -92,3 +92,5 @@
 |1300| |Medium|暴力，二分，三分| |
 |1301|DP|Hard|TBD3|
 |1302|Binary Tree|Medium|水题|
+|1920|List|Easy|水题|
+|2170| |Easy|水题|

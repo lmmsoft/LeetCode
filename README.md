@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-02-13 15:27:16, I have solved **212** / **2172** problems while **478** are still locked.
+Until 2022-02-25 18:47:11, I have solved **214** / **2184** problems while **482** are still locked.
 
-1. Python: 193 
+1. Python: 195 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -1940,7 +1940,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1917|[Leetcodify Friends Recommendations](https://leetcode.com/problems/leetcodify-friends-recommendations/description/) :lock:|Hard|||||||
 |1918|[Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/description/) :lock:|Medium|||||||
 |1919|[Leetcodify Similar Friends](https://leetcode.com/problems/leetcodify-similar-friends/description/) :lock:|Hard|||||||
-|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) |Easy|||||||
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1920.%20Build%20Array%20from%20Permutation)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/1920.%20Build%20Array%20from%20Permutation/1920.py)||||
 |1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/) |Medium|||||||
 |1922|[Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) |Medium|||||||
 |1923|[Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/description/) |Hard|||||||
@@ -2192,4 +2192,16 @@ Note: : locked means you need to buy a book from LeetCode
 |2169|[Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2169.%20Count%20Operations%20to%20Obtain%20Zero)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2169.%20Count%20Operations%20to%20Obtain%20Zero/2169.py)||||
 |2170|[Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2170.%20Minimum%20Operations%20to%20Make%20the%20Array%20Alternating)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2170.%20Minimum%20Operations%20to%20Make%20the%20Array%20Alternating/2170.py)||||
 |2171|[Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2171.%20Removing%20Minimum%20Number%20of%20Magic%20Beans)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2171.%20Removing%20Minimum%20Number%20of%20Magic%20Beans/2171.py)||||
-|2172|[Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/description/) |Hard|||||||
+|2172|[Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/description/) |Hard|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2172.%20Maximum%20AND%20Sum%20of%20Array/2172.py)||||
+|2173|[Longest Winning Streak](https://leetcode.com/problems/longest-winning-streak/description/) :lock:|Hard|||||||
+|2174|[Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/description/) :lock:|Medium|||||||
+|2175|[The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/description/) :lock:|Medium|||||||
+|2176|[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/) |Easy|||||||
+|2177|[Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/description/) |Medium|||||||
+|2178|[Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/description/) |Medium|||||||
+|2179|[Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) |Hard|||||||
+|2180|[Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/description/) |Easy|||||||
+|2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/) |Medium|||||||
+|2182|[Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/description/) |Medium|||||||
+|2183|[Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/) |Hard|||||||
+|2184|[Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/) :lock:|Medium|||||||
