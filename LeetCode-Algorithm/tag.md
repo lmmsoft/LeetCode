@@ -13,6 +13,7 @@
 |67|String|Easy|二进制转换| |
 |69|Binary Search|Easy|二分 sqrt| |
 |74|Array|Medium|二分|
+|145|ListNode|Easy|后序遍历(裸题)|
 |190| |Easy|进制转换|
 |198|DP|Easy|递推|
 |386|Array|Easy|水题|
