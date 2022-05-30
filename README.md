@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-05-30 15:27:34, I have solved **215** / **2289** problems while **477** are still locked.
+Until 2022-05-30 15:53:44, I have solved **216** / **2289** problems while **477** are still locked.
 
-1. Python: 196 
+1. Python: 197 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -2297,7 +2297,7 @@ Note: : locked means you need to buy a book from LeetCode
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) |Medium|||||||
 |2276|[Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/description/) |Hard|||||||
 |2277|[Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/description/) :lock:|Hard|||||||
-|2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/) |Easy|||||||
+|2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2278.%20Percentage%20of%20Letter%20in%20String)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/2278.%20Percentage%20of%20Letter%20in%20String/2278.py)||||
 |2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) |Medium|||||||
 |2280|[Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/description/) |Medium|||||||
 |2281|[Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/) |Hard|||||||
