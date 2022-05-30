@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-05-19 16:31:20, I have solved **215** / **2276** problems while **475** are still locked.
+Until 2022-05-30 15:27:34, I have solved **215** / **2289** problems while **477** are still locked.
 
 1. Python: 196 
 2. C++: 13 
@@ -375,7 +375,6 @@ Note: : locked means you need to buy a book from LeetCode
 |0352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|||||||
 |0353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) :lock:|Medium|||||||
 |0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |Hard|||||||
-|0355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/) |Medium|||||||
 |0356|[Line Reflection](https://leetcode.com/problems/line-reflection/description/) :lock:|Medium|||||||
 |0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/) |Medium|||||||
 |0358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/) :lock:|Hard|||||||
@@ -2297,3 +2296,17 @@ Note: : locked means you need to buy a book from LeetCode
 |2274|[Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/description/) |Medium|||||||
 |2275|[Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) |Medium|||||||
 |2276|[Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/description/) |Hard|||||||
+|2277|[Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/description/) :lock:|Hard|||||||
+|2278|[Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/) |Easy|||||||
+|2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/) |Medium|||||||
+|2280|[Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/description/) |Medium|||||||
+|2281|[Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/) |Hard|||||||
+|2282|[Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/description/) :lock:|Medium|||||||
+|2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/) |Easy|||||||
+|2284|[Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/description/) |Medium|||||||
+|2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/) |Medium|||||||
+|2286|[Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/description/) |Hard|||||||
+|2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/) |Easy|||||||
+|2288|[Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/description/) |Medium|||||||
+|2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) |Medium|||||||
+|2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) |Hard|||||||
