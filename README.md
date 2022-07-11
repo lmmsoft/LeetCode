@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-05-30 16:02:53, I have solved **218** / **2289** problems while **477** are still locked.
+Until 2022-07-11 11:11:42, I have solved **219** / **2338** problems while **489** are still locked.
 
-1. Python: 199 
+1. Python: 200 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -73,7 +73,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|||||||
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|||||||
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|||||||
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray/solution.py)||||
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0053.%20Maximum%20Subarray/solution.py)||||
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|||||||
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|||||||
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|||||||
@@ -175,7 +175,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|||||||
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|||||||
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|||||||
-|0155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|||||||
+|0155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Medium|||||||
 |0156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|||||||
 |0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|||||||
 |0158|[Read N Characters Given read4 II - Call Multiple Times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|||||||
@@ -219,7 +219,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) |Easy|||||||
 |0197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) |Easy|||||||
 |0198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0198.%20House%20Robber)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0198.%20House%20Robber/198.py)||||
-|0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|||||||
+|0199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0199.%20Binary%20Tree%20Right%20Side%20View/199.py)||||
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|||||||
 |0201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|||||||
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|||||||
@@ -375,6 +375,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|||||||
 |0353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) :lock:|Medium|||||||
 |0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/) |Hard|||||||
+|0355|[Design Twitter](https://leetcode.com/problems/design-twitter/description/) |Medium|||||||
 |0356|[Line Reflection](https://leetcode.com/problems/line-reflection/description/) :lock:|Medium|||||||
 |0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/) |Medium|||||||
 |0358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/) :lock:|Hard|||||||
@@ -580,7 +581,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/description/) |Medium|||||||
 |0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |Easy|||||||
 |0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|||||||
-|0561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|||||||
+|0561|[Array Partition](https://leetcode.com/problems/array-partition/description/) |Easy|||||||
 |0562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|||||||
 |0563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|||||||
 |0564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|||||||
@@ -735,7 +736,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) |Medium|||||||
 |0714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |Medium|||||||
 |0715|[Range Module](https://leetcode.com/problems/range-module/description/) |Hard|||||||
-|0716|[Max Stack](https://leetcode.com/problems/max-stack/description/) :lock:|Easy|||||||
+|0716|[Max Stack](https://leetcode.com/problems/max-stack/description/) :lock:|Hard|||||||
 |0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|||||||
 |0718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|||||||
 |0719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |Hard|||||||
@@ -805,7 +806,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|||||||
 |0784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Medium|||||||
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|||||||
-|0786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|||||||
+|0786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Medium|||||||
 |0787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|||||||
 |0788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0788.%20Rotated%20Digits)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0788.%20Rotated%20Digits/788.py)||||
 |0789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|||||||
@@ -871,7 +872,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Medium|||||||
 |0850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|||||||
 |0851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|||||||
-|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/852.py)||||
+|0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0852.%20Peak%20Index%20in%20a%20Mountain%20Array/852.py)||||
 |0853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|||||||
 |0854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|||||||
 |0855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|||||||
@@ -956,7 +957,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|||||||
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|||||||
 |0936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|||||||
-|0937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Easy|||||||
+|0937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Medium|||||||
 |0938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|||||||
 |0939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|||||||
 |0940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|||||||
@@ -2310,3 +2311,51 @@ Note: : locked means you need to buy a book from LeetCode
 |2288|[Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/description/) |Medium|||||||
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/) |Medium|||||||
 |2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/) |Hard|||||||
+|2291|[Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/) :lock:|Medium|||||||
+|2292|[Products With Three or More Orders in Two Consecutive Years](https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years/description/) :lock:|Medium|||||||
+|2293|[Min Max Game](https://leetcode.com/problems/min-max-game/description/) |Easy|||||||
+|2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) |Medium|||||||
+|2295|[Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/description/) |Medium|||||||
+|2296|[Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/description/) |Hard|||||||
+|2297|[Jump Game VIII](https://leetcode.com/problems/jump-game-viii/description/) :lock:|Medium|||||||
+|2298|[Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/description/) :lock:|Medium|||||||
+|2299|[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/) |Easy|||||||
+|2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) |Medium|||||||
+|2301|[Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/description/) |Hard|||||||
+|2302|[Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/) |Hard|||||||
+|2303|[Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/) |Easy|||||||
+|2304|[Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/) |Medium|||||||
+|2305|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/) |Medium|||||||
+|2306|[Naming a Company](https://leetcode.com/problems/naming-a-company/description/) |Hard|||||||
+|2307|[Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations/description/) :lock:|Hard|||||||
+|2308|[Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/description/) :lock:|Medium|||||||
+|2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/description/) |Easy|||||||
+|2310|[Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/description/) |Medium|||||||
+|2311|[Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) |Medium|||||||
+|2312|[Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/description/) |Hard|||||||
+|2313|[Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/description/) :lock:|Hard|||||||
+|2314|[The First Day of the Maximum Recorded Degree in Each City](https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/description/) :lock:|Medium|||||||
+|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/) |Easy|||||||
+|2316|[Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/description/) |Medium|||||||
+|2317|[Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/description/) |Medium|||||||
+|2318|[Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/description/) |Hard|||||||
+|2319|[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/) |Easy|||||||
+|2320|[Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/) |Medium|||||||
+|2321|[Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/description/) |Hard|||||||
+|2322|[Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) |Hard|||||||
+|2323|[Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/description/) :lock:|Medium|||||||
+|2324|[Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/description/) :lock:|Medium|||||||
+|2325|[Decode the Message](https://leetcode.com/problems/decode-the-message/description/) |Easy|||||||
+|2326|[Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/) |Medium|||||||
+|2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) |Medium|||||||
+|2328|[Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) |Hard|||||||
+|2329|[Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/description/) :lock:|Medium|||||||
+|2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/description/) :lock:|Medium|||||||
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) |Easy|||||||
+|2332|[The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/) |Medium|||||||
+|2333|[Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/description/) |Medium|||||||
+|2334|[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/description/) |Hard|||||||
+|2335|[Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/) |Easy|||||||
+|2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) |Medium|||||||
+|2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/) |Medium|||||||
+|2338|[Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/) |Hard|||||||
