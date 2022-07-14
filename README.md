@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-13 10:50:49, I have solved **219** / **2338** problems while **489** are still locked.
+Until 2022-07-14 15:10:09, I have solved **220** / **2340** problems while **491** are still locked.
 
-1. Python: 200 
+1. Python: 201 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -125,7 +125,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|||||||
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|||||||
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cpp)|||
-|0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|||||||
+|0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/105.py)||||
 |0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|||||||
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Medium|||||||
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|||||||
@@ -2349,7 +2349,7 @@ Note: : locked means you need to buy a book from LeetCode
 |2326|[Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/) |Medium|||||||
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) |Medium|||||||
 |2328|[Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/) |Hard|||||||
-|2329|[Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/description/) :lock:|Medium|||||||
+|2329|[Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/description/) :lock:|Easy|||||||
 |2330|[Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/description/) :lock:|Medium|||||||
 |2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/) |Easy|||||||
 |2332|[The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/description/) |Medium|||||||
@@ -2359,3 +2359,5 @@ Note: : locked means you need to buy a book from LeetCode
 |2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/description/) |Medium|||||||
 |2337|[Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/) |Medium|||||||
 |2338|[Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/) |Hard|||||||
+|2339|[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/) :lock:|Easy|||||||
+|2340|[Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) :lock:|Medium|||||||
