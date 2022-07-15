@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-14 15:10:09, I have solved **220** / **2340** problems while **491** are still locked.
+Until 2022-07-15 10:30:47, I have solved **221** / **2340** problems while **491** are still locked.
 
-1. Python: 201 
+1. Python: 202 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -715,7 +715,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) |Medium|||||||
 |0693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) |Easy|||||||
 |0694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) :lock:|Medium|||||||
-|0695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Medium|||||||
+|0695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0695.%20Max%20Area%20of%20Island)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0695.%20Max%20Area%20of%20Island/695.py)||||
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) |Easy|||||||
 |0697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) |Easy|||||||
 |0698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) |Medium|||||||

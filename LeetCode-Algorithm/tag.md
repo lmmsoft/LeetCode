@@ -1,31 +1,32 @@
-|  题号  |类型|难度|tag|收藏|
+| 题号 |类型|难度|tag|收藏|
 |:----:|:---:|:---:|:--:|:---:|
-|   2  |ListNode|Medium|链表 基本操作|
-|   3  |String|Medium|滑动窗口 DP| |
-|   9  | |Easy|水题|
-|  13  | |Easy|罗马数字转换|
-|  14  |String|Easy|水题|
-|  20  |Stack|Easy|水题|
-|  28  |String|Easy|KMP裸题|TBD|
-|  33  |Array|Medium|二分|TBD 二分写法|
-|  38  |String|Easy|水题|一次写对也不容易|
-|  58  |String|Easy|水题| |
-|  67  |String|Easy|二进制转换| |
-|  69  |Binary Search|Easy|二分 sqrt| |
-|  74  |Array|Medium|二分|
-|  145 |ListNode|Easy|后序遍历(裸题)|
-|  190 | |Easy|进制转换|
-|  198 |DP|Easy|递推|
-|  386 |Array|Easy|水题|
-|  389 |String|Easy|水题|
-|  474 |DP|Medium|多重背包|TBD|
-|  541 |String|Easy|水题|读懂题意，使用合适库函数|
-|  551 |String|Easy|水题|读懂题意|
-|  657 | |Easy|水题|
-|  771 | |Easy|水题|
-|  788 | |Easy|水题|可以暴力O(N) 也可优化到O(logN)|
-|  852 |Array|Easy|二分 黄金分割|
-|  922 |Array|Easy|双指针|
+| 2 |ListNode|Medium|链表 基本操作|
+| 3 |String|Medium|滑动窗口 DP| |
+| 9 | |Easy|水题|
+| 13 | |Easy|罗马数字转换|
+| 14 |String|Easy|水题|
+| 20 |Stack|Easy|水题|
+| 28 |String|Easy|KMP裸题|TBD|
+| 33 |Array|Medium|二分|TBD 二分写法|
+| 38 |String|Easy|水题|一次写对也不容易|
+| 58 |String|Easy|水题| |
+| 67 |String|Easy|二进制转换| |
+| 69 |Binary Search|Easy|二分 sqrt| |
+| 74 |Array|Medium|二分|
+| 145 |ListNode|Easy|后序遍历(裸题)|
+| 190 | |Easy|进制转换|
+| 198 |DP|Easy|递推|
+| 386 |Array|Easy|水题|
+| 389 |String|Easy|水题|
+| 474 |DP|Medium|多重背包|TBD|
+| 541 |String|Easy|水题|读懂题意，使用合适库函数|
+| 551 |String|Easy|水题|读懂题意|
+| 657 | |Easy|水题|
+| 695 |Search|Medium| DFS搜索，也可配上并查集|
+| 771 | |Easy|水题|
+| 788 | |Easy|水题|可以暴力O(N) 也可优化到O(logN)|
+| 852 |Array|Easy|二分 黄金分割|
+| 922 |Array|Easy|双指针|
 | 1019 |ListNode|Medium|TBD-P3 比赛时候没做出来，赛后也看了很久没理解，不难的题目|
 | 1105 |DP|Medium|DP|TBD|
 | 1123 |二叉树|Medium|DFS|
