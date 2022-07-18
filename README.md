@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-15 10:30:47, I have solved **221** / **2340** problems while **491** are still locked.
+Until 2022-07-18 18:07:52, I have solved **222** / **2344** problems while **491** are still locked.
 
-1. Python: 202 
+1. Python: 203 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -580,7 +580,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|||||||
 |0558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/description/) |Medium|||||||
 |0559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) |Easy|||||||
-|0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|||||||
+|0560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0560.%20Subarray%20Sum%20Equals%20K)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0560.%20Subarray%20Sum%20Equals%20K/560.py)||||
 |0561|[Array Partition](https://leetcode.com/problems/array-partition/description/) |Easy|||||||
 |0562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|||||||
 |0563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|||||||
@@ -2361,3 +2361,7 @@ Note: : locked means you need to buy a book from LeetCode
 |2338|[Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/description/) |Hard|||||||
 |2339|[All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/description/) :lock:|Easy|||||||
 |2340|[Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/description/) :lock:|Medium|||||||
+|2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/) |Easy|||||||
+|2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) |Medium|||||||
+|2343|[Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) |Medium|||||||
+|2344|[Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) |Hard|||||||

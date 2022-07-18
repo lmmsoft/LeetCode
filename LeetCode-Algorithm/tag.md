@@ -1,11 +1,11 @@
 | 题号 |类型|难度|tag|收藏|
 |:----:|:---:|:---:|:--:|:---:|
-| 2 |ListNode|Medium|链表 基本操作|
+| 2 |ListNode|Medium|链表 基本操作| |
 | 3 |String|Medium|滑动窗口 DP| |
-| 9 | |Easy|水题|
-| 13 | |Easy|罗马数字转换|
-| 14 |String|Easy|水题|
-| 20 |Stack|Easy|水题|
+| 9 | |Easy|水题| |
+| 13 | |Easy|罗马数字转换| |
+| 14 |String|Easy|水题| |
+| 20 |Stack|Easy|水题| |
 | 28 |String|Easy|KMP裸题|TBD|
 | 33 |Array|Medium|二分|TBD 二分写法|
 | 38 |String|Easy|水题|一次写对也不容易|
@@ -21,6 +21,7 @@
 | 474 |DP|Medium|多重背包|TBD|
 | 541 |String|Easy|水题|读懂题意，使用合适库函数|
 | 551 |String|Easy|水题|读懂题意|
+| 560 |Array|Medium|前缀和| |
 | 657 | |Easy|水题|
 | 695 |Search|Medium| DFS搜索，也可配上并查集|
 | 771 | |Easy|水题|
