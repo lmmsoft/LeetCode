@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-18 18:07:52, I have solved **222** / **2344** problems while **491** are still locked.
+Until 2022-07-26 16:04:10, I have solved **223** / **2354** problems while **493** are still locked.
 
-1. Python: 203 
+1. Python: 204 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -132,7 +132,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|||||||
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|||||||
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|||||||
-|0112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|||||||
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0112.%20Path%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0112.%20Path%20Sum/112.py)||||
 |0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|||||||
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|||||||
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|||||||
@@ -2365,3 +2365,13 @@ Note: : locked means you need to buy a book from LeetCode
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) |Medium|||||||
 |2343|[Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) |Medium|||||||
 |2344|[Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/description/) |Hard|||||||
+|2345|[Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/description/) :lock:|Medium|||||||
+|2346|[Compute the Rank as a Percentage](https://leetcode.com/problems/compute-the-rank-as-a-percentage/description/) :lock:|Medium|||||||
+|2347|[Best Poker Hand](https://leetcode.com/problems/best-poker-hand/description/) |Easy|||||||
+|2348|[Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) |Medium|||||||
+|2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/description/) |Medium|||||||
+|2350|[Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/description/) |Hard|||||||
+|2351|[First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/) |Easy|||||||
+|2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) |Medium|||||||
+|2353|[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) |Medium|||||||
+|2354|[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/description/) |Hard|||||||
