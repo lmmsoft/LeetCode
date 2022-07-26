@@ -14,6 +14,7 @@
 | 69 |Binary Search|Easy|二分 sqrt| |
 | 74 |Array|Medium|二分|
 | 112 |BinaryTree|Easy|二叉树查找|
+| 113 |BinaryTree|Medium|二叉树查找|
 | 145 |ListNode|Easy|后序遍历(裸题)|
 | 190 | |Easy|进制转换|
 | 198 |DP|Easy|递推|

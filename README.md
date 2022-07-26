@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-26 16:04:10, I have solved **223** / **2354** problems while **493** are still locked.
+Until 2022-07-26 18:32:30, I have solved **224** / **2354** problems while **493** are still locked.
 
-1. Python: 204 
+1. Python: 205 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -133,7 +133,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|||||||
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|||||||
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0112.%20Path%20Sum)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0112.%20Path%20Sum/112.py)||||
-|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|||||||
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0113.%20Path%20Sum%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0113.%20Path%20Sum%20II/113.py)||||
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|||||||
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|||||||
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Solution.cpp)|||
