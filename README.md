@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-26 18:32:30, I have solved **224** / **2354** problems while **493** are still locked.
+Until 2022-07-27 18:02:12, I have solved **224** / **2354** problems while **493** are still locked.
 
-1. Python: 205 
+1. Python: 206 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -156,7 +156,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/) |Medium|||||||
 |0134|[Gas Station](https://leetcode.com/problems/gas-station/description/) |Medium|||||||
 |0135|[Candy](https://leetcode.com/problems/candy/description/) |Hard|||||||
-|0136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy||||[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0136.%20Single%20Number/Solution.cpp)|||
+|0136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0136.%20Single%20Number)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0136.%20Single%20Number/136.py)|[C++](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0136.%20Single%20Number/136.cpp)|||
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|||||||
 |0138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|||||||
 |0139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|||||||
