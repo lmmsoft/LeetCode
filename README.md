@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-07-27 18:02:12, I have solved **224** / **2354** problems while **493** are still locked.
+Until 2022-09-06 16:43:08, I have solved **224** / **2402** problems while **505** are still locked.
 
 1. Python: 206 
 2. C++: 13 
@@ -48,7 +48,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|||||||
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.java)||
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0027.%20Remove%20Element/solution.py)||||
-|0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr())||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr()/28.py)||||
+|0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr())||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0028.%20Implement%20strStr()/28.py)||||
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|||||||
 |0030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|||||||
 |0031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|||||||
@@ -257,7 +257,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|||||||
 |0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|||||||
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|||||||
-|0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0237.%20Delete%20Node%20in%20a%20Linked%20List)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.java)||
+|0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0237.%20Delete%20Node%20in%20a%20Linked%20List)||||[Java](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.java)||
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|||||||
 |0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|||||||
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|||||||
@@ -1461,7 +1461,7 @@ Note: : locked means you need to buy a book from LeetCode
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) |Medium|||||||
 |1439|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/description/) |Hard|||||||
 |1440|[Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression/description/) :lock:|Medium|||||||
-|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) |Easy|||||||
+|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) |Medium|||||||
 |1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) |Medium|||||||
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|||||||
 |1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |Hard|||||||
@@ -2375,3 +2375,51 @@ Note: : locked means you need to buy a book from LeetCode
 |2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/) |Medium|||||||
 |2353|[Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/) |Medium|||||||
 |2354|[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/description/) |Hard|||||||
+|2355|[Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/description/) :lock:|Hard|||||||
+|2356|[Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) :lock:|Easy|||||||
+|2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/) |Easy|||||||
+|2358|[Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/description/) |Medium|||||||
+|2359|[Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) |Medium|||||||
+|2360|[Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) |Hard|||||||
+|2361|[Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/description/) :lock:|Hard|||||||
+|2362|[Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/description/) :lock:|Hard|||||||
+|2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/) |Easy|||||||
+|2364|[Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/) |Medium|||||||
+|2365|[Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/description/) |Medium|||||||
+|2366|[Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/) |Hard|||||||
+|2367|[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/) |Easy|||||||
+|2368|[Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/description/) |Medium|||||||
+|2369|[Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/) |Medium|||||||
+|2370|[Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/description/) |Medium|||||||
+|2371|[Minimize Maximum Value in a Grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/description/) :lock:|Hard|||||||
+|2372|[Calculate the Influence of Each Salesperson](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/description/) :lock:|Medium|||||||
+|2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/) |Easy|||||||
+|2374|[Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/description/) |Medium|||||||
+|2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/) |Medium|||||||
+|2376|[Count Special Integers](https://leetcode.com/problems/count-special-integers/description/) |Hard|||||||
+|2377|[Sort the Olympic Table](https://leetcode.com/problems/sort-the-olympic-table/description/) :lock:|Easy|||||||
+|2378|[Choose Edges to Maximize Score in a Tree](https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree/description/) :lock:|Medium|||||||
+|2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) |Easy|||||||
+|2380|[Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/) |Medium|||||||
+|2381|[Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii/description/) |Medium|||||||
+|2382|[Maximum Segment Sum After Removals](https://leetcode.com/problems/maximum-segment-sum-after-removals/description/) |Hard|||||||
+|2383|[Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/description/) |Easy|||||||
+|2384|[Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/) |Medium|||||||
+|2385|[Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/) |Medium|||||||
+|2386|[Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/) |Hard|||||||
+|2387|[Median of a Row Wise Sorted Matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/description/) :lock:|Medium|||||||
+|2388|[Change Null Values in a Table to the Previous Value](https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/description/) :lock:|Medium|||||||
+|2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/) |Easy|||||||
+|2390|[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) |Medium|||||||
+|2391|[Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/) |Medium|||||||
+|2392|[Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/description/) |Hard|||||||
+|2393|[Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/description/) :lock:|Medium|||||||
+|2394|[Employees With Deductions](https://leetcode.com/problems/employees-with-deductions/description/) :lock:|Medium|||||||
+|2395|[Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/) |Easy|||||||
+|2396|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/) |Medium|||||||
+|2397|[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/) |Medium|||||||
+|2398|[Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/) |Hard|||||||
+|2399|[Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/description/) |Easy|||||||
+|2400|[Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/description/) |Medium|||||||
+|2401|[Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/) |Medium|||||||
+|2402|[Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/) |Hard|||||||
