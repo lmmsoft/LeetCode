@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2022-09-06 16:43:08, I have solved **224** / **2402** problems while **505** are still locked.
+Until 2022-09-06 17:34:29, I have solved **225** / **2402** problems while **505** are still locked.
 
-1. Python: 206 
+1. Python: 207 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -834,7 +834,7 @@ Note: : locked means you need to buy a book from LeetCode
 |0811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Medium|||||||
 |0812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) |Easy|||||||
 |0813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) |Medium|||||||
-|0814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|||||||
+|0814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0814.%20Binary%20Tree%20Pruning)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/0814.%20Binary%20Tree%20Pruning/814.py)||||
 |0815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/) |Hard|||||||
 |0816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) |Medium|||||||
 |0817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|||||||

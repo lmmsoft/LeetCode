@@ -29,11 +29,12 @@
 | 695 |Search|Medium| DFS搜索，也可配上并查集|
 | 771 | |Easy|水题|
 | 788 | |Easy|水题|可以暴力O(N) 也可优化到O(logN)|
+| 814 |BinaryTree|Medium|二叉树处理|
 | 852 |Array|Easy|二分 黄金分割|
 | 922 |Array|Easy|双指针|
 | 1019 |ListNode|Medium|TBD-P3 比赛时候没做出来，赛后也看了很久没理解，不难的题目|
 | 1105 |DP|Medium|DP|TBD|
-| 1123 |二叉树|Medium|DFS|
+| 1123 |BinaryTree|Medium|DFS|
 | 1124 |Array|Medium|前缀和|TBD-P1|
 | 1125 |DP|Hard|搜索 状态压缩DP|TBD-P3|
 | 1146 | | |二分|
