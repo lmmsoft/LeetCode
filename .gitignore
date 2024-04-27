@@ -187,3 +187,6 @@ FakesAssemblies/
 
 # intelij
 .idea/
+
+# 虚拟目录
+venv
