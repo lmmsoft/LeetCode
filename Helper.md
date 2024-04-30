@@ -11,6 +11,7 @@
 # 题目描述 to Markdown
 
 - Chrome 安装 Leetcode Helper 插件，可以复制题目描述和提交的代码
+  - https://chromewebstore.google.com/detail/gleoepapfjkpcijfmchfabbnldejdnoj
 
 # Friend List
 

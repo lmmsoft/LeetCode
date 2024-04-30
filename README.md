@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2024-04-30 13:03:11, I have solved **225** / **3134** problems while **635** are still locked.
+Until 2024-04-30 14:39:24, I have solved **228** / **3134** problems while **635** are still locked.
 
-1. Python: 207 
+1. Python: 210 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -3151,7 +3151,7 @@ Note: : locked means you need to buy a book from LeetCode
 |3128|[Right Triangles](https://leetcode.com/problems/right-triangles/description/) |Medium|||||||
 |3129|[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) |Medium|||||||
 |3130|[Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/) |Hard|||||||
-|3131|[Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) |Easy|||||||
-|3132|[Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) |Medium|||||||
-|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) |Medium|||||||
+|3131|[Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3131.%20Find%20the%20Integer%20Added%20to%20Array%20I)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3131.%20Find%20the%20Integer%20Added%20to%20Array%20I/3131.py)||||
+|3132|[Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3132.%20Find%20the%20Integer%20Added%20to%20Array%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3132.%20Find%20the%20Integer%20Added%20to%20Array%20II/3132.py)||||
+|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3133.%20Minimum%20Array%20End)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3133.%20Minimum%20Array%20End/3133.py)||||
 |3134|[Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/) |Hard|||||||
