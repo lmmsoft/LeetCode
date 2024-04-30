@@ -7,7 +7,7 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2024-04-28 02:17:17, I have solved **225** / **3130** problems while **635** are still locked.
+Until 2024-04-30 12:59:37, I have solved **225** / **3134** problems while **635** are still locked.
 
 1. Python: 207 
 2. C++: 13 
@@ -3151,3 +3151,7 @@ Note: : locked means you need to buy a book from LeetCode
 |3128|[Right Triangles](https://leetcode.com/problems/right-triangles/description/) |Medium|||||||
 |3129|[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) |Medium|||||||
 |3130|[Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/) |Hard|||||||
+|3131|[Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/) |Easy|||||||
+|3132|[Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) |Medium|||||||
+|3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) |Medium|||||||
+|3134|[Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/) |Hard|||||||
