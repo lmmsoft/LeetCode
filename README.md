@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2024-04-30 14:39:24, I have solved **228** / **3134** problems while **635** are still locked.
+Until 2024-05-12 13:46:13, I have solved **229** / **3149** problems while **639** are still locked.
 
-1. Python: 210 
+1. Python: 211 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -3146,7 +3146,7 @@ Note: : locked means you need to buy a book from LeetCode
 |3123|[Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) |Hard|||||||
 |3124|[Find Longest Calls](https://leetcode.com/problems/find-longest-calls/description/) :lock:|Medium|||||||
 |3125|[Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/description/) :lock:|Medium|||||||
-|3126|[Server Utilization Time](https://leetcode.com/problems/server-utilization-time/description/) |Medium|||||||
+|3126|[Server Utilization Time](https://leetcode.com/problems/server-utilization-time/description/) :lock:|Medium|||||||
 |3127|[Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/description/) |Easy|||||||
 |3128|[Right Triangles](https://leetcode.com/problems/right-triangles/description/) |Medium|||||||
 |3129|[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/description/) |Medium|||||||
@@ -3155,3 +3155,18 @@ Note: : locked means you need to buy a book from LeetCode
 |3132|[Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3132.%20Find%20the%20Integer%20Added%20to%20Array%20II)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3132.%20Find%20the%20Integer%20Added%20to%20Array%20II/3132.py)||||
 |3133|[Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/) |Medium|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3133.%20Minimum%20Array%20End)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3133.%20Minimum%20Array%20End/3133.py)||||
 |3134|[Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/description/) |Hard|||||||
+|3135|[Equalize Strings by Adding or Removing Characters at Ends](https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends/description/) :lock:|Medium|||||||
+|3136|[Valid Word](https://leetcode.com/problems/valid-word/description/) |Easy|||||||
+|3137|[Minimum Number of Operations to Make Word K-Periodic](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/) |Medium|||||||
+|3138|[Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/) |Medium|||||||
+|3139|[Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/description/) |Hard|||||||
+|3140|[Consecutive Available Seats II](https://leetcode.com/problems/consecutive-available-seats-ii/description/) :lock:|Medium|||||||
+|3141|[Maximum Hamming Distances](https://leetcode.com/problems/maximum-hamming-distances/description/) :lock:|Hard|||||||
+|3142|[Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description/) |Easy|||||||
+|3143|[Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/) |Medium|||||||
+|3144|[Minimum Substring Partition of Equal Character Frequency](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/) |Medium|||||||
+|3145|[Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/description/) |Hard|||||||
+|3146|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) |Easy|||||||
+|3147|[Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3147.%20Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/3147.py)||||
+|3148|[Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/) |Medium|||||||
+|3149|[Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/) |Hard|||||||
