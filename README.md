@@ -7,9 +7,9 @@ Put my solutions in C++, Java, JavaScript, Python and Kotlin
 1. Use other language to solve problems for the 3rd time 
 
 ## Statistic
-Until 2024-05-12 13:46:13, I have solved **229** / **3149** problems while **639** are still locked.
+Until 2024-05-13 13:07:15, I have solved **230** / **3150** problems while **640** are still locked.
 
-1. Python: 211 
+1. Python: 212 
 2. C++: 13 
 3. Java: 12 
 4. JavaScript: 3 
@@ -3166,7 +3166,8 @@ Note: : locked means you need to buy a book from LeetCode
 |3143|[Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/description/) |Medium|||||||
 |3144|[Minimum Substring Partition of Equal Character Frequency](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/) |Medium|||||||
 |3145|[Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/description/) |Hard|||||||
-|3146|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) |Easy|||||||
+|3146|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/description/) |Easy|[Solution](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3146.%20Permutation%20Difference%20between%20Two%20Strings)||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3146.%20Permutation%20Difference%20between%20Two%20Strings/3146.py)||||
 |3147|[Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/) |Medium|||[Python](https://github.com/lmmsoft/LeetCode/blob/master/LeetCode-Algorithm/3147.%20Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/3147.py)||||
 |3148|[Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/description/) |Medium|||||||
 |3149|[Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/description/) |Hard|||||||
+|3150|[Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/description/) :lock:|Easy|||||||
